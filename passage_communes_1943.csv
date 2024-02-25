@@ -1,0 +1,4593 @@
+com_av,libelle_av,com_ap,libelle_ap
+89322,Rebourseaux,89439,Vergigny
+89325,Ronchères,89325,Ronchères
+89326,Rosoy,89326,Rosoy
+89330,Sacy,89441,Vermenton
+89340,Sainte-Colombe-sur-Loing,89420,Treigny-Perreuse-Sainte-Colombe
+89341,Saint-Cyr-les-Colons,89341,Saint-Cyr-les-Colons
+89343,Saint-Denis-sur-Ouanne,89086,Charny Orée de Puisaye
+89344,Saint-Fargeau,89344,Saint-Fargeau
+89352,Saint-Martin-des-Champs,89352,Saint-Martin-des-Champs
+89356,Saint-Martin-sur-Ocre,89334,Le Val d'Ocre
+89357,Saint-Martin-sur-Oreuse,89414,Thorigny-sur-Oreuse
+89358,Saint-Martin-sur-Ouanne,89086,Charny Orée de Puisaye
+89366,Saint-Romain-le-Preux,89388,Sépeaux-Saint Romain
+89369,Saint-Sérotin,89369,Saint-Sérotin
+89371,Sainte-Vertu,89371,Sainte-Vertu
+89372,Saint-Vinnemer,89407,Tanlay
+89381,Sceaux,89197,Guillon-Terre-Plaine
+89387,Sens,89387,Sens
+89389,Septfonds,89344,Saint-Fargeau
+89396,Sognes,89469,Perceneige
+89401,Sougères-sur-Sinotte,89263,Monéteau
+89420,Treigny,89420,Treigny
+89421,Trévilly,89197,Guillon-Terre-Plaine
+89425,Turny,89425,Turny
+89429,Vareilles,89411,Les Vallées de la Vanne
+89435,Vaux,89024,Auxerre
+89444,Vertilly,89469,Perceneige
+89448,Vignes,89197,Guillon-Terre-Plaine
+89454,Villefranche,89086,Charny Orée de Puisaye
+89455,Villegardin,89264,Montacher-Villegardin
+89457,Villemer,89196,Valravillon
+89473,Villiers-sur-Tholon,89003,Montholon
+89476,La Villotte,89472,Villiers-Saint-Benoît
+89484,Volgré,89003,Montholon
+90026,Chèvremont-Fontenelle,90026,Chèvremont
+90033,Delle,90033,Delle
+90038,Eschêne-Autrage,90082,Autrechêne
+90040,Étueffont-Bas,90041,Étueffont
+90048,Fontenelle,90048,Fontenelle
+90056,Joncherey,90056,Joncherey
+90063,Lebetain,90063,Lebetain
+90068,Meroux-Moval,90068,Meroux
+90073,Moval,90068,Meroux-Moval
+90092,Salbert,90042,Évette-Salbert
+90106,Vourvenans,90097,Trévenans
+91143,Châteaufort,78143,Châteaufort
+91173,Congerville,91613,Congerville-Thionville
+91182,Courcouronnes,91228,Évry-Courcouronnes
+91222,Estouches,91390,Le Mérévillois
+91620,Toussus-le-Noble,78620,Toussus-le-Noble
+95259,Gadancourt,95040,Avernes
+95282,Gouzangrez,95169,Commeny
+97351,Approuague (chef-lieu Régina),97301,Régina
+97354,Samson (chef-lieu Dégrad-Samson),97352,Saül
+97355,Moyenne-Mana (chef-lieu Mana),97306,Mana
+97359,La Comté (chef-lieu Dégrad-Edmond),97310,Roura
+50167,Dragey-Tombelaine,50167,Dragey
+50170,Écoquenéauville,50523,Sainte-Mère-Église
+50171,Éculleville,50041,La Hague
+50173,Équeurdreville-Hainneville,50129,Cherbourg-en-Cotentin
+50179,Ferrières,50591,Le Teilleul
+50180,Fervaches,50592,Tessy Bocage
+50187,Flottemanville-Hague,50041,La Hague
+50189,Fontenay,50436,Romagny Fontenay
+50191,Foucarville,50523,Sainte-Mère-Église
+50199,Genêts,50199,Genêts
+50201,Gerville-la-Forêt,50629,Vesly
+50202,Giéville,50601,Torigny-les-Villes
+50203,La Glacerie,50129,Cherbourg-en-Cotentin
+50204,Glatigny,50236,La Haye
+50206,La Gohannière,50597,Tirepied-sur-Sée
+50211,Gouberville,50142,Vicq-sur-Mer
+50212,Gourbesville,50400,Picauville
+50213,Gourfaleur,50546,Bourgvallées
+50220,Gréville-Hague,50041,La Hague
+50221,Grimesnil,50221,Grimesnil
+50223,Guéhébert,50419,Quettreville-sur-Sienne
+50224,Guilberville,50601,Torigny-les-Villes
+50226,Hainneville,50129,Cherbourg-en-Cotentin
+50242,Herqueville,50041,La Hague
+50244,Hérenguerville,50419,Quettreville-sur-Sienne
+50245,Heussé,50591,Le Teilleul
+50248,Le Hommet-d'Arthenay,50409,Pont-Hébert
+50249,Houesville,50099,Carentan les Marais
+50250,Houtteville,50400,Picauville
+50254,Husson,50591,Le Teilleul
+50255,Hyenville,50419,Quettreville-sur-Sienne
+50257,Jobourg,50041,La Hague
+50264,Lastelle,50405,Le Plessis-Lastelle
+50280,Lozon,50292,Marigny-Le-Lozon
+50284,Macey,50410,Pontorson
+50286,La Mancellière,50256,Isigny-le-Buat
+50287,La Mancellière-sur-Vire,50546,Bourgvallées
+50293,Martigny,50391,Grandparigny
+50301,Le Mesnil-Amand,50197,Gavray-sur-Sienne
+50303,Le Mesnil-Angot,50216,Graignes-Mesnil-Angot
+50306,Le Mesnil-Bœufs,50256,Isigny-le-Buat
+50307,Le Mesnil-Bonant,50197,Gavray
+50308,Le Mesnilbus,50550,Saint-Sauveur-Villages
+50309,Le Mesnil-Drey,50188,Folligny
+50313,Le Mesnil-Herman,50546,Bourgvallées
+50314,Le Mesnil-Hue,50197,Gavray
+50316,Le Mesnil-Opac,50363,Moyon Villages
+50317,Le Mesnil-Ozenne,50317,Le Mesnil-Ozenne
+50318,Le Mesnil-Rainfray,50260,Juvigny les Vallées
+50319,Le Mesnil-Raoult,50139,Condé-sur-Vire
+50320,Le Mesnil-Rogues,50197,Gavray-sur-Sienne
+50322,Le Mesnil-Thébault,50256,Isigny-le-Buat
+50323,Le Mesnil-Tôve,50260,Juvigny les Vallées
+50325,Le Mesnil-Vigot,50431,Remilly Les Marais
+50329,Milly,50391,Grandparigny
+50330,Mobecq,50236,La Haye
+50331,Moidrey,50410,Pontorson
+50333,Les Moitiers-en-Bauptois,50400,Picauville
+50337,Montanel,50487,Saint-James
+50339,Montchaton,50388,Orval sur Sienne
+50343,Montgardon,50236,La Haye
+50344,Montgothier,50256,Isigny-le-Buat
+50346,Montigny,50256,Isigny-le-Buat
+50348,Montmartin-en-Graignes,50099,Carentan-les-Marais
+50354,Montsurvent,50215,Gouville-sur-Mer
+50355,Montviron,50565,Sartilly-Baie-Bocage
+50358,Morsalines,50417,Quettehou
+50366,Nacqueville,50041,La Hague
+50367,Naftel,50256,Isigny-le-Buat
+50375,Néville-sur-Mer,50142,Vicq-sur-Mer
+50377,Noirpalu,50590,Le Tanu
+50380,Notre-Dame-d'Elle,50492,Saint-Jean-d'Elle
+50381,Notre-Dame-du-Touchet,50359,Mortain-Bocage
+50383,Octeville,50129,Cherbourg-Octeville
+50385,Omonville-la-Petite,50041,La Hague
+50386,Omonville-la-Rogue,50041,La Hague
+50392,Les Pas,50410,Pontorson
+50396,Les Perques,50082,Bricquebec-en-Cotentin
+50404,Placy-Montaigu,50444,Saint-Amand-Villages
+50406,Plomb,50535,Le Parc
+50410,Pontorson,50410,Pontorson
+50414,Précorbin,50492,Saint-Jean-d'Elle
+50415,Prétot-Sainte-Suzanne,50273,Montsenelle
+50416,Querqueville,50129,Cherbourg-en-Cotentin
+50418,Quettetot,50082,Bricquebec-en-Cotentin
+50424,Rancoudray,50456,Saint-Clément-Rancoudray
+50427,Ravenoville,50523,Sainte-Mère-Église
+50432,Réthoville,50142,Vicq-sur-Mer
+50434,La Rochelle-Normande,50565,Sartilly-Baie-Bocage
+50438,La Ronde-Haye,50550,Saint-Sauveur-Villages
+50439,Ronthon,50167,Dragey-Tombelaine
+50440,Rouffigny,50639,Villedieu-les-Poêles-Rouffigny
+50441,Rouxeville,50492,Saint-Jean-d'Elle
+50449,Saint-Aubin-du-Perron,50550,Saint-Sauveur-Villages
+50458,Saint-Côme-du-Mont,50099,Carentan les Marais
+50459,Sainte-Croix-de-Saint-Lô,50502,Saint-Lô
+50460,Sainte-Croix-Hague,50041,La Hague
+50463,Saint-Denis-le-Gast,50463,Saint-Denis-le-Gast
+50465,Saint-Ébremond-de-Bonfossé,50095,Canisy
+50466,Sainte-Eugienne,50597,Tirepied
+50470,Saint-Georges-de-Bohon,50564,Terre-et-Marais
+50477,Saint-Germain-des-Vaux,50041,La Hague
+50485,Saint-Hilaire-Petitville,50099,Carentan-les-Marais
+50494,Saint-Jean-du-Corail,50359,Mortain-Bocage
+50496,Saint-Jean-le-Thomas,50496,Saint-Jean-le-Thomas
+50497,Saint-Jores,50273,Montsenelle
+50501,Saint-Léger,50493,Saint-Jean-des-Champs
+50503,Saint-Lô-d'Ourville,50412,Port-Bail-sur-Mer
+50508,Sainte-Marie-du-Bois,50591,Le Teilleul
+50515,Saint-Martin-de-Landelles,50484,Saint-Hilaire-du-Harcouët
+50516,Saint-Martin-des-Champs,50025,Avranches
+50520,Saint-Martin-le-Hébert,50082,Bricquebec-en-Cotentin
+50524,Saint-Michel-de-la-Pierre,50550,Saint-Sauveur-Villages
+50526,Saint-Michel-des-Loups,50066,Jullouville
+50527,Saint-Nicolas-de-Coutances,50147,Coutances
+50528,Pierrepont-en-Cotentin,50528,Saint-Nicolas-de-Pierrepont
+50530,Saint-Nicolas-près-Granville,50218,Granville
+50531,Saint-Ovin,50531,Saint-Ovin
+50532,Saint-Pair-sur-Mer,50532,Saint-Pair-sur-Mer
+50534,Saint-Pellerin,50099,Carentan les Marais
+50544,Saint-Rémy-des-Landes,50236,La Haye
+50545,Saint-Romphaire,50546,Bourgvallées
+50547,Saint-Sauveur-de-Chaulieu,50514,Chaulieu
+50548,Saint-Sauveur-de-Pierrepont,50548,Saint-Sauveur-de-Pierrepont
+50555,Sainte-Suzanne-en-Bauptois,50273,Montsenelle
+50557,Saint-Symphorien-des-Monts,50090,Buais-Les-Monts
+50558,Saint-Symphorien-le-Valois,50236,La Haye
+50559,Saint-Symphorien-les-Buttes,50444,Saint-Amand
+50560,Saint-Thomas-de-Saint-Lô,50502,Saint-Lô
+50561,Saint-Ursin,50493,Saint-Jean-des-Champs
+50566,Saultchevreuil-du-Tronchet,50639,Villedieu-les-Poêles
+50571,Sébeville,50571,Sébeville
+50573,Servigny,50215,Gouville-sur-Mer
+50581,Soulles,50546,Bourgvallées
+50583,Sourdeval-les-Bois,50197,Gavray-sur-Sienne
+50586,Surville,50236,La Haye
+50595,Le Theil,50209,Gonneville-Le Theil
+50600,Tonneville,50041,La Hague
+50602,Tourlaville,50129,Cherbourg-en-Cotentin
+50605,Trelly,50419,Quettreville-sur-Sienne
+50608,Troisgots,50139,Condé-sur-Vire
+50609,Criqueville-au-Plain,50609,Turqueville
+50611,Urville-Nacqueville,50041,La Hague
+50614,Le Valdécie,50082,Bricquebec-en-Cotentin
+50620,Vasteville,50041,La Hague
+50622,Vaudrimesnil,50550,Saint-Sauveur-Villages
+50623,Vauville,50041,La Hague
+50625,Vengeons,50582,Sourdeval
+50627,Vergoncey,50487,Saint-James
+50630,Vessey,50410,Pontorson
+50631,Les Veys,50099,Carentan les Marais
+50632,Vezins,50256,Isigny-le-Buat
+50635,Vidouville,50492,Saint-Jean-d'Elle
+50636,Vierville,50099,Carentan-les-Marais
+50638,Villechien,50359,Mortain-Bocage
+50640,Villiers-le-Pré,50487,Saint-James
+50642,Vindefontaine,50400,Picauville
+50644,Virey,50484,Saint-Hilaire-du-Harcouët
+50645,Vrasville,50142,Cosqueville
+50646,Le Vrétot,50082,Bricquebec-en-Cotentin
+50649,Pont-Farcy,50592,Tessy-Bocage
+51011,Ante,51537,Sivry-Ante
+51021,Aulnay-aux-Planches,51158,Val-des-Marais
+51024,Aulnizeux,51158,Val-des-Marais
+51026,Auménancourt-le-Petit,51025,Auménancourt
+51063,Binson-et-Orquigny,51457,Cœur-de-la-Vallée
+51064,Bisseuil,51030,Aÿ-Champagne
+51067,Blaise-sous-Hauteville,51277,Sainte-Marie-du-Lac
+51096,Bussy-aux-Bois,51270,Gigny-Bussy
+51114,Champaubert-aux-Bois,51269,Giffaumont-Champaubert
+51123,Chantecoq,51269,Giffaumont
+51131,Charmontois-l'Abbé,51132,Les Charmontois
+51136,Châtillon-sur-Marne,51136,Châtillon-sur-Marne
+51159,Comblizy,51298,Igny-Comblizy
+51180,Courbetaux,51380,Montmirail
+51189,Courmelois,51571,Val-de-Vesle
+51201,Cuisles,51201,Cuisles
+51207,Dampierre-sur-Auve,51211,Dommartin-Dampierre
+51209,Daucourt,51228,Élise-Daucourt
+51221,L'Échelle,51380,Montmirail
+51257,Fontaine-sur-Coole,51244,Faux-Vésigneul
+51261,Fresne-lès-Reims,51075,Bourgogne-Fresne
+51271,Gionges,51612,Blancs-Coteaux
+51297,Hurlus,51659,Wargemoulin-Hurlus
+51300,Isle-sur-Marne,51300,Isle-sur-Marne
+51316,Larzicourt-Isle-sur-Marne,51316,Larzicourt
+51330,Louvercy,51326,Livry-Louvercy
+51331,Louvois,51564,Val de Livre
+51332,Lucy,51381,Montmort-Lucy
+51335,Maclaunay,51380,Montmirail
+51347,Mareuil-sur-Ay,51030,Aÿ-Champagne
+51366,Le Mesnil-lès-Hurlus,51368,Minaucourt-le-Mesnil-lès-Hurlus
+51383,Morains,51158,Val-des-Marais
+51394,Nauroy,51046,Beine-Nauroy
+51400,Neuville-sous-Arzillières,51017,Arzillières-Neuville
+51401,La Neuvillette,51454,Reims
+51405,Normée,51248,Fère-Champenoise
+51408,Nuisement-aux-Bois,51277,Sainte-Marie-du-Lac-Nuisement
+51411,Oger,51612,Blancs-Coteaux
+51427,Perthes-lès-Hurlus,51553,Souain-Perthes-lès-Hurlus
+51462,Ripont,51470,Rouvroy-Ripont
+51467,Rosay,51218,Val-de-Vière
+51481,Saint-Genest,51071,Bouchy-Saint-Genest
+51494,Sainte-Livière,52182,Éclaron-Braucourt-Sainte-Livière
+51540,Soigny,51264,Le Gault-Soigny
+51541,Soilly,51217,Dormans
+51554,Soudé-Notre-Dame-ou-le-Petit,51555,Soudé
+51561,Tahure,51544,Sommepy-Tahure
+51575,Toulon-la-Montagne,51611,Vert-Toulon
+51593,Varimont,51214,Dommartin-Varimont
+51615,Vésigneul-sur-Coole,51244,Faux-Vésigneul
+51637,Villers-sous-Châtillon,51457,Cœur-de-la-Vallée
+51651,Voipreux,51612,Blancs-Coteaux
+51653,Vouciennes,51648,Vitry-la-Ville
+51661,Wez,51571,Val-de-Vesle
+51664,Gernicourt,51171,Cormicy
+52009,Andilly-en-Bassigny,52009,Andilly-en-Bassigny
+52010,Anglus,52088,Ceffonds
+52016,Arbot,52016,Arbot
+52017,Arc-en-Barrois,52017,Arc-en-Barrois
+52018,Argentolles,52140,Colombey-les-Deux-Églises
+52020,Arnoncourt-sur-Apance,52273,Larivière-Arnoncourt
+52022,Aubepierre-sur-Aube,52022,Aubepierre-sur-Aube
+52024,Aubigny-sur-Badin,52405,Le Montsaugeonnais
+52026,Augeville,52187,Épizon
+52030,Autigny-le-Petit,52030,Autigny-le-Petit
+52031,Autreville-sur-la-Renne,52031,Autreville-sur-la-Renne
+52032,Avrainville,52497,Troisfontaines-la-Ville
+52033,Avrecourt,52033,Avrecourt
+52035,Hauts-de-Vingeanne,52035,Baissey
+52036,Balesmes-sur-Marne,52449,Saints-Geosmes
+52037,Bannes,52037,Bannes
+52041,Beaucharmoy,52400,Le Châtelet-sur-Meuse
+52042,Beauchemin,52042,Beauchemin
+52046,Bettoncourt-le-Haut,52187,Épizon
+52048,Bienville,52194,Eurville-Bienville
+52049,Biernes,52140,Colombey-les-Deux-Églises
+52052,Blaise,52140,Colombey-les-Deux-Églises
+52054,Blancheville,52008,Andelot-Blancheville
+52059,Bonnecourt,52059,Bonnecourt
+52068,Braucourt,52182,Éclaron-Braucourt
+52071,Bressoncourt,52491,Thonnance-les-Moulins
+52073,Breuil-sur-Marne,52123,Chevillon
+52077,Broncourt,52197,Fayl-la-Forêt
+52078,Brottes,52121,Chaumont
+52080,Brouthières,52491,Thonnance-les-Moulins
+52081,Buchey,52426,Rizaucourt-Buchey
+52086,Buxières-lès-Froncles,52211,Froncles-Buxières
+52096,Chamarandes,52125,Chamarandes-Choignes
+52098,Chameroy,52431,Rochetaillée
+52100,Champcourt,52140,Colombey-les-Deux-Églises
+52103,Champigny-sous-Varennes,52103,Champigny-sous-Varennes
+52105,Changey,52105,Changey
+52108,Charmes,52108,Charmes
+52111,Charmoilles,52432,Rolampont
+52112,Charmoy,52197,Fayl-la-Forêt
+52113,Chassigny-Aisey,52113,Chassigny
+52116,Chatenay-Vaudin,52116,Chatenay-Vaudin
+52117,Chatoillenot,52189,Le Val-d'Esnoms
+52124,Chézeaux,52124,Chézeaux
+52139,Colombey-lès-Choiseul,52074,Breuvannes-en-Bassigny
+52143,Corgirnon,52083,Champsevraine
+52144,Corlée,52269,Langres
+52145,Coublanc,52145,Coublanc
+52148,Courcelles-sur-Aujon,52450,Saint-Loup-sur-Aujon
+52150,Courcelles-Val-d'Esnoms,52189,Le Val-d'Esnoms
+52152,Couzon-sur-Coulange,52405,Le Montsaugeonnais
+52153,Créancey,52114,Châteauvillain
+52154,Crenay,52205,Foulain
+52156,Curel-Autigny,52156,Curel
+52163,Dampierre,52163,Dampierre
+52166,Dardenay,52126,Choilley-Dardenay
+52170,Dommarien,52170,Dommarien
+52176,Donnemarie,52353,Nogent
+52180,Droyes,52411,Rives Dervoises
+52186,Épinant,52332,Le Val-de-Meuse
+52188,Ériseul,52450,Saint-Loup-sur-Aujon
+52191,Essey-les-Eaux,52353,Nogent
+52192,Essey-les-Ponts,52114,Châteauvillain
+52202,Flornoy,52497,Troisfontaines-la-Ville
+52205,Foulain,52205,Foulain
+52207,Frécourt,52207,Frécourt
+52209,Fresnoy-en-Bassigny,52377,Parnoy-en-Bassigny
+52210,Frettes,70122,Champlitte
+52215,Genrupt,52060,Bourbonne-les-Bains
+52223,Gilley,52223,Gilley
+52224,Gonaincourt,52064,Bourmont
+52225,Goncourt,52064,Bourmont-entre-Meuse-et-Mouzon
+52226,Gourzon,52265,Bayard-sur-Marne
+52228,Grandchamp,52228,Grandchamp
+52236,Harméville,52288,Lezéville
+52238,Harricourt,52140,Colombey-les-Deux-Églises
+52239,Heuilley-Cotton,52529,Villegusien-le-Lac
+52240,Heuilley-le-Grand,52240,Heuilley-le-Grand
+52241,Hoëricourt,52448,Saint-Dizier
+52252,Jorquenay,52246,Humes-Jorquenay
+52255,Lacrète,52061,Bourdons-sur-Rognon
+52257,Laferté-sur-Amance,52257,Laferté-sur-Amance
+52259,Laharmand,52251,Jonchery
+52261,Lamargelle-aux-Bois,52094,Vals-des-Tilles
+52262,Lamothe-en-Blaisy,52140,Colombey les Deux Églises
+52263,Landéville,52173,Domremy-Landéville
+52266,Laneuville-à-Rémy,52331,La Porte du Der
+52266,Laneuville-à-Rémy,52266,Laneuville-à-Rémy
+52268,Laneuville-au-Bois,52288,Lezéville
+52270,Lannes,52432,Rolampont
+52278,Lavilleneuve-au-Roi,52278,Lavilleneuve-au-Roi
+52279,Lavilleneuve-aux-Fresnes,52140,Colombey-les-Deux-Églises
+52280,Lecey,52280,Lecey
+52281,Lécourt,52332,Le Val-de-Meuse
+52283,Lénizeul,52332,Val-de-Meuse
+52285,Leuchey,52285,Leuchey
+52293,Longeville-sur-la-Laines,52411,Rives Dervoises
+52296,Louze,52411,Rives Dervoises
+52297,Luzy-sur-Marne,52297,Luzy-sur-Marne
+52299,Maconcourt,52456,Saint-Urbain-Maconcourt
+52309,Marault,52058,Bologne
+52311,Marcilly-Plesnoy,52311,Marcilly-en-Bassigny
+52314,Marmesse,52114,Châteauvillain
+52317,Maulain,52332,Le Val-de-Meuse
+52323,Meuse,52332,Montigny-le-Roi
+52324,Meuvy,52074,Breuvannes-en-Bassigny
+52329,Montesson,52388,Pierremont-sur-Amance
+52332,Val-de-Meuse,52332,Val-de-Meuse
+52333,Montlandon,52242,Haute-Amance
+52334,Montormentier,52158,Cusey
+52335,Montot-sur-Rognon,52335,Montot-sur-Rognon
+52338,Montribourg,52114,Châteauvillain
+52339,Montsaon,52469,Semoutiers-Montsaon
+52340,Montsaugeon,52405,Le Montsaugeonnais
+52343,Morteau,52128,Cirey-lès-Mareilles
+52345,Musseau,52094,Vals-des-Tilles
+52348,Val-de-Gris,52348,Neuilly-l'Évêque
+52351,Nijon,52064,Bourmont-entre-Meuse-et-Mouzon
+52354,Noidant-Chatenoy,52354,Noidant-Chatenoy
+52359,Nully-Trémilly,52359,Nully
+52361,Odival,52353,Nogent
+52363,Orbigny-au-Val,52363,Orbigny-au-Val
+52368,Ormoy-sur-Aube,52274,Latrecey-Ormoy-sur-Aube
+52374,Hauts-Vals-sous-Nouroy,52374,Le Pailly
+52375,Palaiseul,52375,Palaiseul
+52379,Pautaines-Augeville,52187,Épizon
+52381,Percey-le-Pautel,52292,Vallinot
+52382,Percey-sous-Montormentier,52158,Cusey
+52387,Piépape,52529,Villegusien-le-Lac
+52389,Pierrefontaines,52384,Perrogney-les-Fontaines
+52390,Pisseloup,52390,Pisseloup
+52392,Plesnoy,52392,Plesnoy
+52394,Poinson-lès-Fayl,52394,Poinson-lès-Fayl
+52397,Poiseul,52397,Poiseul
+52402,Prangey,52529,Villegusien-le-Lac
+52404,Pratz,52140,Colombey-les-Deux-Églises
+52406,Saint-Pérégrin-sur-Vannon,52406,Pressigny
+52408,Prez-sur-Marne,52265,Bayard-sur-Marne
+52409,Provenchères-sur-Marne,52211,Froncles
+52410,Provenchères-sur-Meuse,52332,Le Val-de-Meuse
+52412,Le Puits-des-Mèzes,52050,Biesles
+52417,Ravennefontaines,52332,Le Val-de-Meuse
+52418,Récourt,52332,Le Val-de-Meuse
+52420,Reynel,52420,Reynel
+52427,Robert-Magny,52331,La Porte du Der
+52430,Roches-sur-Rognon,52044,Roches-Bettaincourt
+52432,Rolampont,52432,Rolampont
+52434,Roôcourt-la-Côte,52058,Bologne
+52435,Rosoy-sur-Amance,52242,Haute-Amance
+52439,Rouvres-Arbot,52439,Rouvres-sur-Aube
+52441,Rozières,52479,Sommevoire
+52444,Saint-Blin-Semilly,52444,Saint-Blin
+52451,Saint-Martin-sur-la-Renne,52031,Autreville-sur-la-Renne
+52454,Saint-Michel,52529,Villegusien-le-Lac
+52458,Santenoge,52526,Villars-Santenoge
+52460,Sarcicourt,52251,Jonchery
+52462,Saucourt-sur-Rognon,52177,Doulaincourt-Saucourt
+52465,Saulxures,52465,Saulxures
+52466,Sauvage-Magny,52088,Ceffonds
+52467,Savigny,52467,Savigny
+52468,Semilly,52468,Semilly
+52471,Seuchey,52464,Saulles
+52473,Signéville,52473,Signéville
+52477,Sommermont,52118,Chatonrupt-Sommermont
+52478,Sommeville,52123,Chevillon
+52481,Soulaincourt,52491,Thonnance-les-Moulins
+52485,Suzémont,52413,Rachecourt-Suzémont
+52493,Tornay,52493,Tornay
+52495,Trémilly,52495,Trémilly
+52496,Troischamps,52242,Haute-Amance
+52498,Tronchoy,52432,Rolampont
+52501,Valdelancourt,52031,Autreville-sur-la-Renne
+52503,Valleroy,52503,Valleroy
+52504,Terre-Natale,52504,Varennes-sur-Amance
+52508,Vaux-la-Douce,52544,Voisey
+52509,Vaux-sous-Aubigny,52405,Le Montsaugeonnais
+52513,Velles,52513,Velles
+52521,Vieux-Moulins,52383,Perrancey-les-Vieux-Moulins
+52523,Vignes-la-Côte,52523,Vignes-la-Côte
+52527,Villars-Saint-Marcellin,52060,Bourbonne-les-Bains
+52530,Villemervry,52094,Chalmessin
+52531,Villemoron,52094,Vals-des-Tilles
+52532,Villiers-aux-Bois,52497,Troisfontaines-la-Ville
+52533,Villiers-aux-Chênes,52178,Blaiserives
+52537,Villiers-sur-Marne,52230,Gudmont-Villiers
+52539,Violot,52539,Violot
+52546,Voncourt,52546,Voncourt
+53003,Ambrières-les-Vallées,53003,Ambrières-les-Vallées
+53004,Ampoigné,53124,Prée-d'Anjou
+53006,Argenton-Notre-Dame,53029,Bierné-les-Villages
+53014,Azé,53062,Château-Gontier-sur-Mayenne
+53020,La Baroche-Gondouin,53127,Lassay-les-Châteaux
+53024,Bazouges,53062,Château-Gontier
+53032,Blandouet,53228,Blandouet-Saint Jean
+53044,Brétignolles-le-Moulin,53118,Le Housseau-Brétignolles
+53050,Chammes,53255,Sainte-Suzanne-et-Chammes
+53060,Les Chapelles,53121,Javron-les-Chapelles
+53065,Châtres-la-Forêt,53097,Évron
+53070,Cigné,53003,Ambrières-les-Vallées
+53081,Courberie,53127,Lassay
+53092,Deux-Évailles,53161,Montsûrs
+53095,Épineux-le-Seguin,53017,Val-du-Maine
+53111,La Haie-Traversaine,53111,La Haie-Traversaine
+53138,Longuefuye,53104,Gennes-Longuefuye
+53149,Melleray-la-Vallée,53127,Lassay-les-Châteaux
+53159,Montourtier,53161,Montsûrs
+53166,Niort-la-Fontaine,53127,Lassay-les-Châteaux
+53167,Nuillé-sur-Ouette,53262,Soulgé-sur-Ouette
+53171,Orgères-la-Roche,53133,Lignières-Orgères
+53181,Pontmain,53181,Pontmain
+53183,Poulay,53160,Montreuil-Poulay
+53194,Ruillé-le-Gravelais,53137,Loiron-Ruillé
+53205,Saint-Céneré,53161,Montsûrs-Saint-Céneré
+53207,Saint-Christophe-du-Luat,53097,Évron
+53213,Saint-Ellier-du-Maine,53213,Saint-Ellier-du-Maine
+53215,Saint-Fort,53062,Château-Gontier-sur-Mayenne
+53217,Saint-Gault,53186,Quelaines-Saint-Gault
+53227,Saint-Isle,53103,Le Genest-Saint-Isle
+53231,Saint-Laurent-des-Mortiers,53029,Bierné-les-Villages
+53238,Saint-Mars-sur-la-Futaie,53238,Saint-Mars-sur-la-Futaie
+53239,Saint-Martin-de-Connée,53249,Vimartin-sur-Orthe
+53241,Saint-Michel-de-Feins,53029,Bierné-les-Villages
+53244,Saint-Ouën-des-Vallons,53161,Montsûrs
+53252,Saint-Samson,53185,Pré-en-Pail-Saint-Samson
+53254,Saint-Sulpice,53136,La Roche-Neuville
+53268,Vaucé,53079,Couesmes-Vaucé
+53274,Vimarcé,53249,Vimartin-sur-Orthe
+53275,Viviers,53265,Torcé-Viviers-en-Charnie
+54133,Coincourt,54133,Coincourt
+54142,Les Mesnils-sur-Madon,54142,Crantenoy
+54267,Housselmont,54010,Allamps
+54319,Lixières,54059,Belleau
+54341,Mance,54099,Val de Briey
+54342,Mancieulles,54099,Val de Briey
+54347,Manoncourt-sur-Seille,54059,Belleau
+54361,Ménillot,54128,Choloy-Ménillot
+54384,Morey,54059,Belleau
+54388,Mouacourt,54388,Mouacourt
+54405,Ochey-Thuilley,54405,Ochey
+54411,Ormes-et-Ville,54411,Ormes-et-Ville
+54418,Parroy,54418,Parroy
+54503,Serrières,54059,Belleau
+54506,Sexey-les-Bois,54557,Bois-de-Haye
+54523,Thuilley-aux-Groseilles,54523,Thuilley-aux-Groseilles
+54554,Vaudigny,54554,Vaudigny
+54601,Xures,54601,Xures
+55003,Ailly-sur-Meuse,55229,Han-sur-Meuse
+55006,Amblaincourt,55040,Beausite
+55016,Aulnois-sous-Vertuzey,55184,Euville
+55019,Auzécourt,55388,Noyers-Auzécourt
+55020,Auzéville-en-Argonne,55117,Clermont-en-Argonne
+55030,Baudignécourt,55150,Demange-Baudignécourt
+55033,Baulny-Charpentry,55033,Baulny
+55035,Bazincourt-Montplonne,55035,Bazincourt-sur-Saulx
+55044,Belrain,55044,Belrain
+55052,Billy-sous-les-Côtes,55551,Vigneulles-lès-Hattonchâtel
+55056,Blercourt,55385,Nixéville-Blercourt
+55068,Brabant-en-Argonne,55068,Brabant-en-Argonne
+55069,Brabant-lès-Villers,55069,Brabant-le-Roi
+55074,Brasseitte,55229,Han-sur-Meuse
+55082,Brocourt-en-Argonne,55082,Brocourt-en-Argonne
+55086,Bulainville,55389,Nubécourt
+55090,Bussy-la-Côte,55366,Val-d'Ornain
+55091,Butgnéville,55457,Saint-Hilaire-en-Woëvre
+55092,Buxerulles,55093,Buxières-sous-les-Côtes
+55098,Champlon,55473,Saulx-lès-Champlon
+55103,Charpentry,55103,Charpentry
+55112,Chennevières,55358,Chanteraine
+55118,Cléry-Grand,55118,Cléry-Grand
+55119,Cléry,55119,Cléry-Petit
+55126,Corniéville,55258,Geville
+55130,Cousancelles,55132,Cousances-les-Forges
+55131,Cousances-au-Bois,55518,Cousances-lès-Triconville
+55135,Crépion,55341,Moirey-Flabas-Crépion
+55136,Creuë,55551,Vigneulles-lès-Hattonchâtel
+55138,Culey,55138,Culey
+55147,Darmont,55094,Buzy-Darmont
+55151,Deuxnouds-aux-Bois,55274,Lamorville
+55152,Deuxnouds-devant-Beauzée,55040,Beausite
+55154,Dieue,55154,Dieue-sur-Meuse
+55161,Domremy-aux-Bois,55179,Erneville-aux-Bois
+55164,Douaumont,55537,Douaumont-Vaux
+55176,Érize-la-Grande,55442,Raival
+55183,Étraye-Wavrille,55183,Étraye
+55187,Flabas,55341,Moirey-Flabas-Crépion
+55190,Fleury-sur-Aire,55389,Nubécourt
+55203,Génicourt-sous-Condé,55123,Les Hauts-de-Chée
+55204,Génicourt-sur-Meuse,55204,Génicourt-sur-Meuse
+55205,Gérauvilliers,55026,Badonvilliers-Gérauvilliers
+55208,Gesnes-en-Argonne,55208,Gesnes-en-Argonne
+55209,Gibercy,55145,Damvillers
+55210,Gimécourt,55210,Gimécourt
+55213,Gironville-sous-les-Côtes,55258,Geville
+55216,Gouraincourt,55216,Gouraincourt
+55223,Hadonville-lès-Lachaussée,55267,Lachaussée
+55227,Han-devant-Pierrepont,54602,Han-devant-Pierrepont
+55230,Haraumont,55571,Vilosnes-Haraumont
+55231,Hargeville-sur-Chée,55123,Les Hauts-de-Chée
+55233,Hattonchâtel,55551,Vigneulles-lès-Hattonchâtel
+55234,Hattonville,55551,Vigneulles-lès-Hattonchâtel
+55235,Haucourt-la-Rigole,55500,Spincourt
+55238,Haumont-lès-Lachaussée,55267,Lachaussée
+55240,Hautecourt-lès-Broville,55002,Abaucourt-Hautecourt
+55245,Madine,55245,Heudicourt-sous-les-Côtes
+55249,Houdelaucourt-sur-Othain,55500,Spincourt
+55259,Jubécourt,55117,Clermont-en-Argonne
+55273,Lamarche-en-Woëvre,55245,Madine
+55277,Landzécourt,55410,Quincy-Landzécourt
+55283,Lavignéville,55274,Lamorville
+55286,Les Quatre-Vents,55286,Lemmes
+55287,Lempire-aux-Bois,55276,Landrecourt-Lempire
+55294,Liouville,55012,Apremont-la-Forêt
+55295,Lisle-en-Barrois,55295,Lisle-en-Barrois
+55298,Loisey-Culey,55298,Loisey
+55305,Louppy-sur-Chée,55123,Les Hauts-de-Chée
+55308,Loxéville,55179,Erneville-aux-Bois
+55309,Luméville-en-Ornois,55215,Gondrecourt-le-Château
+55314,Malaumont,55114,Chonville-Malaumont
+55318,Les Marats,55123,Les Hauts-de-Chée
+55319,Marbotte,55012,Apremont-la-Forêt
+55337,Mesnil-sous-les-Côtes,55060,Bonzée
+55342,Mondrecourt,55254,Les Trois-Domaines
+55352,Montplonne,55352,Montplonne
+55354,Mont-Villers,55060,Bonzée
+55367,Muzeray,55367,Muzeray
+55386,Nonsard,55386,Nonsard-Lamarche
+55390,Oëy,55358,Chanteraine
+55392,Ollières,55500,Spincourt
+55393,Ornel,55191,Foameix-Ornel
+55395,Osches,55395,Osches
+55402,Parois,55117,Clermont-en-Argonne
+55409,Pretz,55409,Pretz-en-Argonne
+55413,Rampont,55497,Les Souhesmes-Rampont
+55417,Raulecourt,55085,Broussey-Raulecourt
+55418,Réchicourt,55500,Spincourt
+55419,Récicourt,55419,Récicourt
+55432,Rignaucourt,55254,Les Trois-Domaines
+55438,Romagne-Gesnes,55438,Romagne-sous-Montfaucon
+55440,Rosières-devant-Bar,55369,Naives-Rosières
+55441,Rosières-en-Blois,55148,Delouze-Rosières
+55448,Rupt-devant-Saint-Mihiel,55448,Rupt-devant-Saint-Mihiel
+55451,Saint-Agnant-sous-les-Côtes,55012,Apremont-la-Forêt
+55455,Saint-Benoît-en-Woëvre,55551,Vigneulles-lès-Hattonchâtel
+55478,Savonnières-en-Woëvre,55530,Valbois
+55480,Senard,55517,Seuil-d'Argonne
+55482,Senoncourt-les-Maujouy,55482,Senoncourt-les-Maujouy
+55483,Senonville,55530,Valbois
+55486,Seraucourt,55040,Beausite
+55487,Seuzey-Vaux,55487,Seuzey
+55491,Sommaisne,55423,Rembercourt-Sommaisne
+55499,Spada,55274,Lamorville
+55513,Tourailles-sous-Bois,55215,Gondrecourt-le-Château
+55517,Seuil-d'Argonne,55517,Seuil-d'Argonne
+55524,Vacon,55573,Void-Vacon
+55525,Vadelaincourt,55525,Vadelaincourt
+55529,Varney,55366,Val-d'Ornain
+55535,Les Tilleuls-Vaudoncourt,55535,Vaudoncourt
+55538,Vaux-la-Grande,55472,Saulvaux
+55539,Vaux-la-Petite,55472,Saulvaux
+55540,Vaux-lès-Palameix,55540,Vaux-lès-Palameix
+55542,Véel,55186,Fains-Véel
+55548,Vertuzey,55184,Euville
+55550,Viéville-sous-les-Côtes,55551,Vigneulles-lès-Hattonchâtel
+55555,Ville-devant-Belrain,55555,Ville-devant-Belrain
+55558,Ville-Issey,55184,Euville
+55560,Villers-aux-Vents,55560,Villers-aux-Vents
+55564,Villers-sous-Bonchamp,55060,Bonzée
+55569,Vilisle,55569,Villotte-devant-Louppy
+55570,Villotte-sur-Aire,55570,Villotte-sur-Aire
+55576,Wadonville-en-Woëvre,55457,Saint-Hilaire-en-Woëvre
+55580,Wavrille,55580,Wavrille
+55585,Woinville,55093,Buxières-sous-les-Côtes
+56016,Bieuzy,56173,Pluméliau-Bieuzy
+56037,La Chapelle-Caro,56197,Val d'Oust
+56038,La Chapelle-Gaceline,56061,La Gacilly
+56049,Croixanvec,56213,Saint-Gérand-Croixanvec
+56059,Les Forges,56102,Forges de Lanouée
+56064,Glénac,56061,La Gacilly
+56095,Keryado,56121,Lorient
+56138,Monterrein,56165,Ploërmel
+56142,Moustoir-Remungol,56144,Évellys
+56150,Noyalo,56251,Theix-Noyalo
+56183,Quelneuc,56033,Carentoir
+56187,Quily,56197,Val d'Oust
+56192,Remungol,56144,Évellys
+56217,Saint-Gouvry,56198,Rohan
+56235,Saint-Samson,56198,Rohan
+57005,Achâtel,57605,Sailly-Achâtel
+57011,Albestroff,57011,Albestroff
+57023,Angviller-lès-Bisping,57086,Belles-Forêts
+57027,Arraincourt,57027,Arraincourt
+57068,Bertring,57262,Grostenquin
+57069,Berviller-en-Moselle,57069,Berviller-en-Moselle
+57078,Biberkirch,57680,Troisfontaines
+57086,Belles-Forêts,57086,Belles-Forêts
+57094,Borny,57463,Metz
+57106,Bouzonville,57106,Bouzonville
+57110,Brettnach,57110,Brettnach
+57115,Brulange,57115,Brulange
+57135,Chémery,57209,Faulquemont
+57157,Coutures,57132,Château-Salins
+57164,Dain-en-Saulnois,57572,Rémilly
+57170,Dédeling,57133,Château-Voué
+57173,Desseling,57173,Desseling
+57175,Diane-et-Kerprich,57175,Diane-Capelle
+57184,Dornot,57021,Ancy-Dornot
+57185,Dourd'Hal,57606,Saint-Avold
+57223,Folpersviller,57631,Sarreguemines
+57243,Garche,57672,Thionville
+57248,Givrycourt,57248,Givrycourt
+57279,Guirlange,57252,Gomelange
+57285,Halling-lès-Boulay,57097,Boulay-Moselle
+57306,Hayange,57306,Hayange
+57327,Hoff,57630,Sarrebourg
+57328,Holacourt,57328,Holacourt
+57346,Insming,57346,Insming
+57362,Kerprich-aux-Bois,57362,Kerprich-aux-Bois
+57363,Kerprich-lès-Dieuze,57270,Val-de-Bride
+57369,Kœking,57672,Thionville
+57378,Landonvillers,57155,Courcelles-Chaussy
+57400,Lidrequin,57151,Conthil
+57420,Loutremange,57150,Condé-Northen
+57429,Magny,57463,Metz
+57432,Maizery,57148,Colligny-Maizery
+57435,Malancourt-la-Montagne,57019,Amnéville
+57450,Marspich,57306,Hayange
+57458,Merlebach,57240,Freyming-Merlebach
+57460,Merten,57460,Merten
+57465,Metzervisse,57465,Metzervisse
+57494,Munster,57494,Munster
+57503,Neunkirch-lès-Sarreguemines,57631,Sarreguemines
+57522,Œutrange,57672,Thionville
+57523,Ogy,57482,Ogy-Montoy-Flanville
+57562,Ranguevaux,57562,Ranguevaux
+57570,Rémering-lès-Hargarten,57570,Rémering-lès-Hargarten
+57573,Réning,57573,Réning
+57585,Ritzing,57439,Manderen-Ritzing
+57608,Saint-Bernard,57542,Piblange
+57632,Sarreinsberg,57250,Goetzenbruck
+57646,Sentzich,57124,Cattenom
+57673,Thonville,57673,Thonville
+57675,Torcheville,57675,Torcheville
+57688,Vallières-lès-Metz,57463,Metz
+57699,Vaudoncourt,57695,Varize
+57710,Veymerange,57672,Thionville
+57720,Villing,57720,Villing
+57722,Vionville,57578,Rezonville-Vionville
+57729,Volkrange,57672,Thionville
+57733,Volstroff,57733,Volstroff
+57735,Vrémy,57204,Failly
+57744,Welferding,57631,Sarreguemines
+57758,Haute-Yutz,57757,Yutz
+57766,Saint-Nicolas-en-Forêt,57306,Hayange
+58022,Balleray,58204,Vaux d'Amognes
+58091,Cours,58086,Cosne-Cours-sur-Loire
+58100,Dompierre-sur-Héry,58026,Beaulieu
+58167,Michaugues,58026,Beaulieu
+59020,Ascq,59009,Villeneuve-d'Ascq
+59030,Audencourt,59139,Caudry
+59040,Aymeries,59033,Aulnoye-Aymeries
+59095,Bourbourg-Campagne,59094,Bourbourg
+59154,Coudekerque-Village,59588,Téteghem-Coudekerque-Village
+59235,Flers-lez-Lille,59009,Villeneuve-d'Ascq
+59245,Forenville,59567,Séranvillers-Forenville
+59248,Fort-Mardyck,59183,Dunkerque
+59287,Haucourt-en-Cambrésis,59287,Haucourt-en-Cambrésis
+59298,Hellemmes-Lille,59350,Lille
+59349,Ligny-Haucourt,59349,Ligny-en-Cambrésis
+59355,Lomme,59350,Lille
+59362,Louvignies-Bavay,59053,Bavay
+59373,Malo-les-Bains,59183,Dunkerque
+59376,Marchiennes-Campagne,59501,Rieulay
+59380,Mardyck,59183,Dunkerque
+59404,Les Moëres,59260,Ghyvelde
+59417,Morenchies,59122,Cambrai
+59460,Petite-Synthe,59183,Dunkerque
+59510,Rosendaël,59183,Dunkerque
+59540,Saint-Pol-sur-Mer,59183,Dunkerque
+59561,Selvigny,59631,Walincourt-Selvigny
+59621,Villers-Campeau,59574,Somain
+59644,Warneton-Sud,59643,Warneton
+60018,Anserville,60088,Bornel
+60038,Bachivillers,60256,Montchevreuil
+60054,Les Hauts-Talican,60054,Beaumont-les-Nonains
+60080,Boissy-le-Bois,60209,La Corne-en-Vexin
+60096,Boutavent,60245,Formerie
+60202,Dreslincourt,60537,Ribécourt-Dreslincourt
+60246,Fosseuse,60088,Bornel
+60266,Fumechon,60133,Catillon-Fumechon
+60300,Hardivillers-en-Vexin,60209,La Corne-en-Vexin
+60349,Lardières,60395,Méru
+60384,Marissel,60057,Beauvais
+60417,Montherlant,60570,Saint-Crépin-Ibouvillers
+60419,Montigny,60374,Maignelay-Montigny
+60453,La Neuville-d'Aumont,60196,La Drenne
+60455,La Neuville-Garnier,60054,Les Hauts-Talican
+60467,Notre-Dame-du-Thil,60057,Beauvais
+60475,Ognon,60682,Villers-Saint-Frambourg-Ognon
+60532,Ressons-l'Abbaye,60196,La Drenne
+60580,Saint-Just-des-Marais,60057,Beauvais
+60607,Sauqueuse-Saint-Lucien,60668,Verderel-lès-Sauqueuse
+60649,Troussures,60029,Auneuil
+60690,Villers-sur-Trie,60644,Trie-Château
+60694,Villotran,60694,Les Hauts-Talican
+60696,Voisinlieu,60057,Beauvais
+61003,Anceins,61167,La Ferté-en-Ouche
+61004,Antoigny,61168,La Ferté Macé
+61009,Aubry-en-Exmes,61474,Gouffern en Auge
+61016,Autheuil,61491,Tourouvre au Perche
+61019,Avernes-sous-Exmes,61474,Gouffern en Auge
+61022,Bagnoles-de-l'Orne,61483,Bagnoles-de-l'Orne
+61025,La Baroche-sous-Lucé,61211,Juvigny Val d'Andaine
+61027,Batilly,61153,Écouché-les-Vallées
+61031,Beauchêne,61486,Tinchebray-Bocage
+61033,Beaulandais,61211,Juvigny Val d'Andaine
+61042,Bellou-sur-Huisne,61345,Rémalard en Perche
+61045,Bivilliers,61491,Tourouvre au Perche
+61047,Bocquencé,61167,La Ferté-en-Ouche
+61057,Le Bourg-Saint-Léonard,61474,Gouffern en Auge
+61058,Bréel,61007,Athis-Val de Rouvre
+61059,Bresolettes,61491,Tourouvre au Perche
+61065,Bubertré,61491,Tourouvre au Perche
+61073,La Carneille,61007,Athis-Val de Rouvre
+61083,Chambois,61474,Gouffern en Auge
+61090,Champs,61491,Tourouvre au Perche
+61106,Chênedouit,61339,Putanges-le-Lac
+61109,Clairefougère,61292,Montsecret-Clairefougère
+61110,La Cochère,61474,Gouffern en Auge
+61112,Colonard-Corubert,61309,Perche en Nocé
+61115,Condeau,61116,Sablons sur Huisne
+61119,Corubert,61309,Perche en Nocé
+61125,Coulonges-les-Sablons,61116,Sablons sur Huisne
+61127,La Courbe,61153,Écouché-les-Vallées
+61128,Courcerault,61050,Cour-Maugis sur Huisne
+61131,Courménil,61474,Gouffern en Auge
+61132,Courteilles,61189,Giel-Courteilles
+61134,Courtoulin,61029,Bazoches-sur-Hoëne
+61135,Couterne,61096,Rives d'Andaine
+61136,Couvains,61167,La Ferté-en-Ouche
+61144,Dancé,61309,Perche en Nocé
+61147,Dorceau,61345,Rémalard en Perche
+61154,Eperrais,61196,Belforêt-en-Perche
+61155,L'Épinay-le-Comte,61324,Passais Villages
+61157,Exmes,61474,Gouffern en Auge
+61161,Fel,61474,Gouffern en Auge
+61172,Fontenai-les-Louvets,61228,L'Orée-d'Écouves
+61173,Fontenai-sur-Orne,61153,Écouché-les-Vallées
+61174,La Forêt-Auvray,61339,Putanges-le-Lac
+61175,Forges,61341,Écouves
+61177,Frênes,61486,Tinchebray-Bocage
+61179,La Fresnaye-au-Sauvage,61339,Putanges-le-Lac
+61184,Gauville,61167,La Ferté-en-Ouche
+61185,Gémages,61484,Val-au-Perche
+61186,Geneslay,61096,Rives d'Andaine
+61191,Glos-la-Ferrière,61167,La Ferté-en-Ouche
+61200,Haleine,61096,Rives d'Andaine
+61201,La Haute-Chapelle,61145,Domfront en Poiraie
+61204,L'Hermitière,61484,Val-au-Perche
+61205,Heugon,61167,La Ferté-en-Ouche
+61220,La Lande-sur-Eure,61230,Longny les Villages
+61223,Larchamp,61486,Tinchebray-Bocage
+61226,Lignerolles,61491,Tourouvre au Perche
+61231,Longuenoë,61228,L'Orée-d'Écouves
+61235,Loré,61211,Juvigny Val d'Andaine
+61236,Loucé,61153,Écouché-les-Vallées
+61239,Lucé,61211,Juvigny Val d'Andaine
+61245,Maison-Maugis,61050,Cour-Maugis sur Huisne
+61246,Mâle,61484,Val-au-Perche
+61247,Malétable,61230,Longny les Villages
+61249,Marcei,61375,Boischampré
+61250,Marchainville,61230,Longny les Villages
+61253,Marmouillé,61081,Chailloué
+61254,Marnefer,61167,La Ferté-en-Ouche
+61270,Ménil-Jean,61339,Putanges-le-Lac
+61280,Monceaux-au-Perche,61230,Longny les Villages
+61282,Monnai,61167,La Ferté-en-Ouche
+61285,Montgaroult,61194,Monts-sur-Orne
+61296,Moulicent,61230,Longny les Villages
+61299,Moussonvilliers,61429,Charencey
+61305,Neuilly-sur-Eure,61230,Longny les Villages
+61306,Neuville-près-Sées,61081,Chailloué
+61311,Normandel,61429,Charencey
+61312,Notre-Dame-d'Aspres,61422,Les Aspres
+61313,Notre-Dame-du-Rocher,61007,Athis-Val de Rouvre
+61315,Omméel,61474,Gouffern en Auge
+61318,Origny-le-Butin,61196,Belforêt-en-Perche
+61320,Orville,61460,Sap-en-Auge
+61325,La Perrière,61196,Belforêt-en-Perche
+61334,Pont-Écrepin,61339,Putanges-Pont-Écrepin
+61335,La Poterie-au-Perche,61491,Tourouvre au Perche
+61337,Préaux-du-Perche,61309,Perche en Nocé
+61338,Prépotin,61491,Tourouvre au Perche
+61340,Rabodanges,61339,Putanges-le-Lac
+61343,Randonnai,61491,Tourouvre au Perche
+61353,Ronfeugerai,61007,Athis-Val de Rouvre
+61354,Les Rotours,61339,Putanges-le-Lac
+61355,Rouellé,61145,Domfront en Poiraie
+61356,La Rouge,61484,Val-au-Perche
+61359,Saint-Agnan-sur-Erre,61484,Val-au-Perche
+61364,Saint-Aubert-sur-Orne,61339,Putanges-le-Lac
+61368,Saint-Aubin-des-Grois,61309,Perche en Nocé
+61377,Saint-Cornier-des-Landes,61486,Tinchebray-Bocage
+61378,Sainte-Croix-sur-Orne,61339,Putanges-le-Lac
+61380,Saint-Denis-de-Villenette,61211,Juvigny Val d'Andaine
+61383,Saint-Didier-sous-Écouves,61228,L'Orée-d'Écouves
+61403,Saint-Hilaire-la-Gérard,61294,Mortrée
+61409,Saint-Jean-de-la-Forêt,61309,Perche en Nocé
+61410,Saint-Jean-des-Bois,61486,Tinchebray-Bocage
+61417,Saint-Loyer-des-Champs,61375,Boischampré
+61428,Saint-Maurice-du-Désert,61463,Les Monts d'Andaine
+61430,Saint-Maurice-sur-Huisne,61050,Cour-Maugis sur Huisne
+61431,Saint-Michel-des-Andaines,61483,Bagnoles de l'Orne Normandie
+61434,Saint-Nicolas-des-Laitiers,61167,La Ferté-en-Ouche
+61437,Saint-Ouen-de-la-Cour,61196,Belforêt-en-Perche
+61441,Saint-Ouen-sur-Maire,61153,Écouché-les-Vallées
+61449,Saint-Pierre-la-Rivière,61474,Gouffern en Auge
+61455,Saint-Siméon,61324,Passais Villages
+61458,Saint-Victor-de-Réno,61230,Longny les Villages
+61465,Ségrie-Fontaine,61007,Athis-Val de Rouvre
+61468,Sentilly,61194,Monts-sur-Orne
+61469,Sept-Forges,61211,Juvigny Val d'Andaine
+61470,Serans,61153,Écouché-les-Vallées
+61471,Sérigny,61196,Belforêt-en-Perche
+61477,Survie,61474,Gouffern en Auge
+61478,Taillebois,61007,Athis-Val de Rouvre
+61489,Les Tourailles,61007,Athis-Val de Rouvre
+61495,Tubœuf,61432,Saint-Michel-Tubœuf
+61496,Urou-et-Crennes,61474,Gouffern en Auge
+61504,Villebadin,61474,Gouffern en Auge
+61506,Villers-en-Ouche,61167,La Ferté-en-Ouche
+61509,Vingt-Hanaps,61341,Écouves
+61511,Vrigny,61375,Boischampré
+61513,Yvrandes,61486,Tinchebray-Bocage
+62098,Beaumont,62427,Hénin-Beaumont
+62110,Berguette,62473,Isbergues
+62119,Béthune,62119,Béthune
+62126,Beuvry,62126,Beuvry
+62136,Blangermont,62137,Blangerval-Blangermont
+62159,Bouin,62661,Bouin-Plumoison
+62210,Canteleux,62154,Bonnières
+62226,Clarques,62691,Saint-Augustin
+62287,Ecquemicourt,62552,Maresquel-Ecquemicourt
+62294,Enguinegatte,62295,Enquin-lez-Guinegatte
+62305,Erquières,62834,Vacqueriette-Erquières
+62394,Guémy,62827,Tournehem-sur-la-Hem
+62417,Hautecôte,62631,Nuncq-Hautecôte
+62420,Haut-Maînil,62683,Quœux-Haut-Maînil
+62431,Herbelles,62471,Bellinghem
+62482,Labuissière,62178,Bruay-la-Buissière
+62575,Molinghem,62473,Isbergues
+62687,Ranchicourt,62693,Rebreuve-Ranchicourt
+62707,Richebourg-Saint-Vaast,62706,Richebourg
+62807,Tatinghem,62757,Saint-Martin-lez-Tatinghem
+62847,Verquigneul,62847,Verquigneul
+62884,Westbécourt,62008,Acquin-Westbécourt
+63018,Aulhat-Saint-Privat,63160,Aulhat-Flat
+63068,Cellule,63244,Chambaron sur Morge
+63078,Chaméane,63448,Le Vernet-Chaméane
+63127,Creste,63335,Saint-Diéry
+63133,Dallet,63226,Mur-sur-Allier
+63217,La Mayrand,63303,Roche-Charles-la-Mayrand
+63266,Orsonnette,63255,Nonette-Orsonnette
+63316,Saint-Anastaise,63038,Besse-et-Saint-Anastaise
+63361,Saint-Hippolyte,63103,Châtelguyon
+64007,Agnos,64007,Agnos
+64020,Ance,64225,Ance Féas
+64030,Arance,64396,Mont
+64031,Arancou,64031,Arancou
+64055,Arros-d'Oloron,64064,Asasp-Arros
+64076,Audéjos,64300,Lacq
+64108,Bellocq,64108,Bellocq
+64113,Bergouey-Arancou-Viellenave,64113,Bergouey-Viellenave
+64145,Bourdettes,64145,Bourdettes
+64163,Camou-Mixe-Suhast,64010,Aïcirits
+64164,Capbis,64148,Bruges-Capbis-Mifaget
+64169,Cassaber,64168,Carresse-Cassaber
+64179,Castetner,64179,Castetner
+64235,Garris,64235,Garris
+64248,Gouze,64396,Mont
+64252,Val-du-Gave-d'Aspe,64252,Gurmençon
+64269,Idron-Ousse-Sendets,64269,Idron
+64278,Ithorots-Olhaïby,64049,Aroue-Ithorots-Olhaïby
+64329,Lée,64329,Lée
+64333,Lendresse,64396,Mont
+64349,Loubieng,64349,Loubieng
+64367,Maslacq,64367,Maslacq
+64384,Mifaget,64148,Bruges-Capbis-Mifaget
+64402,Montestrucq,64440,Ozenx
+64417,Nay-Bourdettes,64417,Nay
+64439,Ousse,64439,Ousse
+64461,Puyo-Bellocq-Ramous,64461,Puyoô
+64462,Ramous,64462,Ramous
+64493,Saint-Palais,64493,Saint-Palais
+64497,Sainte-Suzanne,64430,Orthez
+64518,Sendets,64518,Sendets
+64541,Urdès,64300,Lacq
+64553,Viellenave-sur-Bidouze,64113,Bergouey-Arancou-Viellenave
+65008,Anéran-Camors,65141,Cazaux-Fréchet-Anéran-Camors
+65027,Armenteule,65282,Loudenvielle
+65030,Arrayou,65247,Arrayou-Lahitte
+65122,Camous,65092,Beyrède-Jumet-Camous
+65152,Cotdoussan,65348,Ourdis-Cotdoussan
+65188,Gavarnie,65192,Gavarnie-Gèdre
+65227,Ilhan,65099,Bordères-Louron
+65246,Lahitte,65054,Avezac-Prat-Lahitte
+65302,Marsous,65032,Arrens-Marsous
+65312,Molère,65081,Benqué-Molère
+65365,Pouchergues,65003,Adervielle-Pouchergues
+65434,Soulan,65388,Saint-Lary-Soulan
+65480,Vizos,65399,Saligos
+66031,Caldégas,66025,Bourg-Madame
+66037,Canet-en-Roussillon-Saint-Nazaire,66037,Canet-en-Roussillon
+66087,Las Illas,66106,Maureillas-las-Illas
+66099,Llauro,66099,Llauro
+66100,Llo,66100,Llo
+66110,Montalba-d'Amélie,66003,Amélie-les-Bains-Palalda
+66130,Osséja,66130,Osséja
+66134,Passa-Llauro-Tordères,66134,Passa
+66135,Périllos,66127,Opoul-Périllos
+66161,Ria-Sirach-Urbanya,66161,Ria-Sirach
+66163,Riunoguès,66106,Maureillas-las-Illas
+66167,Saillagouse-Llo,66167,Saillagouse
+66186,Saint-Nazaire,66186,Saint-Nazaire
+66200,Talau,66010,Ayguatébia-Talau
+66211,Tordères,66211,Tordères
+66219,Urbanya,66219,Urbanya
+66220,Valcebollère,66220,Valcebollère
+66229,Villeneuve-des-Escaldes,66005,Angoustrine-Villeneuve-des-Escaldes
+67007,Altenstadt,67544,Wissembourg
+67012,Aschbach,67012,Aschbach
+67014,Auenheim,67418,Rountzenheim-Auenheim
+67015,Avenheim,67452,Schnersheim
+67024,Behlenheim,67495,Truchtersheim
+67026,Bellefosse,67026,Bellefosse
+67027,Belmont,67027,Belmont
+67041,Birkenwald,67004,Sommerau
+67042,Birlenbach,67104,Drachenbronn-Birlenbach
+67057,Bosselshausen,67057,Bosselshausen
+67064,Bremmelbach,67074,Cleebourg
+67108,Duppigheim,67108,Duppigheim
+67114,Eberbach-Wœrth,67176,Gundershoffen
+67144,Fouday,67144,Fouday
+67157,Gimbrett,67034,Berstett
+67158,Gingsheim,67539,Wingersheim les Quatre Bans
+67163,Gougenheim,67163,Gougenheim
+67170,Griesbach,67176,Gundershoffen
+67171,Griesbach-le-Bastberg,67061,Bouxwiller
+67175,Gumbrechtshoffen-Oberbronn,67174,Gumbrechtshoffen
+67193,Hermerswiller,67206,Hoffen
+67207,Hohatzenheim,67539,Wingersheim les Quatre Bans
+67211,Hohwiller,67474,Soultz-sous-Forêts
+67219,Imbsheim,67061,Bouxwiller
+67224,Irmstett,67442,Scharrachbergheim-Irmstett
+67242,Kirrwiller-Bosselshausen,67242,Kirrwiller
+67243,Kleinfrankenheim,67452,Schnersheim
+67247,Kolbsheim,67247,Kolbsheim
+67251,Kuhlendorf,67339,Betschdorf
+67262,Leiterswiller,67206,Hoffen
+67284,Mattstall,67263,Lembach
+67294,Mitschdorf,67160,Gœrsdorf
+67297,Mittelhausen,67539,Wingersheim les Quatre Bans
+67316,Nehwiller-près-Wœrth,67388,Reichshoffen
+67318,Neugartheim,67228,Neugartheim-Ittlenheim
+67323,Niederbetschdorf,67339,Betschdorf
+67332,Niederseebach,67351,Seebach
+67340,Oberbronn-Zinswiller,67340,Oberbronn
+67349,Oberrœdern,67349,Oberrœdern
+67357,Offenheim,67485,Stutzheim-Offenheim
+67374,Pfettisheim,67495,Truchtersheim
+67376,Bischtroff-sur-Sarre,67435,Sarrewerden
+67390,Reimerswiller,67339,Betschdorf
+67393,Reitwiller,67034,Berstett
+67399,Riedheim,67061,Bouxwiller
+67402,Ringeldorf,67372,Val-de-Moder
+67406,Rohr,67406,Rohr
+67419,Rumersheim,67034,Berstett
+67431,Salenthal,67004,Sommerau
+67439,Schaffhouse-sur-Zorn,67202,Hochfelden
+67457,Schwabwiller,67339,Betschdorf
+67469,Singrist,67004,Sommerau
+67484,Stundwiller,67484,Stundwiller
+67496,Uberach,67372,Val de Moder
+67512,La Walck,67372,Val de Moder
+67513,Le Ban-de-la-Roche,67513,Waldersbach
+67518,Wangenbourg,67122,Wangenbourg-Engenthal
+67533,Wilshausen,67530,Wickersheim-Wilshausen
+67549,Wœllenheim,67532,Willgottheim
+67558,Zinswiller,67558,Zinswiller
+67560,Zœbersdorf,67153,Geiswiller-Zœbersdorf
+67561,Zollingen,67435,Sarrewerden
+67562,Zutzendorf,67347,Modern
+68003,Altenbach,68106,Goldbach-Altenbach
+68031,Bernwiller,68006,Bernwiller
+68047,Bourgfelden,68297,Saint-Louis
+68048,Bourtzwiller,68224,Mulhouse
+68053,Brinighoffen,68081,Saint-Bernard
+68070,Didenheim,68056,Brunstatt-Didenheim
+68108,Grentzingen,68240,Illtal
+68133,Henflingen,68240,Illtal
+68164,Kientzheim,68162,Kaysersberg Vignoble
+68206,Michelbach,68012,Aspach-Michelbach
+68220,Moyen-Muespach,68221,Muespach
+68233,Niederbruck,68201,Masevaux-Niederbruck
+68236,Niederlarg,68216,Mooslargue
+68272,Riedwihr,68143,Porte du Ried
+68310,Sigolsheim,68162,Kaysersberg Vignoble
+68314,Soppe-le-Haut,68219,Le Haut Soultzbach
+68319,Spechbach-le-Bas,68320,Spechbach
+68339,Ueberkumen,68018,Balschwiller
+68346,Valdieu,68192,Valdieu-Lutran
+68369,Wihr-en-Plaine,68145,Horbourg-Wihr
+69011,Arbuissonnas,69172,Salles-Arbuissonnas-en-Beaujolais
+69015,Avenas,69135,Deux-Grosnes
+69025,Bourg-de-Thizy,69248,Thizy-les-Bourgs
+69041,La Chapelle-de-Mardore,69248,Thizy-les-Bourgs
+69048,Chassagny,69179,Beauvallon
+69073,Dareizé,69157,Vindry-sur-Turdine
+69079,Durette,69165,Régnié-Durette
+69101,Jarnioux,69159,Porte des Pierres Dorées
+69114,Liergues,69159,Porte des Pierres Dorées
+69128,Mardore,69248,Thizy-les-Bourgs
+69129,Marnand,69248,Thizy-les-Bourgs
+69144,Nuelles,69208,Saint-Germain-Nuelles
+69146,Oingt,69024,Val d'Oingt
+69147,Les Olmes,69157,Vindry-sur-Turdine
+69150,Ouroux,69135,Deux-Grosnes
+69152,Pierre-Bénite,69149,Oullins-Pierre-Bénite
+69158,Pont-Trambouze,69066,Cours
+69185,Saint-Christophe,69135,Deux-Grosnes
+69195,Saint-Didier-sous-Riverie,69228,Chabanière
+69210,Saint-Jacques-des-Arrêts,69135,Deux-Grosnes
+69211,Saint-Jean-d'Ardières,69019,Belleville-en-Beaujolais
+69213,Saint-Jean-de-Touslas,69179,Beauvallon
+69221,Saint-Laurent-de-Vaux,69255,Vaugneray
+69222,Saint-Laurent-d'Oingt,69024,Val d'Oingt
+69223,Saint-Loup,69157,Vindry-sur-Turdine
+69224,Saint-Mamert,69135,Deux-Grosnes
+69226,Saint-Martin-de-Cornas,69091,Givors
+69232,Saint-Rambert-l'Île-Barbe,69123,Lyon
+69237,Saint-Sorlin,69228,Chabanière
+69247,Thel,69066,Cours
+69251,Trades,69135,Deux-Grosnes
+69262,La Ville,69066,Cours-la-Ville
+69274,Crépieux-la-Pape,69286,Rillieux-la-Pape
+70025,Arbecey,70025,Arbecey
+70033,Aubertans,70059,Beaumotte-lès-Montbozon-et-Aubertans
+70034,Aubigney,70101,Broye-lès-Pesmes-Aubigney-Montseugny
+70068,Betoncourt-les-Ménétriers,70373,La Roche-Morey
+70073,Bithaine-et-le-Val,70004,Adelans-et-le-Val-de-Bithaine
+70108,Bussurel,70285,Héricourt
+70110,Byans,70285,Héricourt
+70117,Châlonvillars-Mandrevillars,70117,Châlonvillars
+70123,Champlitte-la-Ville,70122,Champlitte
+70131,Charentenay,70492,Soing-Cubry-Charentenay
+70139,Château-Lambert,70283,Haut-du-Them-Château-Lambert
+70161,Colombe-lès-Bithaine,70195,Dambenoît-lès-Colombe
+70173,Corcelles,70477,Saulnot
+70191,Cubry-lès-Soing,70492,Soing-Cubry-Charentenay
+70209,Échevanne,70528,Velesmes-Échevanne
+70212,Éguilley,70441,Recologne-lès-Rioz
+70223,Étroitefontaine,70031,Athesans-Étroitefontaine
+70241,Les Fontenis,70447,Rioz
+70246,Fouvent-le-Bas,70247,Fouvent-Saint-Andoche
+70266,Gesincourt,70002,Aboncourt-Gesincourt
+70270,Gonvillars,70477,Saulnot
+70281,Greucourt,70418,La Romaine
+70300,Leffond,70122,Champlitte
+70330,Mandrevillars,70330,Mandrevillars
+70333,Margilley,70122,Champlitte
+70345,Miellin,70489,Servance-Miellin
+70346,Mignafans,70487,Senargent-Mignafans
+70354,Montarlot-lès-Champlitte,70122,Champlitte
+70365,Mont-le-Frânois,70252,Framont
+70370,Montseugny,70101,Broye-lès-Pesmes-Aubigney-Montseugny
+70375,Motey-sur-Saône,70491,Seveux-Motey
+70377,Nantouard,70466,Saint-Loup-Nantouard
+70379,Nervezain,70525,Vauconcourt-Nervezain
+70382,Neuvelle-lès-Champlitte,70122,Champlitte
+70391,Noroy-lès-Jussey,70292,Jussey
+70424,Presle,70197,Dampierre-sur-Linotte
+70427,Purgerot-Arbecey,70427,Purgerot
+70434,Quitteur,70058,Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur
+70458,Saint-Andoche,70247,Fouvent-Saint-Andoche
+70465,Saint-Julien,70373,La Roche-Morey
+70475,Saint-Valbert,70245,Fougerolles-Saint-Valbert
+70495,Suaucourt-et-Pisseloup,70373,La Roche-Morey
+70497,Tavey,70285,Héricourt
+70508,Trevey,70197,Dampierre-sur-Linotte
+70543,Verchamp,70309,Loulans-les-Forges
+70551,Vezet,70418,La Romaine
+70556,La Villedieu-lès-Quenoche,70456,Ruhans
+70570,Virey,70045,Avrigney-Virey
+71014,Autun,71014,Autun
+71049,Bourgneuf-Val-d'Or,71294,Mercurey
+71053,Bragny-en-Charollais,71490,Saint-Vincent-Bragny
+71055,Brandon,71134,Navour-sur-Grosne
+71056,Branges,71056,Branges
+71083,Champlieu,71193,Étrigny
+71114,Châteaurenaud,71263,Louhans
+71138,Clux,71578,Clux-Villeneuve
+71180,Donzy-le-National,71582,La Vineuse sur Fregande
+71197,Flacé-lès-Mâcon,71270,Mâcon
+71211,Géanges,71443,Saint-Loup-Géanges
+71260,Loché,71270,Mâcon
+71263,Louhans,71263,Louhans
+71265,La Loyère,71204,Fragnes-La Loyère
+71288,Massy,71582,La Vineuse sur Fregande
+71298,Meulin,71178,Dompierre-les-Ormes
+71304,Montagny-sur-Grosne,71134,Navour-sur-Grosne
+71353,Plottes,71353,Plottes
+71375,Le Rousset,71279,Le Rousset-Marizy
+71414,Saint-Forgeot,71414,Saint-Forgeot
+71418,Saint-Germain-des-Rives,71557,Varenne-Saint-Germain
+71429,Saint-Jean-des-Vignes,71076,Chalon-sur-Saône
+71432,Saint-Jean-le-Priche,71270,Mâcon
+71467,Saint-Pantaléon,71014,Autun
+71476,Saint-Romain-des-Îles,71481,Saint-Symphorien-d'Ancelles
+71492,Saint-Ythaire,71042,Bonnay-Saint-Ythaire
+71511,Sennecé-lès-Mâcon,71270,Mâcon
+71528,Sornay,71528,Sornay
+71536,Terrans,71351,Pierre-de-Bresse
+71543,Tournus,71543,Tournus
+71560,Varenne-sur-le-Doubs,71101,Charette-Varennes
+71569,Vérizet,71584,Viré
+71575,Vigny-lès-Paray,71176,Digoin
+71587,Vitry-lès-Cluny,71582,La Vineuse sur Fregande
+72014,Aulaines,72039,Bonnétable
+72030,Beauvoir,72002,Aillières-Beauvoir
+72033,Bernay-en-Champagne,72219,Bernay-Neuvy-en-Champagne
+72055,Champaissant,72276,Saint-Cosme-en-Vairais
+72063,La Chapelle-Gaugain,72262,Loir en Vallée
+72069,Chassé,72137,Villeneuve-en-Perseigne
+72081,Cherreau,72080,Cherré-Au
+72082,Le Chevain,72308,Saint-Paterne - Le Chevain
+72092,Contres-en-Vairais,72276,Saint-Cosme-en-Vairais
+72097,Coulombiers,72138,Fresnay-sur-Sarthe
+72108,Cré-sur-Loir,72025,Bazouges Cré sur Loir
+72116,Dissé-sous-Ballon,72189,Marolles-les-Braults
+72117,Dissé-sous-le-Lude,72176,Le Lude
+72140,Gastines-sur-Erve,72264,Sablé-sur-Sarthe
+72159,Lavenay,72262,Loir en Vallée
+72162,Lignières-la-Carelle,72137,Villeneuve-en-Perseigne
+72203,Montabon,72071,Montval-sur-Loir
+72206,Montfort-le-Rotrou,72241,Montfort-le-Gesnois
+72207,Montigny,72137,Villeneuve-en-Perseigne
+72240,Poncé-sur-le-Loir,72262,Loir en Vallée
+72242,Ponthouin,72196,Mézières-sur-Ponthouin
+72258,Roullée,72137,Villeneuve-en-Perseigne
+72263,Sables,72048,Briosne-lès-Sables
+72284,Saint-Germain-sur-Sarthe,72138,Fresnay-sur-Sarthe
+72285,Saint-Germain-du-Val,72154,La Flèche
+72288,Saint-Hilaire-le-Lierru,72363,Tuffé Val de la Chéronne
+72301,Saint-Mars-sous-Ballon,72023,Ballon-Saint Mars
+72304,Sainte-Osmane,72128,Val-d'Étangson
+72318,Saint-Rigomer-des-Bois,72137,Villeneuve-en-Perseigne
+72365,Le Val,72317,Saint-Rémy-du-Val
+72371,Verron,72154,La Flèche
+72384,Vouvray-sur-Loir,72071,Montval-sur-Loir
+73002,Aiguebelle,73212,Val-d'Arc
+73003,Aigueblanche,73003,Aigueblanche
+73009,Albanne,73173,Montricher-Albanne
+73016,Ansigny,73010,Albens
+73024,Les Avanchers,73024,Les Avanchers-Valmorel
+73035,Beaune,73261,Saint-Michel-de-Maurienne
+73037,Bellecombe,73003,Aigueblanche
+73038,Bellentre,73150,La Plagne Tarentaise
+73044,Bissy,73065,Chambéry
+73045,Le Bois,73003,Grand-Aigueblanche
+73046,Bonneval,73187,La Léchère
+73056,Bramans,73290,Val-Cenis
+73060,Celliers,73187,La Léchère
+73062,Cessens,73010,Entrelacs
+73066,Chambéry-le-Vieux,73065,Chambéry
+73080,Le Châtel,73135,La Tour-en-Maurienne
+73093,La Côte-d'Aime,73150,La Plagne Tarentaise
+73102,Doucy,73187,La Léchère
+73108,Épersy,73010,Entrelacs
+73111,Étable,73215,Valgelon-La Rochette
+73112,Feissons-sur-Isère,73187,La Léchère
+73115,Fontaine-le-Puits,73284,Salins-Fontaine
+73118,Francin,73151,Porte-de-Savoie
+73125,Grand-Cœur,73003,Aigueblanche
+73126,Granier,73006,Aime-la-Plagne
+73127,Gresin,73236,Saint-Genix-les-Villages
+73134,Hauteville-Gondon,73054,Bourg-Saint-Maurice
+73136,Héry,73303,Ugine
+73143,Lanslebourg-Mont-Cenis,73290,Val-Cenis
+73144,Lanslevillard,73290,Val-Cenis
+73148,Longefoy,73006,Aime
+73158,Mognard,73010,Entrelacs
+73163,Montaimont,73235,Saint François Longchamp
+73165,Mont-Denis,73250,Saint-Julien-Mont-Denis
+73167,Montgellafrey,73235,Saint François Longchamp
+73169,Montgirod,73006,Aime-la-Plagne
+73172,Montpascal,73135,La Tour-en-Maurienne
+73174,Montrond,73013,Albiez-Montrond
+73185,Naves,73187,La Léchère
+73195,Outrechaise,73303,Ugine
+73198,La Perrière,73227,Courchevel
+73199,Petit-Cœur,73187,La Léchère
+73203,Pontamafrey-Montpascal,73135,La Tour-en-Maurienne
+73209,Pussy,73187,La Léchère
+73238,Saint-Germain-la-Chambotte,73010,Entrelacs
+73239,Saint-Girod,73010,Entrelacs
+73244,Saint-Jean-de-Belleville,73257,Les Belleville
+73251,Saint-Laurent-de-la-Côte,73257,Saint-Martin-de-Belleville
+73260,Saint-Maurice-de-Rotherens,73236,Saint-Genix-les-Villages
+73264,Saint-Offenge-Dessus,73263,Saint-Offenge
+73266,Saint-Oyen,73003,Grand-Aigueblanche
+73279,Saint-Sigismond,73011,Albertville
+73287,Sollières-Sardières,73290,Val-Cenis
+73291,Tessens,73006,Aime
+73295,Thyl,73261,Saint-Michel-de-Maurienne
+73305,Valezan,73150,La Plagne Tarentaise
+73319,Villargerel,73003,Aigueblanche
+73321,Villarlurin,73257,Les Belleville
+73325,Villette,73006,Aime
+74011,Annecy-le-Vieux,74010,Annecy
+74013,Anthy-sur-Léman,74013,Anthy-sur-Léman
+74017,Arcine,74077,Clarafond
+74022,Aviernoz,74282,Fillière
+74023,Avregny,74006,Allonzier-la-Caille
+74028,Balmont,74010,Annecy
+74039,Bonneguête,74095,Crempigny-Bonneguête
+74047,Brens,74043,Bons-en-Chablais
+74084,Cons-Sainte-Colombe,74167,Val de Chaise
+74092,La Côte-d'Hyot,74042,Bonneville
+74093,Cran-Gevrier,74010,Annecy
+74106,Draillant,74106,Draillant
+74110,Entremont,74212,Glières-Val-de-Borne
+74113,Ésery,74220,Reignier
+74115,Esserts-Salève,74185,Monnetier-Mornex
+74120,Évires,74282,Fillière
+74125,Ferrières,74010,Annecy
+74132,La Frasse,74014,Arâches
+74149,Loëx,74040,Bonne
+74166,Marin,74166,Marin
+74181,Metz-Tessy,74112,Epagny Metz-Tessy
+74182,Meythet,74010,Annecy
+74187,Montmin,74275,Talloires-Montmin
+74203,Novel,74203,Novel
+74204,Les Ollières,74282,Fillière
+74207,Passeirier,74250,Saint-Pierre-en-Faucigny
+74210,Perrignier,74210,Perrignier
+74214,Pontchy,74042,Bonneville
+74217,Pringy,74010,Annecy
+74227,Saint-André-Val-de-Fier,74289,Vallières-sur-Fier
+74230,Saint-Didier-en-Chablais,74043,Bons-en-Chablais
+74237,Saint-Gingolph,74237,Saint-Gingolph
+74245,Saint-Martin-Bellevue,74282,Fillière
+74246,Saint-Martin-sur-Arve,74256,Sallanches
+74247,Saint-Maurice-de-Rumilly,74250,Saint-Pierre-en-Faucigny
+74248,Saint-Nicolas-de-Véroce,74236,Saint-Gervais-les-Bains
+74251,Saint-Roch,74256,Sallanches
+74268,Seynod,74010,Annecy
+74270,Seythenex,74123,Faverges-Seythenex
+74274,Val-de-Fier,74289,Vallières-sur-Fier
+74277,Thairy,74243,Saint-Julien-en-Genevois
+74281,Thonon-les-Bains,74281,Thonon-les-Bains
+74300,Vieugy,74010,Annecy
+75001,Alfortville,94002,Alfortville
+75002,Antony,92002,Antony
+75003,Arcueil,94003,Arcueil
+75004,Asnières,92004,Asnières
+75005,Aubervilliers,93001,Aubervilliers
+75006,Bagnolet,93006,Bagnolet
+75007,Bagneux,92007,Bagneux
+75008,Bobigny,93008,Bobigny
+75009,Bois-Colombes,92009,Bois-Colombes
+75010,Bondy,93010,Bondy
+75011,Bonneuil-sur-Marne,94011,Bonneuil-sur-Marne
+75012,Boulogne-Billancourt,92012,Boulogne-Billancourt
+75013,Le Bourget,93013,Le Bourget
+75014,Bourg-la-Reine,92014,Bourg-la-Reine
+75015,Bry-sur-Marne,94015,Bry-sur-Marne
+75016,Cachan,94016,Cachan
+75017,Champigny-sur-Marne,94017,Champigny-sur-Marne
+75018,Charenton-le-Pont,94018,Charenton-le-Pont
+75019,Châtenay-Malabry,92019,Châtenay-Malabry
+75020,Châtillon,92020,Châtillon
+75021,Chevilly-Larue,94021,Chevilly-Larue
+75022,Choisy-le-Roi,94022,Choisy-le-Roi
+75023,Clamart,92023,Clamart
+75024,Clichy,92024,Clichy
+75025,Colombes,92025,Colombes
+75026,Courbevoie,92026,Courbevoie
+75027,La Courneuve,93027,La Courneuve
+75028,Créteil,94028,Créteil
+75029,Drancy,93029,Drancy
+75030,Dugny,93030,Dugny
+75031,Épinay-sur-Seine,93031,Épinay-sur-Seine
+75032,Fontenay-aux-Roses,92032,Fontenay-aux-Roses
+75033,Fontenay-sous-Bois,94033,Fontenay-sous-Bois
+75034,Fresnes,94034,Fresnes
+75035,La Garenne-Colombes,92035,La Garenne-Colombes
+75036,Gennevilliers,92036,Gennevilliers
+75037,Gentilly,94037,Gentilly
+75038,L'Haÿ-les-Roses,94038,L'Haÿ-les-Roses
+75039,L'Île-Saint-Denis,93039,L'Île-Saint-Denis
+75040,Issy-les-Moulineaux,92040,Issy-les-Moulineaux
+75041,Ivry-sur-Seine,94041,Ivry-sur-Seine
+75042,Joinville-le-Pont,94042,Joinville-le-Pont
+75043,Le Kremlin-Bicêtre,94043,Le Kremlin-Bicêtre
+75044,Levallois-Perret,92044,Levallois-Perret
+75045,Les Lilas,93045,Les Lilas
+75046,Maisons-Alfort,94046,Maisons-Alfort
+75047,Malakoff,92046,Malakoff
+75048,Montreuil,93048,Montreuil
+75049,Montrouge,92049,Montrouge
+75050,Nanterre,92050,Nanterre
+75051,Neuilly-sur-Seine,92051,Neuilly-sur-Seine
+75052,Nogent-sur-Marne,94052,Nogent-sur-Marne
+75053,Noisy-le-Sec,93053,Noisy-le-Sec
+75054,Orly,94054,Orly
+75055,Pantin,93055,Pantin
+75057,Les Pavillons-sous-Bois,93057,Les Pavillons-sous-Bois
+75058,Le Perreux-sur-Marne,94058,Le Perreux-sur-Marne
+75059,Pierrefitte-sur-Seine,93059,Pierrefitte-sur-Seine
+75060,Le Plessis-Robinson,92060,Le Plessis-Robinson
+75061,Le Pré-Saint-Gervais,93061,Le Pré-Saint-Gervais
+75062,Puteaux,92062,Puteaux
+75063,Romainville,93063,Romainville
+75064,Rosny-sous-Bois,93064,Rosny-sous-Bois
+75065,Rungis,94065,Rungis
+75066,Saint-Denis,93066,Saint-Denis
+75067,Saint-Mandé,94067,Saint-Mandé
+75068,Saint-Maur-des-Fossés,94068,Saint-Maur-des-Fossés
+75069,Saint-Maurice,94069,Saint-Maurice
+75070,Saint-Ouen,93070,Saint-Ouen
+75071,Sceaux,92071,Sceaux
+75072,Stains,93072,Stains
+75073,Suresnes,92073,Suresnes
+75074,Thiais,94073,Thiais
+75075,Vanves,92075,Vanves
+75076,Villejuif,94076,Villejuif
+75077,Villemomble,93077,Villemomble
+75078,Villeneuve-la-Garenne,92078,Villeneuve-la-Garenne
+75079,Villetaneuse,93079,Villetaneuse
+75080,Vincennes,94080,Vincennes
+75081,Vitry-sur-Seine,94081,Vitry-sur-Seine
+76003,Ambourville,76020,Anneville-Ambourville
+76025,Argueil-Fry,76025,Argueil
+76027,Assigny,76618,Petit-Caux
+76031,Auberville-la-Campagne,76476,Port-Jérôme-sur-Seine
+76037,Auquemesnil,76618,Petit-Caux
+76044,Auzouville-Auberbosc,76258,Terres-de-Caux
+76061,Beaufresne,76344,Haudricourt
+76073,Belleville-sur-Mer,76618,Petit-Caux
+76078,Bennetot,76258,Terres-de-Caux
+76080,Bermonville,76258,Terres-de-Caux
+76081,Berneval-le-Grand,76618,Petit-Caux
+76089,Betteville,76289,Saint Martin de l'If
+76095,Bihorel,76095,Bihorel
+76098,Biville-sur-Mer,76618,Petit-Caux
+76102,Bléville,76351,Le Havre
+76108,Bois-Guillaume-Bihorel,76108,Bois-Guillaume
+76127,Bosc-Roger-sur-Buchy,76146,Buchy
+76137,Bracquemont,76618,Petit-Caux
+76145,Brunville,76618,Petit-Caux
+76150,Butot-en-Caux,76732,Butot-Vénesville
+76191,Cressy,76034,Val-de-Scie
+76215,Derchigny,76618,Petit-Caux
+76246,Les Essarts-Varimpré,76122,Callengeville
+76248,Estouteville-Écalles,76146,Buchy
+76256,Eurville,76018,Val-de-Saâne
+76267,La Folletière,76289,Saint Martin de l'If
+76277,Le Fossé,76276,Forges-les-Eaux
+76292,Fry,76292,Fry
+76301,Glicourt,76618,Petit-Caux
+76310,Gouchaupre,76618,Petit-Caux
+76326,Greny,76618,Petit-Caux
+76337,Guilmécourt,76618,Petit-Caux
+76355,Rocquefort-sur-Héricourt,76355,Héricourt-en-Caux
+76376,Intraville,76618,Petit-Caux
+76386,Limpiville,76386,Limpiville
+76444,Mont-de-l'If,76289,Saint Martin de l'If
+76466,Neuville-lès-Dieppe,76217,Dieppe
+76496,Penly,76618,Petit-Caux
+76525,Ricarville,76258,Terres-de-Caux
+76531,Rocquefort,76531,Rocquefort
+76539,Rouelles,76351,Le Havre
+76579,Sainte-Geneviève-en-Caux,76063,Beauval-en-Caux
+76601,Saint-Lucien,76601,Saint-Lucien
+76607,Sainte-Marguerite-sur-Fauville,76258,Terres-de-Caux
+76625,Saint-Nicolas-de-Bliquetuit,76401,Arelaune-en-Seine
+76633,Saint-Pierre-de-Franqueville,76475,Franqueville-Saint-Pierre
+76639,Saint-Pierre-Lavis,76258,Terres-de-Caux
+76643,Saint-Quentin-au-Bosc,76618,Petit-Caux
+76659,Saint-Wandrille-Rançon,76164,Rives-en-Seine
+76661,Sanvic,76351,Le Havre
+76674,Sévis,76034,Val-de-Scie
+76676,Sigy-en-Bray,76676,Sigy-en-Bray
+76680,Sorquainville,76680,Sorquainville
+76687,Thiédeville,76018,Val-de-Saâne
+76689,Thiétreville,76689,Thiétreville
+76696,Tocqueville-sur-Eu,76618,Petit-Caux
+76701,Touffreville-la-Cable,76476,Port-Jérôme-sur-Seine
+76704,Tourville-la-Chapelle,76618,Petit-Caux
+76713,Triquerville,76476,Port-Jérôme-sur-Seine
+76722,Varvannes,76018,Val-de-Saâne
+76729,Veauville-lès-Baons,76041,Les Hauts-de-Caux
+76742,Villequier,76164,Rives-en-Seine
+76755,Saint-Michel-en-Caux,76755,Ypreville-Biville
+77017,Bailly-Carrois,77211,Grandpuits-Bailly-Carrois
+77028,Beautheil,77433,Beautheil-Saints
+77064,La Celle-sur-Seine,77494,Vernou-la-Celle-sur-Seine
+77074,Chalautre-la-Reposte,77223,Gurcy-le-Châtel
+77092,La Chapelle-sur-Crécy,77142,Crécy-la-Chapelle
+77105,Chauconin,77335,Chauconin-Neufmontiers
+77136,Courquetaine,77136,Courquetaine
+77149,Cucharmoy,77109,Chenoise-Cucharmoy
+77160,Dontilly,77159,Donnemarie-Dontilly
+77166,Écuelles,77316,Orvanne
+77170,Épisy,77316,Moret Loing et Orvanne
+77189,Fontaine-sous-Montaiguillon,77262,Louan-Villegruis-Fontaine
+77213,Grégy-sur-Yerre,77175,Évry-Grégy-sur-Yerre
+77299,Montarlot,77316,Moret Loing et Orvanne
+77324,Moutils,77093,La Chapelle-Moutils
+77334,Nesles,77264,Lumigny-Nesles-Ormeaux
+77346,Ormeaux,77264,Lumigny-Nesles-Ormeaux
+77351,Ozouer-le-Repos,77010,Aubepierre-Ozouer-le-Repos
+77352,Ozouer-Courquetaine,77352,Ozouer-le-Voulgis
+77375,Préaux,77261,Lorrez-le-Bocage-Préaux
+77399,Saint-Ange-le-Viel,77504,Villemaréchal
+77422,Saint-Martin-Chennetron,77026,Beauchery-Saint-Martin
+77488,Vaux-sous-Coulombs,77129,Coulombs-en-Valois
+77491,Veneux-les-Sablons,77316,Moret-Loing-et-Orvanne
+77497,Vieux-Maisons,77421,Saint-Mars-Vieux-Maisons
+77499,Vilbert,77031,Bernay-Vilbert
+77502,Villegagnon,77020,Bannost-Villegagnon
+77503,Villegruis,77262,Louan-Villegruis-Fontaine
+78001,Abbéville-la-Rivière,91001,Abbéville-la-Rivière
+78002,Ableiges,95002,Ableiges
+78004,Ablon-sur-Seine,94001,Ablon-sur-Seine
+78008,Aincourt,95008,Aincourt
+78011,Ambleville,95011,Ambleville
+78012,Amenucourt,95012,Amenucourt
+78014,Andilly,95014,Andilly
+78016,Angerville,91016,Angerville
+78017,Angervilliers,91017,Angervilliers
+78018,Argenteuil,95018,Argenteuil
+78019,Arnouville-lès-Gonesse,95019,Arnouville-lès-Gonesse
+78021,Arpajon,91021,Arpajon
+78022,Arrancourt,91022,Arrancourt
+78023,Arronville,95023,Arronville
+78024,Arthies,95024,Arthies
+78025,Arthieul,95355,Magny-en-Vexin
+78026,Asnières-sur-Oise,95026,Asnières-sur-Oise
+78027,Athis-Mons,91027,Athis-Mons
+78028,Attainville,95028,Attainville
+78032,Aulnay-sous-Bois,93005,Aulnay-sous-Bois
+78035,Authon-la-Plaine,91035,Authon-la-Plaine
+78037,Auvernaux,91037,Auvernaux
+78038,Auvers-Saint-Georges,91038,Auvers-Saint-Georges
+78039,Auvers-sur-Oise,95039,Auvers-sur-Oise
+78040,Avernes,95040,Avernes
+78041,Avrainville,91041,Avrainville
+78042,Baillet-en-France,95042,Baillet-en-France
+78044,Ballainvilliers,91044,Ballainvilliers
+78045,Ballancourt-sur-Essonne,91045,Ballancourt-sur-Essonne
+78046,Banthelu,95046,Banthelu
+78047,Baulne,91047,Baulne
+78051,Beauchamp,95051,Beauchamp
+78052,Beaumont-sur-Oise,95052,Beaumont-sur-Oise
+78054,Le Bellay-en-Vexin,95054,Le Bellay-en-Vexin
+78055,Bellefontaine,95055,Bellefontaine
+78056,Belloy-en-France,95056,Belloy-en-France
+78058,Bernes-sur-Oise,95058,Bernes-sur-Oise
+78059,Berville,95059,Berville
+78060,Bessancourt,95060,Bessancourt
+78061,Béthemont-la-Forêt,95061,Béthemont-la-Forêt
+78063,Bezons,95063,Bezons
+78064,Bièvres,91064,Bièvres
+78065,Blamécourt,95355,Magny-en-Vexin
+78066,Le Blanc-Mesnil,93007,Le Blanc-Mesnil
+78067,Blandy,91067,Blandy
+78069,Boigneville,91069,Boigneville
+78074,Boisemont,95074,Boisemont
+78075,Bois-Herpin,91075,Bois-Herpin
+78078,Boissy-l'Aillerie,95078,Boissy-l'Aillerie
+78079,Boissy-la-Rivière,91079,Boissy-la-Rivière
+78080,Boissy-le-Cutté,91080,Boissy-le-Cutté
+78081,Boissy-le-Sec,91081,Boissy-le-Sec
+78083,Boissy-Saint-Léger,94004,Boissy-Saint-Léger
+78085,Boissy-sous-Saint-Yon,91085,Boissy-sous-Saint-Yon
+78086,Bondoufle,91086,Bondoufle
+78088,Bonneuil-en-France,95088,Bonneuil-en-France
+78091,Bouffémont,95091,Bouffémont
+78093,Boullay-les-Troux,91093,Boullay-les-Troux
+78094,Bouqueval,95094,Bouqueval
+78095,Bouray-sur-Juine,91095,Bouray-sur-Juine
+78097,Boussy-Saint-Antoine,91097,Boussy-Saint-Antoine
+78098,Boutervilliers,91098,Boutervilliers
+78099,Boutigny-sur-Essonne,91099,Boutigny-sur-Essonne
+78100,Bouville,91100,Bouville
+78101,Bray-et-Lû,95101,Bray-et-Lû
+78102,Bréançon,95102,Bréançon
+78103,Brétigny-sur-Orge,91103,Brétigny-sur-Orge
+78105,Breuillet,91105,Breuillet
+78106,Breux,91106,Breux
+78109,Brières-les-Scellés,91109,Brières-les-Scellés
+78110,Brignancourt,95110,Brignancourt
+78111,Briis-sous-Forges,91111,Briis-sous-Forges
+78112,Brouy,91112,Brouy
+78114,Brunoy,91114,Brunoy
+78115,Bruyères-le-Châtel,91115,Bruyères-le-Châtel
+78116,Bruyères-sur-Oise,95116,Bruyères-sur-Oise
+78119,Buhy,95119,Buhy
+78121,Buno-Bonnevaux,91121,Buno-Bonnevaux
+78122,Bures-sur-Yvette,91122,Bures-sur-Yvette
+78127,Cergy,95127,Cergy
+78129,Cerny,91129,Cerny
+78130,Chalo-Saint-Mars,91130,Chalo-Saint-Mars
+78131,Chalou-Moulineux,91131,Chalou-Moulineux
+78132,Chamarande,91132,Chamarande
+78134,Champagne-sur-Oise,95134,Champagne-sur-Oise
+78135,Champcueil,91135,Champcueil
+78136,Champlan,91136,Champlan
+78137,Champmotteux,91137,Champmotteux
+78139,La Chapelle-en-Vexin,95139,La Chapelle-en-Vexin
+78141,Charmont,95141,Charmont
+78142,Chars,95142,Chars
+78143,Châteaufort,78143,Châteaufort
+78144,Châtenay-en-France,95144,Châtenay-en-France
+78145,Chatignonville,91145,Chatignonville
+78148,Chauffour-lès-Étréchy,91148,Chauffour-lès-Étréchy
+78149,Chaumontel,95149,Chaumontel
+78150,Chaussy,95150,Chaussy
+78151,Chauvry,95151,Chauvry
+78153,Chaville,92022,Chaville
+78154,Chennevières-lès-Louvres,95154,Chennevières-lès-Louvres
+78155,Chennevières-sur-Marne,94019,Chennevières-sur-Marne
+78156,Cheptainville,91156,Cheptainville
+78157,Chérence,95157,Chérence
+78159,Chevannes,91159,Chevannes
+78161,Chilly-Mazarin,91161,Chilly-Mazarin
+78166,Cléry-en-Vexin,95166,Cléry-en-Vexin
+78167,Clichy-sous-Bois,93014,Clichy-sous-Bois
+78169,Commeny,95169,Commeny
+78170,Condécourt,95170,Condécourt
+78173,Congerville,91613,Congerville-Thionville
+78174,Corbeil-Essonnes,91174,Corbeil-Essonnes
+78175,Corbreuse,91175,Corbreuse
+78176,Cormeilles-en-Parisis,95176,Cormeilles-en-Parisis
+78177,Cormeilles-en-Vexin,95177,Cormeilles-en-Vexin
+78178,Coubron,93015,Coubron
+78179,Le Coudray-Montceaux,91179,Le Coudray-Montceaux
+78180,Courances,91180,Courances
+78181,Courcelles-sur-Viosne,95181,Courcelles-sur-Viosne
+78182,Courcouronnes,91228,Évry-Courcouronnes
+78183,Courdimanche,95183,Courdimanche
+78184,Courdimanche-sur-Essonne,91184,Courdimanche-sur-Essonne
+78186,Courson-Monteloup,91186,Courson-Monteloup
+78187,Craches,78506,Prunay-sous-Ablis
+78191,Crosne,91191,Crosne
+78195,Dannemois,91195,Dannemois
+78197,Deuil-la-Barre,95197,Deuil-la-Barre
+78198,D'Huison-Longueville,91198,D'Huison-Longueville
+78199,Domont,95199,Domont
+78200,Dourdan,91200,Dourdan
+78201,Draveil,91201,Draveil
+78202,Drocourt,78202,Drocourt
+78203,Eaubonne,95203,Eaubonne
+78204,Écharcon,91204,Écharcon
+78205,Écouen,95205,Écouen
+78207,Égly,91207,Égly
+78210,Enghien-les-Bains,95210,Enghien-les-Bains
+78211,Ennery,95211,Ennery
+78212,Épiais-lès-Louvres,95212,Épiais-lès-Louvres
+78213,Épiais-Rhus,95213,Épiais-Rhus
+78214,Épinay-Champlâtreux,95214,Épinay-Champlâtreux
+78215,Épinay-sous-Sénart,91215,Épinay-sous-Sénart
+78216,Épinay-sur-Orge,91216,Épinay-sur-Orge
+78218,Éragny,95218,Éragny
+78219,Ermont,95219,Ermont
+78221,Essonnes,91174,Corbeil-Essonnes
+78222,Estouches,91390,Le Mérévillois
+78223,Étampes,91223,Étampes
+78225,Étiolles,91225,Étiolles
+78226,Étréchy,91226,Étréchy
+78228,Évry,91228,Évry
+78229,Ézanville,95229,Ézanville
+78232,La Ferté-Alais,91232,La Ferté-Alais
+78235,Fleury-Mérogis,91235,Fleury-Mérogis
+78240,Fontaine-la-Rivière,91240,Fontaine-la-Rivière
+78241,Fontenay-en-Parisis,95241,Fontenay-en-Parisis
+78243,Fontenay-lès-Briis,91243,Fontenay-lès-Briis
+78244,Fontenay-le-Vicomte,91244,Fontenay-le-Vicomte
+78246,Fontenay-Saint-Père,78246,Fontenay-Saint-Père
+78247,La Forêt-le-Roi,91247,La Forêt-le-Roi
+78248,La Forêt-Sainte-Croix,91248,La Forêt-Sainte-Croix
+78249,Forges-les-Bains,91249,Forges-les-Bains
+78250,Fosses,95250,Fosses
+78251,Fourqueux,78551,Saint-Germain-en-Laye
+78252,Franconville,95252,Franconville
+78253,Frémainville,95253,Frémainville
+78254,Frémécourt,95254,Frémécourt
+78256,Frépillon,95256,Frépillon
+78257,La Frette-sur-Seine,95257,La Frette-sur-Seine
+78258,Frouville,95258,Frouville
+78259,Gadancourt,95040,Avernes
+78260,Gagny,93032,Gagny
+78266,Garches,92033,Garches
+78268,Garges-lès-Gonesse,95268,Garges-lès-Gonesse
+78270,Genainville,95270,Genainville
+78271,Génicourt,95271,Génicourt
+78272,Gif-sur-Yvette,91272,Gif-sur-Yvette
+78273,Gironville-sur-Essonne,91273,Gironville-sur-Essonne
+78274,Gometz-la-Ville,91274,Gometz-la-Ville
+78275,Gometz-le-Châtel,91275,Gometz-le-Châtel
+78277,Gonesse,95277,Gonesse
+78279,Gournay-sur-Marne,93033,Gournay-sur-Marne
+78280,Goussainville,95280,Goussainville
+78282,Gouzangrez,95169,Commeny
+78284,Les Granges-le-Roi,91284,Les Granges-le-Roi
+78286,Grigny,91286,Grigny
+78287,Grisy-les-Plâtres,95287,Grisy-les-Plâtres
+78288,Groslay,95288,Groslay
+78292,Guibeville,91292,Guibeville
+78293,Guigneville-sur-Essonne,91293,Guigneville-sur-Essonne
+78294,Guillerval,91294,Guillerval
+78295,Guiry-en-Vexin,95295,Guiry-en-Vexin
+78298,Haravilliers,95298,Haravilliers
+78301,Haute-Isle,95301,Haute-Isle
+78303,Le Heaulme,95303,Le Heaulme
+78304,Hédouville,95304,Hédouville
+78306,Herblay,95306,Herblay
+78308,Hérouville,95308,Hérouville
+78309,Hodent,95309,Hodent
+78312,Igny,91312,Igny
+78313,L'Isle-Adam,95313,L'Isle-Adam
+78315,Itteville,91315,Itteville
+78316,Jagny-sous-Bois,95316,Jagny-sous-Bois
+78318,Janville-sur-Juine,91318,Janville-sur-Juine
+78319,Janvry,91319,Janvry
+78323,Jouy-le-Moutier,95323,Jouy-le-Moutier
+78326,Juvisy-sur-Orge,91326,Juvisy-sur-Orge
+78328,Labbeville,95328,Labbeville
+78330,Lardy,91330,Lardy
+78331,Lassy,95331,Lassy
+78332,Leudeville,91332,Leudeville
+78333,Leuville-sur-Orge,91333,Leuville-sur-Orge
+78336,Limeil-Brévannes,94044,Limeil-Brévannes
+78338,Limours,91338,Limours
+78339,Linas,91339,Linas
+78340,Lisses,91340,Lisses
+78341,Livilliers,95341,Livilliers
+78342,Livry-Gargan,93046,Livry-Gargan
+78345,Longjumeau,91345,Longjumeau
+78347,Longpont-sur-Orge,91347,Longpont-sur-Orge
+78348,Longuesse,95348,Longuesse
+78351,Louvres,95351,Louvres
+78352,Luzarches,95352,Luzarches
+78353,Maffliers,95353,Maffliers
+78355,Magny-en-Vexin,95355,Magny-en-Vexin
+78357,Maincourt-sur-Yvette,78193,Dampierre-en-Yvelines
+78359,Maisse,91359,Maisse
+78360,Mandres-les-Roses,94047,Mandres-les-Roses
+78363,Marcoussis,91363,Marcoussis
+78365,Mareil-en-France,95365,Mareil-en-France
+78369,Margency,95369,Margency
+78370,Marines,95370,Marines
+78371,Marly-la-Ville,95371,Marly-la-Ville
+78373,Marnes-la-Coquette,92047,Marnes-la-Coquette
+78374,Marolles-en-Beauce,91374,Marolles-en-Beauce
+78375,Marolles-en-Brie,94048,Marolles-en-Brie
+78376,Marolles-en-Hurepoix,91376,Marolles-en-Hurepoix
+78377,Massy,91377,Massy
+78378,Mauchamps,91378,Mauchamps
+78379,Maudétour-en-Vexin,95379,Maudétour-en-Vexin
+78386,Mennecy,91386,Mennecy
+78387,Menouville,95387,Menouville
+78388,Menucourt,95388,Menucourt
+78390,Méréville,91390,Méréville
+78392,Mériel,95392,Mériel
+78393,Mérobert,91393,Mérobert
+78394,Méry-sur-Oise,95394,Méry-sur-Oise
+78395,Le Mesnil-Aubry,95395,Le Mesnil-Aubry
+78399,Mespuits,91399,Mespuits
+78400,Meudon,92048,Meudon
+78405,Milly-la-Forêt,91405,Milly-la-Forêt
+78408,Moigny,91408,Moigny
+78409,Moisselles,95409,Moisselles
+78411,Les Molières,91411,Les Molières
+78412,Mondeville,91412,Mondeville
+78414,Monnerville,91414,Monnerville
+78419,Montfermeil,93047,Montfermeil
+78421,Montgeron,91421,Montgeron
+78422,Montgeroult,95422,Montgeroult
+78424,Montigny-lès-Cormeilles,95424,Montigny-lès-Cormeilles
+78425,Montlhéry,91425,Montlhéry
+78426,Montlignon,95426,Montlignon
+78427,Montmagny,95427,Montmagny
+78428,Montmorency,95428,Montmorency
+78429,Montreuil-sur-Epte,95429,Montreuil-sur-Epte
+78430,Montsoult,95430,Montsoult
+78432,Morangis,91432,Morangis
+78433,Morigny-Champigny,91433,Morigny-Champigny
+78434,Morsang-sur-Orge,91434,Morsang-sur-Orge
+78435,Morsang-sur-Seine,91435,Morsang-sur-Seine
+78436,Mours,95436,Mours
+78438,Moussy,95438,Moussy
+78441,Nainville-les-Roches,91441,Nainville-les-Roches
+78445,Nerville-la-Forêt,95445,Nerville-la-Forêt
+78446,Nesles-la-Vallée,95446,Nesles-la-Vallée
+78447,Neuilly-en-Vexin,95447,Neuilly-en-Vexin
+78448,Neuilly-Plaisance,93049,Neuilly-Plaisance
+78449,Neuilly-sur-Marne,93050,Neuilly-sur-Marne
+78450,Neuville-sur-Oise,95450,Neuville-sur-Oise
+78452,Nointel,95452,Nointel
+78453,Noiseau,94053,Noiseau
+78454,Noisy-le-Grand,93051,Noisy-le-Grand
+78456,Noisy-sur-Oise,95456,Noisy-sur-Oise
+78457,La Norville,91457,La Norville
+78458,Nozay,91458,Nozay
+78459,Nucourt,95459,Nucourt
+78461,Ollainville,91461,Ollainville
+78462,Omerville,95462,Omerville
+78463,Oncy,91463,Oncy
+78467,Ormesson-sur-Marne,94055,Ormesson-sur-Marne
+78468,Ormoy,91468,Ormoy
+78469,Ormoy-la-Rivière,91469,Ormoy-la-Rivière
+78471,Orsay,91471,Orsay
+78473,Orveau,91473,Orveau
+78476,Osny,95476,Osny
+78477,Palaiseau,91477,Palaiseau
+78479,Paray-Vieille-Poste,91479,Paray-Vieille-Poste
+78480,Parmain,95480,Parmain
+78482,Pecqueuse,91482,Pecqueuse
+78483,Le Perchay,95483,Le Perchay
+78485,Périgny,94056,Périgny
+78487,Persan,95487,Persan
+78488,Pierrelaye,95488,Pierrelaye
+78489,Piscop,95489,Piscop
+78491,Le Plessis-Bouchard,95491,Le Plessis-Bouchard
+78492,Le Plessis-Gassot,95492,Le Plessis-Gassot
+78493,Le Plessis-Luzarches,95493,Le Plessis-Luzarches
+78494,Le Plessis-Pâté,91494,Le Plessis-Pâté
+78495,Plessis-Saint-Benoist,91495,Plessis-Saint-Benoist
+78496,Le Plessis-Trévise,94059,Le Plessis-Trévise
+78500,Pontoise,95500,Pontoise
+78503,Port-Villez,78320,Notre-Dame-de-la-Mer
+78504,Presles,95504,Presles
+78507,Prunay-sur-Essonne,91507,Prunay-sur-Essonne
+78508,Puiselet-le-Marais,91508,Puiselet-le-Marais
+78509,Puiseux-en-France,95509,Puiseux-en-France
+78510,Puiseux-Pontoise,95510,Puiseux-Pontoise
+78511,Pussay,91511,Pussay
+78512,La Queue-en-Brie,94060,La Queue-en-Brie
+78514,Quincy-sous-Sénart,91514,Quincy-sous-Sénart
+78515,Le Raincy,93062,Le Raincy
+78519,Richarville,91519,Richarville
+78521,Ris-Orangis,91521,Ris-Orangis
+78523,La Roche-Guyon,95523,La Roche-Guyon
+78524,Rocquencourt,78158,Le Chesnay-Rocquencourt
+78525,Roinville,91525,Roinville
+78526,Roinvilliers,91526,Roinvilliers
+78527,Roissy-en-France,95527,Roissy-en-France
+78529,Ronquerolles,95529,Ronquerolles
+78532,Rueil-Malmaison,92063,Rueil-Malmaison
+78533,Saclas,91533,Saclas
+78534,Saclay,91534,Saclay
+78535,Sagy,95535,Sagy
+78538,Saint-Aubin,91538,Saint-Aubin
+78539,Saint-Brice-sous-Forêt,95539,Saint-Brice-sous-Forêt
+78540,Saint-Chéron,91540,Saint-Chéron
+78541,Saint-Clair-sur-Epte,95541,Saint-Clair-sur-Epte
+78542,Saint-Cloud,92064,Saint-Cloud
+78543,Saint-Cyr-en-Arthies,95543,Saint-Cyr-en-Arthies
+78544,Saint-Cyr-la-Rivière,91544,Saint-Cyr-la-Rivière
+78546,Saint-Cyr-sous-Dourdan,91546,Saint-Cyr-sous-Dourdan
+78547,Saint-Escobille,91547,Saint-Escobille
+78549,Sainte-Geneviève-des-Bois,91549,Sainte-Geneviève-des-Bois
+78552,Saint-Germain-lès-Arpajon,91552,Saint-Germain-lès-Arpajon
+78553,Saint-Germain-lès-Corbeil,91553,Saint-Germain-lès-Corbeil
+78554,Saint-Gervais,95554,Saint-Gervais
+78555,Saint-Gratien,95555,Saint-Gratien
+78556,Saint-Hilaire,91556,Saint-Hilaire
+78560,Saint-Jean-de-Beauregard,91560,Saint-Jean-de-Beauregard
+78563,Saint-Leu-la-Forêt,95563,Saint-Leu-la-Forêt
+78566,Saint-Martin-du-Tertre,95566,Saint-Martin-du-Tertre
+78568,Saint-Maurice-Montcouronne,91568,Saint-Maurice-Montcouronne
+78570,Saint-Michel-sur-Orge,91570,Saint-Michel-sur-Orge
+78572,Saint-Ouen-l'Aumône,95572,Saint-Ouen-l'Aumône
+78573,Saint-Pierre-du-Perray,91573,Saint-Pierre-du-Perray
+78574,Saint-Prix,95574,Saint-Prix
+78577,Saintry-sur-Seine,91577,Saintry-sur-Seine
+78578,Saint-Sulpice-de-Favières,91578,Saint-Sulpice-de-Favières
+78579,Saint-Vrain,91579,Saint-Vrain
+78580,Saint-Witz,95580,Saint-Witz
+78581,Saint-Yon,91581,Saint-Yon
+78582,Sannois,95582,Sannois
+78583,Santeny,94070,Santeny
+78584,Santeuil,95584,Santeuil
+78585,Sarcelles,95585,Sarcelles
+78587,Saulx-les-Chartreux,91587,Saulx-les-Chartreux
+78589,Savigny-sur-Orge,91589,Savigny-sur-Orge
+78592,Seraincourt,95592,Seraincourt
+78593,Sermaise,91593,Sermaise
+78594,Seugy,95594,Seugy
+78595,Sevran,93071,Sevran
+78596,Sèvres,92072,Sèvres
+78598,Soisy-sous-Montmorency,95598,Soisy-sous-Montmorency
+78599,Soisy-sur-École,91599,Soisy-sur-École
+78600,Soisy-sur-Seine,91600,Soisy-sur-Seine
+78602,Souzy-la-Briche,91602,Souzy-la-Briche
+78603,Sucy-en-Brie,94071,Sucy-en-Brie
+78604,Survilliers,95604,Survilliers
+78607,Taverny,95607,Taverny
+78610,Théméricourt,95610,Théméricourt
+78611,Theuville,95611,Theuville
+78612,Le Thillay,95612,Le Thillay
+78613,Thionville,91613,Thionville
+78614,Thionville-sur-Opton,78381,Maulette
+78617,Tigery,91617,Tigery
+78619,Torfou,91619,Torfou
+78620,Toussus-le-Noble,78620,Toussus-le-Noble
+78622,Tremblay-lès-Gonesse,93073,Tremblay-lès-Gonesse
+78625,Us,95625,Us
+78626,Valenton,94074,Valenton
+78627,Vallangoujard,95627,Vallangoujard
+78628,Valmondois,95628,Valmondois
+78629,Valpuiseaux,91629,Valpuiseaux
+78630,Le Val-Saint-Germain,91630,Le Val-Saint-Germain
+78631,Varennes-Jarcy,91631,Varennes-Jarcy
+78632,Vaucresson,92076,Vaucresson
+78633,Vaudherland,95633,Vaudherland
+78634,Vaugrigneuse,91634,Vaugrigneuse
+78635,Vauhallan,91635,Vauhallan
+78636,Vaujours,93074,Vaujours
+78637,Vauréal,95637,Vauréal
+78639,Vayres-sur-Essonne,91639,Vayres-sur-Essonne
+78641,Vémars,95641,Vémars
+78645,Verrières-le-Buisson,91645,Verrières-le-Buisson
+78648,Vert-le-Grand,91648,Vert-le-Grand
+78649,Vert-le-Petit,91649,Vert-le-Petit
+78651,Vétheuil,95651,Vétheuil
+78652,Viarmes,95652,Viarmes
+78654,Videlles,91654,Videlles
+78656,Vienne-en-Arthies,95656,Vienne-en-Arthies
+78657,Vigneux-sur-Seine,91657,Vigneux-sur-Seine
+78658,Vigny,95658,Vigny
+78659,Villabé,91659,Villabé
+78660,Villaines-sous-Bois,95660,Villaines-sous-Bois
+78661,Villebon-sur-Yvette,91661,Villebon-sur-Yvette
+78662,Villeconin,91662,Villeconin
+78663,Villecresnes,94075,Villecresnes
+78664,Ville-d'Avray,92077,Ville-d'Avray
+78665,La Ville-du-Bois,91665,La Ville-du-Bois
+78666,Villejust,91666,Villejust
+78667,Villemoisson-sur-Orge,91667,Villemoisson-sur-Orge
+78669,Villeneuve-le-Roi,94077,Villeneuve-le-Roi
+78670,Villeneuve-Saint-Georges,94078,Villeneuve-Saint-Georges
+78671,Villeneuve-sur-Auvers,91671,Villeneuve-sur-Auvers
+78673,Villepinte,93078,Villepinte
+78675,Villeron,95675,Villeron
+78676,Villers-en-Arthies,95676,Villers-en-Arthies
+78678,Villiers-Adam,95678,Villiers-Adam
+78679,Villiers-le-Bâcle,91679,Villiers-le-Bâcle
+78680,Villiers-le-Bel,95680,Villiers-le-Bel
+78682,Villiers-le-Sec,95682,Villiers-le-Sec
+78684,Villiers-sur-Marne,94079,Villiers-sur-Marne
+78685,Villiers-sur-Orge,91685,Villiers-sur-Orge
+78687,Viry-Châtillon,91687,Viry-Châtillon
+78689,Wissous,91689,Wissous
+78690,Wy-dit-Joli-Village,95690,Wy-dit-Joli-Village
+78691,Yerres,91691,Yerres
+78692,Butry-sur-Oise,95120,Butry-sur-Oise
+79004,Aigonnay,79185,Aigondigné
+79005,Airvault,79005,Airvault
+79006,Les Alleuds,79136,Alloinay
+79011,Ardilleux,79140,Valdelaume
+79017,Les Aubiers,79195,Nueil-les-Aubiers
+79021,Availles-sur-Chizé,79090,Chizé
+79026,Bagneux,79014,Argenton-l'Église
+79027,La Bataille,79083,Chef-Boutonne
+79028,Beaulieu-sous-Bressuire,79049,Bressuire
+79033,Belleville,79078,Plaine-d'Argenson
+79035,Le Beugnon,79077,Beugnon-Thireuil
+79036,Bilazais,79196,Oiron
+79037,Boësse,79013,Argenton-les-Vallées
+79038,Boismé,79038,Boismé
+79039,Boisserolles,79078,Plaine-d'Argenson
+79041,Borcq-sur-Airvault,79005,Airvault
+79043,Bouillé-Loretz,79014,Loretz-d'Argenton
+79044,Bouillé-Saint-Paul,79063,Val en Vignes
+79045,Bouin,79140,Valdelaume
+79047,Boussais,79047,Boussais
+79049,Bressuire,79049,Bressuire
+79051,Le Breuil-Bernard,79179,Moncoutant-sur-Sèvre
+79052,Breuil-Chaussée,79049,Bressuire
+79053,Le Breuil-sous-Argenton,79013,Argentonnay
+79054,Brie,79196,Plaine-et-Vallées
+79056,Brion-près-Thouet,79056,Brion-près-Thouet
+79065,Chambroutet,79049,Bressuire
+79067,Champeaux,79066,Champdeniers-Saint-Denis
+79068,Chantecorps,79105,Les Châteliers
+79072,La Chapelle-Gaudin,79013,Argentonnay
+79073,La Chapelle-Largeau,79079,Mauléon
+79075,La Chapelle-Saint-Étienne,79179,Moncoutant-sur-Sèvre
+79079,Mauléon,79079,Mauléon
+79082,Chavagné,79048,La Crèche
+79093,Clazay,79049,Bressuire
+79097,Le Cormenier,79031,Beauvoir-sur-Niort
+79098,La Couarde,79217,Prailles-La Couarde
+79099,La Coudre,79013,Argentonnay
+79100,Coulon-Sansais,79100,Coulon
+79107,Crézières,79083,Chef-Boutonne
+79110,L'Enclave-de-la-Martinière,79174,Melle
+79113,Étusson,79280,Saint Maurice Étusson
+79138,Gript,79137,Granzay-Gript
+79143,Les Jumeaux,79016,Assais-les-Jumeaux
+79146,Lamairé,79268,Saint-Loup-Lamairé
+79151,Loizé,79136,Gournay-Loizé
+79155,Loublande,79079,Mauléon
+79168,Massais,79063,Val en Vignes
+79169,Maulais,79196,Plaine-et-Vallées
+79171,Mauzé-Thouarsais,79329,Thouars
+79173,Mazières-sur-Béronne,79174,Melle
+79178,Missé,79329,Thouars
+79181,Montigné,79061,Celles-sur-Belle
+79182,Montigny,79123,La Forêt-sur-Sèvre
+79186,Moulins,79079,Mauléon
+79187,Moutiers-sous-Argenton,79013,Argentonnay
+79188,Moutiers-sous-Chantemerle,79179,Moncoutant-sur-Sèvre
+79192,Noirlieu,79049,Bressuire
+79193,Noirterre,79049,Bressuire
+79194,Noizé,79196,Oiron
+79196,Oiron,79196,Oiron
+79199,Paizay-le-Tort,79174,Melle
+79206,Petit-Breuil-Deyrançon,79170,Mauzé-sur-le-Mignon
+79211,Pioussay,79140,Valdelaume
+79214,Pouffonds,79251,Marcillé
+79219,Priaires,79334,Val-du-Mignon
+79221,Prissé,79078,Prissé-la-Charrière
+79222,Pugny,79179,Moncoutant-sur-Sèvre
+79224,Le Puy-Saint-Bonnet,49099,Cholet
+79227,La Revêtizon,79031,Beauvoir-sur-Niort
+79228,Rigné,79329,Thouars
+79232,La Ronde,79123,La Forêt-sur-Sèvre
+79233,Rorthais,79079,Mauléon
+79234,Rouvre,79133,Germond-Rouvre
+79235,Saint-Amand-sur-Sèvre,79235,Saint-Amand-sur-Sèvre
+79237,Saint-Aubin-de-Baubigné,79079,Mauléon
+79240,Sainte-Blandine,79185,Aigondigné
+79245,Saint-Denis,79066,Champdeniers-Saint-Denis
+79247,Saint-Étienne-la-Cigogne,79078,Plaine-d'Argenson
+79248,Saint-Florent,79191,Niort
+79260,Saint-Jouin-de-Marnes,79196,Plaine-et-Vallées
+79261,Saint-Jouin-de-Milly,79179,Moncoutant-sur-Sèvre
+79262,Saint-Jouin-sous-Châtillon,79079,Mauléon
+79264,Saint-Léger-de-la-Martinière,79174,Melle
+79266,Saint-Liguaire,79191,Niort
+79272,Saint-Marsault,79123,La Forêt-sur-Sèvre
+79275,Saint-Martin-d'Entraigues,79122,Fontenille-Saint-Martin-d'Entraigues
+79277,Saint-Martin-de-Sanzay,79277,Saint-Martin-de-Sanzay
+79279,Saint-Martin-lès-Melle,79174,Melle
+79282,Saint-Médard,79061,Celles-sur-Belle
+79287,Sainte-Pezenne,79191,Niort
+79288,Saint-Pierre-à-Champ,79063,Cersay
+79291,Saint-Porchaire,79049,Bressuire
+79292,Sainte-Radegonde,79329,Thouars
+79296,Saint-Sauveur,79049,Bressuire
+79304,Sansais,79304,Sansais
+79305,Sanzay,79013,Argenton-les-Vallées
+79314,Sompt,79064,Fontivillié
+79315,Souché,79191,Niort
+79317,Soulièvres,79005,Airvault
+79318,Soutiers,79285,Saint-Pardoux-Soutiers
+79321,Taizé-Maulais,79196,Plaine-et-Vallées
+79323,Le Temple,79079,Mauléon
+79324,Terves,79049,Bressuire
+79325,Tessonnière,79005,Airvault
+79327,Thorigné,79185,Mougon-Thorigné
+79328,Thorigny-sur-le-Mignon,79334,Val-du-Mignon
+79330,Tillou,79083,Chef-Boutonne
+79333,Ulcot,79013,Argentonnay
+79344,Verrines-sous-Celles,79061,Celles-sur-Belle
+79353,Vitré,79030,Beaussais-Vitré
+79356,Voultegon,79242,Voulmentin
+80007,Agnières,80436,Hescamps
+80012,Ainval-Septoutre,80390,Grivesnes
+80072,Beauvoir-Rivière,62881,Beauvoir-Wavans
+80075,Becquincourt,80247,Dompierre-Becquincourt
+80091,Berny-sur-Noye,80010,Ailly-sur-Noye
+80111,Boisrault,80443,Hornoy-le-Bourg
+80175,Carnoy,80505,Carnoy-Mametz
+80178,Castel,80570,Moreuil
+80209,Contoire,80625,Trois-Rivières
+80254,Dreslincourt,80230,Curchy-Dreslincourt
+80255,Dreuil-Hamel,80013,Airaines
+80257,Dreuil-lès-Molliens,80554,Molliens-Dreuil
+80277,Éramecourt,80276,Équennes-Éramecourt
+80286,Estouilly,80410,Ham
+80289,Estrées-en-Chaussée,80557,Estrées-Mons
+80309,Fieffes,80566,Fieffes-Montrelet
+80323,Fonchette,80322,Fonches-Fonchette
+80363,Frettemolle,80436,Hescamps
+80370,Frohen-le-Petit,80369,Frohen-sur-Authie
+80382,Gouy-l'Hôpital,80443,Hornoy-le-Bourg
+80389,Grécourt,80442,Hombleux
+80394,Guémicourt,80703,Saint-Germain-sur-Bresle
+80398,Guibermesnil,80456,Lafresguimont-Saint-Martin
+80419,Hargicourt,80625,Trois-Rivières
+80441,Hocquincourt,80406,Hallencourt
+80447,Hyencourt-le-Grand,80621,Hypercourt
+80448,Hyencourt-le-Petit,80621,Hypercourt
+80454,Laboissière-Saint-Martin,80456,Lafresguimont-Saint-Martin
+80457,Lahaye-Saint-Romain,80630,Poix-de-Picardie
+80471,Leforest,80521,Maurepas
+80483,Lincheux-Hallivillers,80443,Hornoy-le-Bourg
+80492,Longvillers,80245,Domléger-Longvillers
+80506,Manicourt,80230,Curchy
+80510,Marcheville,80222,Crécy-en-Ponthieu
+80532,Méricourt-sur-Somme,80295,Étinehem-Méricourt
+80534,Merville-au-Bois,80010,Ailly-sur-Noye
+80539,Mesnil-Eudin,80084,Bermesnil
+80551,Misery,80509,Marchélepot-Misery
+80564,Montmarquet,80456,Lafresguimont-Saint-Martin
+80567,Mont-Saint-Quentin,80620,Péronne
+80581,Namps-au-Mont,80582,Namps-Maisnil
+80594,Neuville-lès-Lœuilly,80485,Ô-de-Selle
+80608,Omiécourt,80621,Hypercourt
+80610,Onvillers,80623,Piennes-Onvillers
+80612,Orival,80443,Hornoy-le-Bourg
+80636,Popincourt,80233,Dancourt-Popincourt
+80641,Pressoir,80002,Ablaincourt-Pressoir
+80653,Le Quesnoy,80617,Parvillers-le-Quesnoy
+80660,Rainecourt,80342,Framerville-Rainecourt
+80689,Rumaisnil,80582,Namps-Maisnil
+80712,Saint-Pierre-à-Gouy,80229,Crouy-Saint-Pierre
+80715,Sainte-Radegonde,80620,Péronne
+80720,Saint-Sulpice,80410,Ham
+80727,Saulchoy-sur-Davenescourt,80031,Arvillers
+80731,Selincourt,80443,Hornoy-le-Bourg
+80739,Souplicourt,80436,Hescamps
+80745,Taisnil,80582,Namps-Maisnil
+80761,Tilloy-lès-Conty,80485,Ô-de-Selle
+80768,Tronchoy,80443,Hornoy-le-Bourg
+80772,Vacquerie,80086,Bernaville
+80816,Wailly,80211,Conty
+80817,Wanel,80406,Hallencourt
+80818,Warfusée-Abancourt,80463,Lamotte-Warfusée
+80831,Ytres,62909,Ytres
+81057,Campes,81262,Saint-Marcel-Campes
+81091,Ferrières,81062,Fontrieu
+81107,Guitalens,81132,Guitalens-L'Albarède
+81113,Labastide-Dénat,81218,Puygouzon
+81153,Le Margnès,81062,Fontrieu
+81155,Marsal,81026,Bellegarde-Marsal
+81194,Narthoux,81245,Saint-Christophe
+81226,Ronel,81233,Terre-de-Bancalié
+81241,Saint-Antonin-de-Lacalm,81233,Terre-de-Bancalié
+81260,Saint-Lieux-Lafenasse,81233,Terre-de-Bancalié
+81296,Terre-Clapier,81233,Terre-de-Bancalié
+81301,Le Travet,81233,Terre-de-Bancalié
+83024,Brovès,83124,Seillans
+85002,L'Aiguillon-la-Chaize,85002,L'Aiguillon-sur-Vie
+85003,Aizenay,85003,Aizenay
+85007,Ardelay,85109,Les Herbiers
+85027,Boufféré,85146,Montaigu-Vendée
+85030,Boulogne,85084,Essarts en Bocage
+85032,Bourg-sous-la-Roche-sur-Yon,85191,La Roche-sur-Yon
+85037,Breuil-Barret,85289,Terval
+85041,Cezais,85292,Rives-du-Fougerais
+85043,Chaillé-sous-les-Ormeaux,85213,Rives de l'Yon
+85044,Chaix,85009,Auchay-sur-Vendée
+85045,La Chaize-Giraud,85045,La Chaize-Giraud
+85048,Chambretaud,85302,Chanverrie
+85052,La Chapelle-Achard,85152,Les Achards
+85053,La Chapelle-aux-Lys,85289,Terval
+85055,La Chapelle-Palluau,85055,La Chapelle-Palluau
+85057,Charzais,85092,Fontenay-le-Comte
+85060,Château-d'Olonne,85194,Les Sables-d'Olonne
+85063,Les Châtelliers-Châteaumur,85090,Sèvremont
+85068,La Claye,85036,La Bretonnière-la-Claye
+85069,Les Clouzeaux,85008,Aubigny-Les Clouzeaux
+85075,Croix-de-Vie,85222,Saint-Gilles-Croix-de-Vie
+85079,Dissais,85135,Mareuil-sur-Lay-Dissais
+85084,Essarts en Bocage,85084,Essarts-en-Bocage
+85085,Evrunes,85151,Mortagne-sur-Sèvre
+85091,Fontaines,85080,Doix lès Fontaines
+85107,La Guyonnière,85146,Montaigu-Vendée
+85122,Lesson,85020,Benet
+85124,La Limouzinière,85046,La Chaize-le-Vicomte
+85150,Mormaison,85197,Montréverd
+85165,L'Oie,85165,L'Oie
+85166,Olonne-sur-Mer,85194,Les Sables-d'Olonne
+85168,Oulmes,85162,Rives-d'Autise
+85170,Payré-sur-Vendée,85094,Foussais-Payré
+85173,Petit-Bourg-des-Herbiers,85109,Les Herbiers
+85180,La Pommeraie-sur-Sèvre,85090,Sèvremont
+85183,Puybelliard,85051,Chantonnay
+85195,Saint-André-d'Ornay,85191,La Roche-sur-Yon
+85203,Sainte-Christine,85020,Benet
+85212,Sainte-Florence,85212,Sainte-Florence
+85217,Saint-Georges-de-Montaigu,85146,Montaigu-Vendée
+85219,Saint-Germain-l'Aiguiller,85154,Mouilleron-Saint-Germain
+85224,Saint-Hilaire-de-Loulay,85146,Montaigu-Vendée
+85225,Saint-Hilaire-de-Mortagne,85151,Mortagne-sur-Sèvre
+85228,Saint-Hilaire-de-Talmont,85288,Talmont-Saint-Hilaire
+85230,Saint-Hilaire-du-Bois,85040,La Caillère-Saint-Hilaire
+85241,Saint-Mars-des-Prés,85051,Chantonnay
+85249,Saint-Martin-sous-Mouzeuil,85158,Mouzeuil-Saint-Martin
+85253,Saint-Médard-des-Prés,85092,Fontenay-le-Comte
+85257,Saint-Michel-Mont-Mercure,85090,Sèvremont
+85258,Saint-Nicolas-de-Brem,85243,Brem-sur-Mer
+85263,Saint-Philbert-du-Pont-Charrault,85051,Chantonnay
+85270,Saint-Sornin,85277,Saint-Vincent-sur-Graon
+85271,Saint-Sulpice-en-Pareds,85292,Rives-du-Fougerais
+85272,Saint-Sulpice-le-Verdon,85197,Montréverd
+85275,Saint-Vincent-Puymaufrais,85034,Bournezeau
+85279,Saligny,85019,Bellevigny
+85283,Simon-la-Vineuse,85223,Sainte-Hermine
+85299,Velluire,85177,Les Velluire-sur-Vendée
+85307,La Faute-sur-Mer,85001,L'Aiguillon-la-Presqu'île
+86002,Amberre,86002,Amberre
+86021,Benassay,86123,Boivre-la-Vallée
+86030,Blaslay,86281,Saint Martin la Pallu
+86033,Le Bouchet,86079,La Roche-Rigault
+86043,Ceaux-en-Couhé,86082,Valence-en-Poitou
+86056,La Chapelle-Montreuil,86123,Boivre-la-Vallée
+86057,Chapelle-Morthemer,86233,Valdivienne
+86060,Charrais,86281,Saint Martin la Pallu
+86067,Châtillon,86082,Valence-en-Poitou
+86071,Cheneché,86281,Saint Martin la Pallu
+86073,Cherves,86073,Cherves
+86089,Cuhon,86089,Cuhon
+86101,Frontenay-sur-Dive,86225,Saint-Jean-de-Sauves
+86144,Maisonneuve,86144,Maisonneuve
+86146,Marigny-Brizay,86115,Jaunay-Marigny
+86150,Massognes,86150,Massognes
+86155,Messais,86161,Moncontour
+86160,Mirebeau,86160,Mirebeau
+86166,Montreuil-Bonnin,86123,Boivre-la-Vallée
+86168,Morthemer,86233,Valdivienne
+86179,Notre-Dame-d'Or,86108,La Grimaudière
+86185,Ouzilly-Vignolles,86161,Moncontour
+86188,Payré,86082,Valence-en-Poitou
+86199,Pouzioux,86070,Chauvigny
+86208,Le Rochereau,86053,Champigny en Rochereau
+86212,Rossay,86137,Loudun
+86215,Saint-Cassien,86005,Angliers
+86216,Saint-Chartres,86161,Moncontour
+86219,Saint-Cyr,86019,Beaumont Saint-Cyr
+86231,Saint-Macoux,86247,Val-de-Comporté
+86232,Saint-Martial,86070,Chauvigny
+86238,Saint-Pierre-les-Églises,86070,Chauvigny
+86240,Saint-Rémy-en-Montmorillon,86120,Lathus
+86243,Saint-Romain-sur-Vienne,86092,Dangé-Saint-Romain
+86251,Salles-en-Toulon,86233,Valdivienne
+86259,Senillé,86245,Senillé-Saint-Sauveur
+86267,Targé,86066,Châtellerault
+86277,Varennes,86281,Saint-Martin-la-Pallu
+86278,Vaux,86082,Valence-en-Poitou
+86282,Véniers,86137,Loudun
+86283,Verger-sur-Dive,86108,La Grimaudière
+86299,Vouzailles,86299,Vouzailles
+87010,Beaune-les-Mines,87085,Limoges
+87026,Bussière-Boffy,87097,Val d'Issoire
+87055,Darnac,87028,Val-d'Oire-et-Gartempe
+87098,Milhaguet,87092,Marval
+87102,Morterolles-sur-Semme,87014,Bessines-sur-Gartempe
+87136,Saint-Barbant,87028,Val-d'Oire-et-Gartempe
+87171,Saint-Nicolas-Courbefy,87027,Bussière-Galant
+87173,Saint-Pardoux,87128,Saint-Pardoux-le-Lac
+87175,Saint-Priest-le-Betoux,87180,Saint-Sornin-Leulac
+87184,Saint-Symphorien-sur-Couze,87128,Saint-Pardoux-le-Lac
+87196,Thiat,87028,Val-d'Oire-et-Gartempe
+88018,Aumontzey,88218,Granges-Aumontzey
+88034,Ban-sur-Meurthe,88106,Ban-sur-Meurthe-Clefcy
+88048,Bellefontaine,88048,Bellefontaine
+88067,Le Boulay,88322,La Neuveville-devant-Lépanges
+88072,Brancourt,88460,Soulosse-sous-Saint-Élophe
+88112,Colroy-la-Grande,88361,Provenchères-et-Colroy
+88191,Fruze,88460,Soulosse-sous-Saint-Élophe
+88204,Girmont,88465,Capavenir Vosges
+88207,Girovillers-sous-Montfort,88146,Domjulien
+88211,Gouécourt,88305,Moncel-sur-Vair
+88217,Granges-de-Plombières,88351,Plombières-les-Bains
+88234,Harsault,88029,La Vôge-les-Bains
+88235,Hautmougey,88029,La Vôge-les-Bains
+88282,Le Magny,88176,Fontenoy-le-Château
+88323,La Neuveville-lès-Raon,88372,Raon-l'Étape
+88329,Noncourt,88321,Neufchâteau
+88337,Oncourt,88465,Capavenir Vosges
+88339,Outrancourt,88114,Contrexéville
+88351,Plombières-les-Bains,88351,Plombières-les-Bains
+88384,Rémois,88274,Longchamp-sous-Châtenois
+88392,Rocourt,88475,Tollaincourt
+88396,Roncourt,88227,Hagnéville-et-Roncourt
+88397,Rouceux,88321,Neufchâteau
+88405,Ruaux,88351,Plombières-les-Bains
+88414,Saint-Élophe,88460,Soulosse-sous-Saint-Élophe
+88420,Saint-Jean-du-Marché,88322,La Neuveville-devant-Lépanges
+88422,Saint-Laurent,88160,Épinal
+89001,Accolay,89130,Deux Rivières
+89002,Aigremont,89002,Aigremont
+89010,Annay-sur-Serein,89010,Annay-sur-Serein
+89026,Avrolles,89345,Saint-Florentin
+89040,Bessy-sur-Cure,89040,Bessy-sur-Cure
+89047,Bligny-en-Othe,89055,Brienon-sur-Armançon
+89052,Bouilly,89439,Vergigny
+89054,Brannay-Saint-Sérotin,89054,Brannay
+89055,Brienon-sur-Armançon,89055,Brienon-sur-Armançon
+89069,Chailley-Turny,89069,Chailley
+89070,Chambeugle,89086,Charny Orée de Puisaye
+89078,Champvallon,89003,Montholon
+89082,La Chapelle-Vieille-Forêt,89169,Flogny-la-Chapelle
+89090,Chastenay,89283,Ouanne
+89097,Chêne-Arnoult,89086,Charny Orée de Puisaye
+89103,Chevillon,89086,Charny Orée de Puisaye
+89106,Chichy,89200,Hauterive
+89107,Chigy,89411,Les Vallées de la Vanne
+89109,Cisery,89197,Guillon-Terre-Plaine
+89110,Civry-sur-Serein,89246,Massangis
+89114,Commissey,89407,Tanlay
+89118,Coulanges-la-Vineuse,89118,Coulanges-la-Vineuse
+89121,Courceaux,89469,Perceneige
+89135,Cusy,89005,Ancy-le-Franc
+89138,Dicy,89086,Charny Orée de Puisaye
+89140,Dilo,89014,Arces-Dilo
+89155,Escolives-Sainte-Camille,89155,Escolives-Sainte-Camille
+89157,Essert,89233,Lucy-sur-Cure
+89166,Fleurigny,89414,Thorigny-sur-Oreuse
+89174,Fontenailles,89405,Les Hauts de Forterre
+89178,Fontenouilles,89086,Charny Orée de Puisaye
+89185,Fyé,89068,Chablis
+89192,Grandchamp,89086,Charny Orée de Puisaye
+89193,Grange-le-Bocage,89469,Perceneige
+89213,Laduz,89196,Valravillon
+89220,Lavau,89220,Lavau
+89224,Lichères-Aigremont,89224,Lichères-près-Aigremont
+89231,Louesme,89073,Champignelles
+89233,Lucy-sur-Cure,89233,Lucy-sur-Cure
+89241,Malicorne,89086,Charny Orée de Puisaye
+89243,Marchais-Beton,89086,Charny Orée de Puisaye
+89252,Merry-Sec,89252,Merry-Sec
+89254,Mézilles,89254,Mézilles
+89258,Milly,89068,Chablis
+89259,Môlay,89259,Môlay
+89260,Molesmes,89405,Les Hauts de Forterre
+89269,La Mothe-aux-Aulnaies,89086,Charny
+89275,Neuilly,89196,Valravillon
+89283,Ouanne,89283,Ouanne
+89288,Paroy-en-Othe,89288,Paroy-en-Othe
+89293,Perreuse,89420,Treigny
+89294,Perreux,89086,Charny Orée de Puisaye
+89301,Plessis-du-Mée,89469,Perceneige
+89305,Poinchy,89068,Chablis
+89315,Préhy,89315,Préhy
+89317,Prunoy,89086,Charny Orée de Puisaye
+01003,Amareins,01165,Amareins-Francheleins-Cesseins
+01018,Arlod,01033,Bellegarde-sur-Valserine
+01020,Arnans,01125,Corveissiat
+01039,Béon,01138,Culoz-Béon
+01048,Bohas,01245,Bohas-Meyriat-Rignat
+01055,Bouvent,01283,Oyonnax
+01059,Brénaz,01453,Arvière-en-Valromey
+01070,Cesseins,01165,Amareins-Francheleins-Cesseins
+01086,Charancin,01036,Valromey-sur-Séran
+01091,Châtillon-en-Michaille,01033,Valserhône
+01097,Chavornay,01453,Arvière-en-Valromey
+01119,Corcelles,01080,Champdor-Corcelles
+01120,Cordieux,01262,Montluel
+01122,Cormaranche-en-Bugey,01185,Plateau d'Hauteville
+01126,Coupy,01033,Bellegarde-sur-Valserine
+01131,Craz,01189,Injoux-Génissiat
+01132,Crépieux-la-Pape,69286,Rillieux-la-Pape
+01137,Cuisiat,01426,Treffort-Cuisiat
+01144,Dommartin,01025,Bâgé-Dommartin
+01154,Étrez,01130,Bresse Vallons
+01161,Fitignieu,01036,Valromey-sur-Séran
+01164,Forens,01104,Chézery-Forens
+01168,Genay,69278,Genay
+01172,Germagnat,01095,Nivigne et Suran
+01176,Le Grand-Abergement,01187,Haut Valromey
+01178,Granges,01240,Matafelon-Granges
+01182,Groslée,01338,Groslée-Saint-Benoit
+01186,Hostiaz,01185,Plateau d'Hauteville
+01201,Lacoux,01185,Hauteville-Lompnes
+01205,Lancrans,01033,Valserhône
+01217,Lilignod,01079,Champagne-en-Valromey
+01218,Lochieu,01453,Arvière-en-Valromey
+01221,Lompnieu,01036,Valromey-sur-Séran
+01222,Longecombe,01185,Hauteville-Lompnes
+01223,Loyes,01450,Villieu-Loyes-Mollon
+01226,Luthézieu,01036,Belmont-Luthézieu
+01251,Moëns,01313,Prévessin-Moëns
+01253,Mollon,01450,Villieu-Loyes-Mollon
+01256,Montanay,69284,Montanay
+01270,Napt,01410,Sonthonnax-la-Montagne
+01271,Nattages,01286,Parves et Nattages
+01278,Ochiaz,01033,Valserhône
+01287,Passin,01079,Champagne-en-Valromey
+01292,Le Petit-Abergement,01187,Haut Valromey
+01300,Le Poizat,01204,Le Poizat-Lalleyriat
+01312,Pressiat,01426,Val-Revermont
+01315,Proulieu,01202,Lagnieu
+01316,Pugieu,01098,Chazey-Bons
+01324,Rignat,01245,Bohas-Meyriat-Rignat
+01326,Rillieux,69286,Rillieux
+01327,Romanèche,01184,Hautecourt-Romanèche
+01340,Saint-Bois,01015,Arboys en Bugey
+01341,Saint-Champ,01227,Magnieu
+01377,Saint-Maurice-d'Échazeaux,01125,Corveissiat
+01394,Sathonay-Camp,69292,Sathonay-Camp
+01395,Sathonay-Village,69293,Sathonay-Village
+01409,Songieu,01187,Haut Valromey
+01413,Surjoux,01215,Surjoux-Lhopital
+01414,Sutrieu,01036,Valromey-sur-Séran
+01417,Thézillieu,01185,Plateau d'Hauteville
+01438,Vésenex-Crassy,01143,Divonne-les-Bains
+01440,Veyziat,01283,Oyonnax
+01442,Vieu,01036,Valromey-sur-Séran
+01455,Volognat,01267,Nurieux-Volognat
+01458,Vouvray,01033,Valserhône
+02026,Artonges,02458,Dhuys et Morin-en-Brie
+02045,Barbonval,02439,Longueval-Barbonval
+02077,Berzy-le-Sec,02564,Bernoy-le-Château
+02092,Blérancourdelle,02093,Blérancourt
+02113,Branges,02022,Arcy-Sainte-Restitue
+02147,La Celle-sous-Montmirail,02458,Dhuys et Morin-en-Brie
+02161,La Chapelle-Monthodon,02053,Vallées en Champagne
+02166,Chartèves,02166,Chartèves
+02202,Cohan,02220,Coulonges-Cohan
+02247,Cugny-lès-Crouttes,02580,Oulchy-le-Château
+02285,Escaufourt,59545,Saint-Souplet
+02300,Fargniers,02738,Tergnier
+02301,Faucoucourt,02018,Anizy-le-Grand
+02314,Flavigny-le-Petit,02361,Guise
+02325,Fontenelle-en-Brie,02458,Dhuys et Morin-en-Brie
+02344,Gernicourt,51171,Cormicy
+02348,Glennes,02439,Les Septvallons
+02365,Hamégicourt,02124,Brissy-Hamégicourt
+02394,Jouy,02008,Aizy-Jouy
+02434,Lizy,02018,Anizy-le-Grand
+02436,Lombray,02140,Camelin
+02437,Longchamps,02757,Vadencourt
+02475,Menneville,02360,Villeneuve-sur-Aisne
+02479,Merval,02439,Les Septvallons
+02524,Charmont-sur-Marne,02524,Charmont-sur-Marne
+02597,Perles,02439,Les Septvallons
+02603,Pisseleux,02810,Villers-Cotterêts
+02611,Pont-à-Bucy,02559,Nouvion-et-Catillon
+02630,Quessy,02738,Tergnier
+02646,Révillon,02439,Les Septvallons
+02669,Saint-Agnan,02053,Vallées en Champagne
+02692,Saint-Quentin-sur-Allan,02307,La Ferté-Milon
+02695,Saint-Thibaut,02054,Bazoches-et-Saint-Thibaut
+02700,Le Sart,02308,Fesmy-le-Sart
+02733,Suzy,02153,Cessières-Suzy
+02771,Vauxcéré,02439,Les Septvallons
+02811,Villers-en-Prayères,02439,Les Septvallons
+02825,Vouël,02738,Tergnier
+03123,Givarlais,03158,Haut-Bocage
+03153,Louroux-Hodement,03158,Haut-Bocage
+03199,Neuville,03315,Villefranche-d'Allier
+03318,Vitray,03168,Meaulne-Vitray
+04002,Ainac,04167,La Robine-sur-Galabre
+04003,Albiosc,04081,Esparron-de-Verdon
+04009,Archail,04009,Archail
+04010,Argens,04136,La Mure-Argens
+04011,Astoin,04023,Bayons
+04014,Augès,04109,Mallefougasse-Augès
+04015,Auribeau,04177,Hautes-Duyes
+04029,Blégiers,04155,Prads-Haute-Bléone
+04038,Carniol,04208,Simiane-la-Rotonde
+04044,Castillon,04039,Castellane
+04048,Chasteuil,04039,Castellane
+04052,Châteauneuf-lès-Moustiers,04144,La Palud-sur-Verdon
+04056,Chénerilles,04108,Malijai
+04060,Saint-Michel-Peyresq,04219,Thorame-Haute
+04064,Courchons,04173,Saint-André-les-Alpes
+04071,Les Dourbes,04070,Digne
+04072,Archail-Draix,04072,Draix
+04078,Eoulx,04039,Castellane
+04080,Esclangon,04097,La Javie
+04082,Esparron-la-Bâtie,04023,Bayons
+04083,Espinouse,04046,Le Chaffaut-Saint-Jurson
+04089,Fours,04226,Uvernet-Fours
+04098,Lambert,04167,La Robine-sur-Galabre
+04100,Larche,04120,Val d'Oronaye
+04103,Levens,04107,Majastres
+04105,Lincel,04192,Saint-Michel-l'Observatoire
+04112,Manosque,04112,Manosque
+04114,Mariaud,04155,Prads
+04117,Melan,04040,Le Castellard-Melan
+04119,Méolans,04161,Méolans-Revel
+04125,Montblanc,04043,Val-de-Chalvagne
+04131,Montpezat,04124,Montagnac-Montpezat
+04146,La Pérusse,04217,Thoard
+04147,Peyresq,04219,Thorame-Haute
+04153,Le Poil,04204,Senez
+04165,Reynier,04023,Bayons
+04168,Robion,04039,Castellane
+04185,Saint-Jurson,04046,Le Chaffaut-Saint-Jurson
+04190,Saint-Martin-les-Eaux,04190,Saint-Martin-les-Eaux
+04196,Saint-Symphorien,04075,Entrepierres
+04198,Saint-Vincent-les-Forts,04033,Ubaye-Serre-Ponçon
+04212,Taloire,04039,Castellane
+04213,Tanaron,04167,La Robine-sur-Galabre
+04215,Taulanne,04039,Castellane
+04221,Trévans,04084,Estoublon
+04223,Ubaye,04102,Le Lauzet-Ubaye
+04225,Urtis,04234,Venterol
+04232,Valsaintes,04208,Simiane-la-Rotonde
+04238,Vilhosc,04075,Entrepierres
+04239,Villars-Brandis,04039,Castellane
+04243,Villevieille,04043,Val-de-Chalvagne
+05002,Agnières-en-Dévoluy,05139,Dévoluy
+05005,Antonaves,05118,Val Buëch-Méouge
+05015,Barret-le-Haut,05014,Barret-le-Bas
+05020,Bénévent-et-Charbillac,05132,Saint-Bonnet-en-Champsaur
+05023,Briançon,05023,Briançon
+05030,Chabottonnes,05145,Saint-Jean-Saint-Nicolas
+05034,Châteauneuf-de-Chabre,05118,Val Buëch-Méouge
+05041,Clémence-d'Ambel,05064,La Chapelle-en-Valgaudémar
+05042,La Cluse,05139,Dévoluy
+05043,Les Costes,05039,Aubessagne
+05067,Les Infournas,05132,Saint-Bonnet-en-Champsaur
+05069,Lagrand,05053,Garde-Colombe
+05083,Montéglin,05070,Laragne-Montéglin
+05088,Montmorin,05024,Valdoule
+05105,Pomet,05118,Val Buëch-Méouge
+05109,Puy-Saint-Pierre,05109,Puy-Saint-Pierre
+05112,Rabou,05112,Rabou
+05120,Ristolas,05001,Abriès-Ristolas
+05123,La Roche-des-Arnauds,05123,La Roche-des-Arnauds
+05125,Romette,05061,Gap
+05137,Saint-Cyrice,05051,Étoile-Saint-Cyrice
+05138,Saint-Disdier,05139,Dévoluy
+05141,Saint-Eusèbe-en-Champsaur,05039,Aubessagne
+05143,Saint-Genis,05053,Garde-Colombe
+05150,Sainte-Marie,05024,Valdoule
+05175,Vallouise,05101,Vallouise-Pelvoux
+07016,Asperjoc,07011,Vallées-d'Antraigues-Asperjoc
+07021,Auriolles,07207,Saint-Alban-Auriolles
+07043,Brahic,07334,Les Vans
+07046,Casteljau,07031,Berrias-et-Casteljau
+07057,Chassagnes,07334,Les Vans
+07125,Lafigère,07147,Malarce-sur-la-Thines
+07132,Largentière,07132,Largentière
+07135,Laval-d'Aurelle,07262,Saint-Laurent-les-Bains-Laval-d'Aurelle
+07164,Naves,07334,Les Vans
+07180,Le Pouzat,07204,Saint-Agrève
+07246,Saint-Jean-de-Pourcharesse,07284,Saint-Pierre-Saint-Jean
+07252,Saint-Julien-Boutières,07103,Saint-Julien-d'Intres
+07256,Saint-Julien-Labrousse,07165,Belsentes
+07271,Saint-Martin-l'Inférieur,07270,Saint-Martin-sur-Lavezon
+07318,Tauriers,07318,Tauriers
+07320,Thines,07147,Malarce-sur-la-Thines
+08002,Adon,08113,Chaumont-Porcien
+08007,Les Alleux,08116,Bairon et ses environs
+08009,Amblimont,08311,Mouzon
+08012,Andevanne,08437,Tailly
+08042,Balaives-et-Butz,08173,Flize
+08047,Barbaise,08047,Barbaise
+08050,Barricourt,08437,Tailly
+08051,Bay,08069,Blanchefosse-et-Bay
+08054,Beaulieu,08319,Neuville-lez-Beaulieu
+08068,Blaise,08490,Vouziers
+08072,Bosseval-et-Briancourt,08491,Vrigne aux Bois
+08079,Boutancourt,08173,Flize
+08091,La Cassine,08469,Vendresse
+08093,La Cerleau,08344,Prez
+08108,Château-Regnault-Bogny,08081,Bogny-sur-Meuse
+08112,Châtillon-sur-Bar,08057,Belleville-et-Châtillon-sur-Bar
+08114,Chéhéry,08115,Chémery-Chéhéry
+08118,Chestres,08490,Vouziers
+08119,Cheveuges-Saint-Aignan,08119,Cheveuges
+08125,Montcornet-en-Ardenne,08125,Cliron
+08127,Condé-lès-Vouziers,08490,Vouziers
+08129,Connage,08115,Chémery-sur-Bar
+08152,Élan,08173,Flize
+08157,Étion,08105,Charleville-Mézières
+08177,Foulzy,08189,Girondelle
+08181,Frénois,08409,Sedan
+08213,La Hardoye,08366,Rocquigny-la-Hardoye
+08221,Havys,08169,Flaignes-Havys
+08224,Herbigny,08240,Justine-Herbigny
+08231,Iges,08194,Glaire
+08233,Imécourt,08233,Imécourt
+08241,Juzancourt,08024,Asfeld
+08253,Levrézy,08081,Bogny-sur-Meuse
+08258,Logny-lès-Chaumont,08113,Chaumont-Porcien
+08261,Louvergny,08116,Bairon et ses environs
+08265,Mainbresson,08366,Rocquigny
+08266,Mainbressy,08366,Rocquigny
+08267,Mairy,08145,Douzy
+08270,Malmy,08115,Chémery-sur-Bar
+08285,Meillier-Fontaine,08328,Nouzonville
+08290,Mézières,08105,Charleville-Mézières
+08292,Mohon,08105,Charleville-Mézières
+08294,La Moncelle,08053,Bazeilles
+08297,Montcornet,08297,Montcornet
+08299,Montcy-Saint-Pierre,08105,Charleville-Mézières
+08337,Pargny-Resson,08362,Rethel
+08345,Primat,08333,Olizy-Primat
+08352,Raillicourt-Barbaise,08352,Raillicourt
+08359,Rémonville,08437,Tailly
+08371,Rubécourt-et-Lamécourt,08053,Bazeilles
+08377,Saint-Aignan,08377,Saint-Aignan
+08414,Servion,08370,Rouvroy-sur-Audry
+08423,Sivry-lès-Buzancy,08089,Buzancy
+08441,Termes,08198,Grandpré
+08442,Terron-lès-Vendresse,08469,Vendresse
+08443,Terron-sur-Aisne,08490,Vouziers
+08447,Le Theux,08105,Charleville-Mézières
+08470,Verpel,08470,Verpel
+08474,Villemontry,08311,Mouzon
+08475,Villers-Cernay,08053,Bazeilles
+08493,Vrizy,08490,Vouziers
+08495,Wadimont,08113,Chaumont-Porcien
+09010,Amplaing,09188,Mercus-Garrabet
+09028,Aulos,09296,Aulos-Sinsat
+09036,Banat,09306,Tarascon-sur-Ariège
+09092,Cazenave-Serres-et-Allens,09092,Cazenave-Serres-et-Allens
+09112,Engraviès,09107,Dun
+09135,Goulier,09334,Val-de-Sos
+09144,Irazein,09059,Bonac-Irazein
+09191,Merviel,09107,Dun
+09248,Rogalle,09299,Soueix
+09255,Saint-Amans,09056,Bézac
+09278,Saleix,09030,Auzat
+09286,Sem,09334,Val-de-Sos
+09288,Senesse-de-Senabugue,09107,Dun
+09302,Suc-et-Sentenac,09334,Val-de-Sos
+09306,Tarascon-sur-Ariège,09306,Tarascon-sur-Ariège
+09317,Uchentein,09062,Bordes-Uchentein
+09333,Vic,09223,Oust
+09337,Villeneuve-du-Bosc,09264,Saint-Jean-de-Verges
+10001,L'Abbaye-sous-Plancy,10289,Plancy-l'Abbaye
+10016,Aubigny,10174,Isle-Aubigny
+10036,Beauvoir-sur-Sarce,10058,Bragelogne-Beauvoir
+10038,Bercenay-le-Hayer,10038,Bercenay-le-Hayer
+10043,Bessy,10043,Bessy
+10054,Val-d'Orvin,10054,Bourdenay
+10088,Chassericourt,10094,Chavanges
+10152,Fontaine-Luyères,10084,Charmont-sous-Barbuise
+10244,Montangon,10019,Val-d'Auzon
+10277,Palis,10003,Aix-Villemaur-Pâlis
+10292,Plessis-Gatebled,10208,La Louptière-Thénard
+10311,Quincey,10148,Ferreux-Quincey
+10316,Rhèges-Bessy,10316,Rhèges
+10322,Romaines,10314,Ramerupt
+10383,Trancault,10383,Trancault
+10385,Trouan-le-Grand,10386,Trouans
+10407,Viâpres-le-Grand,10289,Plancy-l'Abbaye
+10413,Villehardouin,10019,Val-d'Auzon
+10415,Villemaur-sur-Vanne,10003,Aix-Villemaur-Pâlis
+11050,Brenac,11304,Quillan
+11097,Conilhac-de-la-Montagne,11323,Roquetaillade-et-Conilhac
+11171,Gueytes-et-Labastide,11080,Val de Lambronne
+11195,Laurabuc-et-Mireval,11195,Laurabuc
+11234,Mireval-Lauragais,11234,Mireval-Lauragais
+11237,Molières-sur-l'Alberte,11183,Ladern-sur-Lauquet
+11298,Pradelles-en-Val,11251,Val-de-Dagne
+11329,Rouvenac,11131,Val-du-Faby
+11349,Saint-Just-de-Bélengard,11128,Escueillens-et-Saint-Just-de-Bélengard
+11403,Vendémies,11206,Limoux
+12003,Les Albres,12003,Les Albres
+12005,Alpuech,12223,Argences en Aubrac
+12014,Aurelle-Verlac,12224,Saint Geniez d'Olt et d'Aubrac
+12020,Balsac,12090,Druelle Balsac
+12040,Buzeins,12270,Sévérac d'Aveyron
+12081,Coussergues,12177,Palmas d'Aveyron
+12087,Cruéjouls,12177,Palmas d'Aveyron
+12112,Graissac,12223,Argences en Aubrac
+12114,Grand-Vabre,12076,Conques-en-Rouergue
+12117,Lacalm,12223,Argences en Aubrac
+12123,Lapanouse,12270,Sévérac d'Aveyron
+12126,Lavernhe,12270,Sévérac d'Aveyron
+12132,Loupiac,12257,Causse-et-Diège
+12173,Noailhac,12076,Conques-en-Rouergue
+12196,Recoules-Prévinquières,12270,Sévérac d'Aveyron
+12218,Saint-Cyprien-sur-Dourdou,12076,Conques-en-Rouergue
+12245,Saint-Salvadou,12021,Le Bas Ségala
+12271,Sévérac-l'Église,12120,Laissac-Sévérac l'Église
+12279,La Terrisse,12223,Argences en Aubrac
+12285,Vabre-Tizac,12021,Le Bas Ségala
+12302,Villevayre,12167,Najac
+12304,Vitrac-en-Viadène,12223,Argences en Aubrac
+12305,Viviez-les-Albres,12305,Viviez
+12306,Vors,12056,Baraqueville
+14002,Acqueville,14150,Cesny-les-Sources
+14004,Aignerville,14281,Formigny La Bataille
+14008,Amblie,14355,Ponts sur Seulles
+14010,Ammeville,14654,Saint-Pierre-en-Auge
+14013,Angoville,14150,Cesny-les-Sources
+14017,Annebecq,14352,Landelles-et-Coupigny
+14018,Arclais,14061,Souleuvre en Bocage
+14028,Auquainville,14371,Livarot-Pays-d'Auge
+14029,Les Autels-Saint-Bazile,14371,Livarot-Pays-d'Auge
+14031,Les Authieux-Papion,14431,Mézidon Vallée d'Auge
+14048,Baynes,14614,Sainte-Marguerite-d'Elle
+14051,Beaufour,14231,Beaufour-Druval
+14052,Beaulieu,14061,Souleuvre en Bocage
+14056,Bauquay,14027,Les Monts d'Aunay
+14058,Bellou,14371,Livarot-Pays-d'Auge
+14065,Bernières-le-Patry,14726,Valdallière
+14067,Berville,14654,Saint-Pierre-en-Auge
+14071,Biéville-en-Auge,14527,Biéville-Quétiéville
+14072,Biéville-sur-Orne,14068,Biéville-Beuville
+14073,La Bigne,14579,Seulline
+14074,Billy,14005,Valambray
+14075,Bissières,14410,Méry-Bissières-en-Auge
+14081,Boissey,14654,Saint-Pierre-en-Auge
+14094,Bray-la-Campagne,14005,Valambray
+14095,Brécy,14200,Creully sur Seulles
+14099,Bretteville-sur-Dives,14654,Saint-Pierre-en-Auge
+14105,La Brévière,14576,Val-de-Vie
+14108,Brocottes,14335,Hotot-en-Auge
+14109,Brouay,14098,Thue et Mue
+14112,Bully,14266,Feuguerolles-Bully
+14113,Burcy,14726,Valdallière
+14114,Bures-sur-Dives,14712,Troarn
+14115,Bures-les-Monts,14061,Souleuvre en Bocage
+14128,Campandré-Valcongrain,14027,Les Monts d'Aunay
+14129,Campeaux,14061,Souleuvre en Bocage
+14133,Canon,14431,Mézidon-Canon
+14139,Carville,14061,Souleuvre en Bocage
+14142,Castilly,14342,Isigny-sur-Mer
+14144,Caumont-sur-Orne,14689,Le Hom
+14148,Cerqueux,14371,Livarot-Pays-d'Auge
+14149,Cesny-aux-Vignes-Ouézy,14149,Cesny-aux-Vignes
+14151,Champ-du-Boult,14658,Noues de Sienne
+14152,La Chapelle-Engerbold,14174,Condé-en-Normandie
+14153,La Chapelle-Haute-Grue,14576,Val-de-Vie
+14154,La Chapelle-Yvon,14570,Valorbiquet
+14155,Cheffreville-Tonnencourt,14371,Livarot-Pays-d'Auge
+14156,Chênedollé,14726,Valdallière
+14157,Cheux,14098,Thue et Mue
+14158,Chicheboville,14456,Moult-Chicheboville
+14164,Clinchamps-sur-Orne,14349,Laize-Clinchamps
+14170,Colomby-sur-Thaon,14014,Colomby-Anguerny
+14176,Conteville,14005,Valambray
+14178,Corbon,14474,Notre-Dame-d'Estrées-Corbon
+14185,Coudray-Rabut,14514,Pont-l'Évêque
+14186,Coulombs,14406,Moulins-en-Bessin
+14187,Coulonces,14762,Vire Normandie
+14188,Coulvain,14579,Seulline
+14189,Coupesarte,14431,Mézidon Vallée d'Auge
+14192,Courson,14658,Noues de Sienne
+14199,La Cressonnière,14621,Saint-Martin-de-Bienfaite-la-Cressonnière
+14201,Crèvecœur-en-Auge,14431,Mézidon Vallée d'Auge
+14208,Croissanville,14431,Mézidon Vallée d'Auge
+14210,La Croupte,14371,Livarot-Pays-d'Auge
+14212,Cully,14406,Moulins-en-Bessin
+14213,Curcy-sur-Orne,14689,Le Hom
+14217,Dampierre,14672,Val de Drôme
+14219,Danvou-la-Ferrière,14027,Les Monts d'Aunay
+14222,Le Désert,14726,Valdallière
+14233,Écajeul,14431,Mézidon Vallée d'Auge
+14234,Écots,14654,Saint-Pierre-en-Auge
+14235,Écrammeville,14281,Formigny La Bataille
+14247,Escures-sur-Favières,14735,Vendeuvre
+14253,Estry,14726,Valdallière
+14255,Étouvy,14061,Souleuvre en Bocage
+14259,Familly,14371,Livarot-Pays-d'Auge
+14262,La Ferrière-au-Doyen,14061,Souleuvre en Bocage
+14263,La Ferrière-Duval,14027,Les Monts d'Aunay
+14264,La Ferrière-Harang,14061,Souleuvre en Bocage
+14265,Fervaques,14371,Livarot-Pays-d'Auge
+14267,Feuguerolles-sur-Seulles,14011,Anctoville
+14268,Fierville-Bray,14005,Valambray
+14279,Fontenermont,14658,Noues de Sienne
+14292,Friardel,14740,La Vespière-Friardel
+14294,Garcelles-Secqueville,14554,Le Castelet
+14295,Garnetot,14654,Saint-Pierre-en-Auge
+14296,Le Gast,14658,Noues de Sienne
+14307,Goupillières,14713,Montillières-sur-Orne
+14313,Grandchamp-le-Château,14431,Mézidon Vallée d'Auge
+14314,Grandmesnil,14654,Saint-Pierre-en-Auge
+14315,Grandouet,14126,Cambremer
+14317,La Graverie,14061,Souleuvre en Bocage
+14321,Grisy,14735,Vendeuvre
+14323,Le Ham,14335,Hotot-en-Auge
+14324,Hamars,14689,Le Hom
+14330,Heurtevent,14371,Livarot-Pays-d'Auge
+14331,Hiéville,14654,Saint-Pierre-en-Auge
+14336,Hottot-Longraye,14336,Hottot-les-Bagues
+14339,Hubert-Folie,14538,Castine-en-Plaine
+14340,Huppain,14515,Port-en-Bessin-Huppain
+14350,La Lande-sur-Drôme,14672,Val de Drôme
+14351,La Lande-Vaumont,14762,Vire Normandie
+14356,Lasson,14543,Rots
+14359,Lécaude,14431,Mézidon Vallée d'Auge
+14361,Lénault,14174,Condé-en-Normandie
+14363,Lieury,14654,Saint-Pierre-en-Auge
+14372,Livry,14143,Caumont-sur-Aure
+14373,Le Locheur,14475,Val d'Arry
+14376,Longraye,14011,Aurseulles
+14382,Louvières,14281,Formigny La Bataille
+14386,Magny-la-Campagne,14431,Mézidon Vallée d'Auge
+14387,Magny-le-Freule,14431,Mézidon Vallée d'Auge
+14388,Maisoncelles-la-Jourdan,14762,Vire Normandie
+14392,Maisy,14312,Grandcamp-Maisy
+14395,Malloué,14061,Souleuvre en Bocage
+14413,Le Mesnil-Auzouf,14347,Dialan sur Chaîne
+14414,Le Mesnil-Bacley,14371,Livarot-Pays-d'Auge
+14415,Le Mesnil-Benoist,14658,Noues de Sienne
+14416,Le Mesnil-Caussois,14658,Noues de Sienne
+14417,Mesnil-Clinchamps,14658,Noues de Sienne
+14418,Le Mesnil-Durand,14371,Livarot-Pays-d'Auge
+14420,Le Mesnil-Germain,14371,Livarot-Pays-d'Auge
+14422,Le Mesnil-Mauger,14431,Mézidon Vallée d'Auge
+14423,Le Mesnil-Patry,14098,Thue et Mue
+14428,Mestry,14342,Isigny-sur-Mer
+14429,Meulles,14371,Livarot-Pays-d'Auge
+14432,Missy,14475,Noyers-Missy
+14433,Mittois,14654,Saint-Pierre-en-Auge
+14434,Le Molay,14370,Le Molay-Littry
+14440,Montamy,14061,Souleuvre en Bocage
+14441,Mont-Bertrand,14061,Souleuvre en Bocage
+14442,Montchamp,14726,Valdallière
+14443,Montchauvet,14061,Souleuvre en Bocage
+14444,Monteille,14431,Mézidon Vallée d'Auge
+14447,Montpinçon,14654,Saint-Pierre-en-Auge
+14450,Montviette,14654,Saint-Pierre-en-Auge
+14451,Morières,14735,Vendeuvre
+14459,Les Moutiers-Hubert,14371,Livarot-Pays-d'Auge
+14462,Neuilly-la-Forêt,14342,Isigny-sur-Mer
+14463,Neuilly-le-Malherbe,14721,Vacognes-Neuilly
+14464,Neuville,14762,Vire
+14470,Norrey-en-Bessin,14610,Saint-Manvieu-Norrey
+14471,Notre-Dame-de-Courson,14371,Livarot-Pays-d'Auge
+14472,L'Oudon,14654,Saint-Pierre-en-Auge
+14477,Ondefontaine,14027,Les Monts d'Aunay
+14479,Orbois,14011,Anctoville
+14481,Les Oubeaux,14342,Isigny-sur-Mer
+14482,Ouézy,14482,Ouézy
+14485,Ouilly-le-Basset,14764,Pont-d'Ouilly
+14489,Ouville-la-Bien-Tournée,14654,Saint-Pierre-en-Auge
+14490,Parfouru-l'Éclin,14143,Caumont-sur-Aure
+14493,Percy-en-Auge,14431,Mézidon Vallée d'Auge
+14503,Pierres,14726,Valdallière
+14505,Placy,14150,Cesny-les-Sources
+14507,Pleines-Œuvres,50592,Tessy-Bocage
+14508,Le Plessis-Grimoult,14027,Les Monts d'Aunay
+14513,Pont-Farcy,50592,Tessy-Bocage
+14517,Poussy-la-Campagne,14005,Valambray
+14518,Préaux-Saint-Sébastien,14371,Livarot-Pays-d'Auge
+14521,Presles,14726,Valdallière
+14523,Proussy,14174,Condé-en-Normandie
+14525,Putot-en-Bessin,14098,Thue et Mue
+14526,Quesnay-Guesnon,14011,Aurseulles
+14532,Le Reculey,14061,Souleuvre en Bocage
+14537,Robehomme,14046,Bavent
+14539,La Rocque,14726,Valdallière
+14544,Roucamps,14027,Les Monts d'Aunay
+14545,Roullours,14762,Vire Normandie
+14548,Rucqueville,14406,Moulins-en-Bessin
+14549,Rully,14726,Valdallière
+14551,Russy,14591,Aure sur Mer
+14553,Saint-Agnan-le-Malherbe,14037,Malherbe-sur-Ajon
+14560,Saint-Aubin-Lébizay,14231,Beaufour-Druval
+14561,Saint-Aubin-sur-Algot,14126,Cambremer
+14564,Saint-Charles-de-Percy,14726,Valdallière
+14567,Saint-Crespin,14431,Mézidon Vallée d'Auge
+14568,Sainte-Croix-Grand-Tonne,14098,Thue et Mue
+14573,Saint-Denis-Maisoncelles,14061,Souleuvre en Bocage
+14577,Saint-Gabriel-Brécy,14200,Creully sur Seulles
+14580,Saint-Georges-en-Auge,14654,Saint-Pierre-en-Auge
+14581,Saint-Germain-d'Ectot,14011,Aurseulles
+14583,Saint-Germain-de-Montgommery,14576,Val-de-Vie
+14584,Saint-Germain-de-Tallevende-la-Lande-Vaumont,14762,Vire Normandie
+14585,Saint-Germain-du-Crioult,14174,Condé-en-Normandie
+14594,Saint-Jacques,14366,Lisieux
+14596,Saint-Jean-des-Essartiers,14672,Val de Drôme
+14597,Saint-Jean-le-Blanc,14357,Terres de Druance
+14599,Saint-Julien-de-Mailloc,14570,Valorbiquet
+14600,Saint-Julien-le-Faucon,14431,Mézidon Vallée d'Auge
+14604,Saint-Laurent-du-Mont,14126,Cambremer
+14608,Saint-Loup-de-Fribois,14527,Belle Vie en Auge
+14611,Saint-Manvieu-Bocage,14658,Noues de Sienne
+14612,Saint-Marc-d'Ouilly,14764,Pont-d'Ouilly
+14615,Sainte-Marguerite-des-Loges,14371,Livarot-Pays-d'Auge
+14616,Sainte-Marguerite-de-Viette,14654,Saint-Pierre-en-Auge
+14617,Sainte-Marie-aux-Anglais,14431,Mézidon Vallée d'Auge
+14618,Sainte-Marie-Laumont,14061,Souleuvre en Bocage
+14624,L'Oudon,14654,Saint-Pierre-en-Auge
+14628,Saint-Martin-de-Sallen,14689,Le Hom
+14629,Saint-Martin-des-Besaces,14061,Souleuvre en Bocage
+14631,Saint-Martin-de-Tallevende,14762,Vire
+14632,Saint-Martin-Don,14061,Souleuvre en Bocage
+14633,Saint-Martin-du-Mesnil-Oury,14371,Livarot-Pays-d'Auge
+14634,Saint-Michel-de-Livet,14371,Livarot-Pays-d'Auge
+14636,Saint-Ouen-des-Besaces,14061,Souleuvre en Bocage
+14638,Saint-Ouen-le-Houx,14371,Livarot-Pays-d'Auge
+14641,Saint-Pair-du-Mont,14126,Cambremer
+14642,Saint-Paul-de-Courtonne,14194,Courtonne-les-Deux-Églises
+14647,Saint-Pierre-de-Mailloc,14570,Valorbiquet
+14653,Saint-Pierre-la-Vieille,14174,Condé-en-Normandie
+14655,Saint-Pierre-Tarentaine,14061,Souleuvre en Bocage
+14662,Saint-Vigor-des-Mézerets,14357,Terres de Druance
+14666,Sannerville,14666,Sannerville
+14670,Secqueville-en-Bessin,14543,Rots
+14671,Sept-Frères,14658,Noues de Sienne
+14673,Sermentot,14011,Anctoville
+14683,Tailleville,14228,Douvres-la-Délivrande
+14686,Le Theil-Bocage,14726,Valdallière
+14688,Thiéville,14654,Saint-Pierre-en-Auge
+14690,Tierceville,14355,Ponts sur Seulles
+14691,Tilly-la-Campagne,14538,Castine-en-Plaine
+14693,Tordouet,14570,Valorbiquet
+14695,Torteval-Quesnay,14011,Aurseulles
+14696,Tortisambert,14371,Livarot-Pays-d'Auge
+14697,L'Oudon,14654,Saint-Pierre-en-Auge
+14702,Tournay-sur-Odon,14475,Val d'Arry
+14703,Tournebu,14150,Cesny-les-Sources
+14704,Le Tourneur,14061,Souleuvre en Bocage
+14712,Saline,14712,Troarn
+14717,Truttemer-le-Grand,14762,Vire Normandie
+14718,Truttemer-le-Petit,14762,Vire Normandie
+14722,La Vacquerie,14143,Caumont-sur-Aure
+14725,Vasouy,14333,Honfleur
+14727,Vaubadon,14035,Balleroy-sur-Drôme
+14729,Vaudeloges,14654,Saint-Pierre-en-Auge
+14730,Vaudry,14762,Vire Normandie
+14736,Venoix,14118,Caen
+14746,Viessoix,14726,Valdallière
+14749,Vieux-Fumé,14431,Mézidon Vallée d'Auge
+14750,Vieux-Pont-en-Auge,14654,Saint-Pierre-en-Auge
+14757,Villiers-le-Sec,14200,Creully sur Seulles
+14763,Vouilly,14342,Isigny-sur-Mer
+15003,Ally,15003,Ally
+15023,Bournoncles,15108,Loubaresse
+15024,Brageac,15024,Brageac
+15031,Celles,15141,Neussargues en Pinatelle
+15035,Chalinargues,15141,Neussargues en Pinatelle
+15039,Chanet,15001,Allanche
+15044,Chastel-sur-Murat,15138,Murat
+15047,Chavagnac,15141,Neussargues en Pinatelle
+15062,Drignac,15003,Ally
+15068,Faverolles,15108,Val d'Arcomie
+15071,Fournoulès,15181,Saint-Constant-Fournoulès
+15099,Lavastrie,15142,Neuvéglise-sur-Truyère
+15109,Loupiac,15153,Pleaux
+15115,Marchal,15038,Champs-sur-Tarentaine-Marchal
+15136,Mourjou,15027,Puycapel
+15140,Naucelles-Reilhac,15140,Naucelles
+15145,Oradour,15142,Neuvéglise-sur-Truyère
+15150,Pers,15268,Le Rouget-Pers
+15160,Reilhac,15160,Reilhac
+15171,Sainte-Anastasie,15141,Neussargues en Pinatelle
+15177,Saint-Christophe-les-Gorges,15153,Pleaux
+15193,Saint-Julien-de-Jordanne,15113,Mandailles-Saint-Julien
+15195,Saint-Just,15108,Val d'Arcomie
+15197,Saint-Marc,15108,Val d'Arcomie
+15210,Saint-Rémy-de-Salers,15202,Saint-Martin-Valmeroux
+15227,Sériers,15142,Neuvéglise-sur-Truyère
+15239,Tourniac,15153,Pleaux
+16004,Aignes-et-Puypéroux,16230,Montmoreau
+16006,Aizecq,16242,Nanteuil-en-Vallée
+16010,Ambleville,16186,Lignières-Ambleville
+16017,Anville,16339,Val-d'Auge
+16021,Aubeville,16175,Val des Vignes
+16022,Auge,16339,Auge-Saint-Médard
+16029,Brie-Bardenac,16029,Bardenac
+16033,Bayers,16023,Aunac-sur-Charente
+16043,Bignac,16148,Genac-Bignac
+16051,Bonneville,16339,Val-d'Auge
+16063,Brie-sous-Chalais,16063,Brie-sous-Chalais
+16080,Chantrezac,16192,Roumazières-Loubert
+16092,Chavenat,16082,Boisné-La Tude
+16094,Chenommet,16023,Aunac-sur-Charente
+16115,Cressac-Saint-Genis,16046,Côteaux du Blanzacais
+16126,Embourie,16253,Paizay-Naudouin-Embourie
+16129,Éraville,16204,Bellevigne
+16140,Fontclaireau,16206,Mansle-les-Fontaines
+16149,Genouillac,16192,Terres-de-Haute-Charente
+16156,Gourville,16286,Rouillac
+16159,Graves,16297,Graves-Saint-Amant
+16172,Juillaguet,16082,Boisné-La Tude
+16179,Lamérac,16224,Montmérac
+16201,Mainfonds,16175,Val des Vignes
+16202,Mainxe,16153,Mainxe-Gondeville
+16214,Mazières,16192,Terres-de-Haute-Charente
+16219,Messeux,16242,Nanteuil-en-Vallée
+16228,Montigné,16339,Val-d'Auge
+16235,Moutardon,16242,Nanteuil-en-Vallée
+16247,Nonaville,16204,Bellevigne
+16257,Péreuil,16175,Val des Vignes
+16259,La Péruse,16192,Terres-de-Haute-Charente
+16262,Plaizac,16286,Rouillac
+16265,Porcheresse,16046,Blanzac-Porcheresse
+16266,Pougné,16242,Nanteuil-en-Vallée
+16274,Rancogne,16406,Moulins-sur-Tardoire
+16278,Richemont,16097,Cherves-Richemont
+16288,Roumazières,16192,Roumazières-Loubert
+16294,Saint-Amant-de-Montmoreau,16230,Montmoreau
+16296,Saint-Amant-de-Bonnieure,16300,Val-de-Bonnieure
+16299,Saint-André,16193,Louzac-Saint-André
+16305,Saint-Christophe-de-Chalais,16073,Chalais
+16309,Sainte-Colombe,16300,Val-de-Bonnieure
+16311,Saint-Cybard,16230,Montmoreau-Saint-Cybard
+16313,Saint-Estèphe,16287,Roullet-Saint-Estèphe
+16314,Saint-Eutrope,16230,Montmoreau
+16319,Saint-Genis-de-Blanzac,16046,Côteaux du Blanzacais
+16322,Saint-Germain-de-Confolens,16106,Confolens
+16324,Saint-Gervais,16242,Nanteuil-en-Vallée
+16327,Saint-Hilaire,16028,Barbezieux-Saint-Hilaire
+16328,Saint-Laurent-de-Belzagot,16230,Montmoreau
+16332,Saint-Léger,16046,Coteaux-du-Blanzacais
+16333,Sainte-Marie,16073,Chalais
+16344,Saint-Projet-Saint-Constant,16281,La Rochefoucauld-en-Angoumois
+16351,Saint-Simeux,16233,Mosnac-Saint-Simeux
+16355,Saint-Sulpice-de-Cognac,16097,Val-de-Cognac
+16367,Sérignac,16073,Chalais
+16371,Sonneville,16286,Rouillac
+16376,Suris,16192,Terres-de-Haute-Charente
+16386,Touzac,16204,Bellevigne
+16391,Tuzie,16110,Courcôme
+16407,Villars,16198,Magnac-Lavalette-Villars
+16410,Villegats,16110,Courcôme
+16411,Villejésus,16005,Aigre
+16417,Viville,16204,Bellevigne
+17001,Agonnay,17397,Saint-Savinien
+17014,Antignac,17332,Saint-Georges-Antignac
+17040,La Benâte,17277,Essouvert
+17088,La Chapelle-Bâton,17013,Antezant-la-Chapelle
+17090,Chardes,17240,Montendre
+17103,Chervettes,17457,La Devise
+17123,Coulonge-sur-Charente,17397,Saint-Savinien
+17144,Ébéon,17026,Authon-Ébéon
+17169,La Frédière,17344,Saint-Hilaire-de-Villefranche
+17170,La Garde,17243,Montlieu-la-Garde
+17189,Hiers-Brouage,17219,Marennes-Hiers-Brouage
+17238,Moings,17295,Réaux sur Trèfle
+17251,Moulons,17282,Pommiers-Moulons
+17272,Péré,17340,Saint-Pierre-La-Noue
+17352,Saint-Laurent-de-la-Barrière,17457,La Devise
+17368,Saint-Martin-de-la-Coudre,17043,Bernay-Saint-Martin
+17370,Saint-Maurice-de-Laurençanne,17454,Tugéras-Saint-Maurice
+17371,Saint-Maurice-de-Tavernole,17295,Réaux sur Trèfle
+17392,Saint-Romain-sur-Gironde,17160,Floirac
+17399,Saint-Seurin-d'Uzet,17098,Chenac-Saint-Seurin-d'Uzet
+17419,Salles-lès-Aulnay,17024,Aulnay
+17456,Vallet,17240,Montendre
+17475,Villenouvelle,17474,Villeneuve-la-Comtesse
+18123,Laverdines,18023,Baugy
+18131,Lugny-Bourbonnais,18173,Osmery
+18222,Sainte-Lunaise,18073,Corquoy
+18239,Saligny-le-Vif,18023,Baugy
+19032,Brivezac,19019,Beaulieu-sur-Dordogne
+19092,Le Jardin,19143,Montaignac-sur-Doustre
+19127,Marc-la-Tour,19098,Lagarde-Marc-la-Tour
+19183,Saint-Bazile-de-la-Roche,19010,Argentat-sur-Dordogne
+19185,Saint-Bonnet-Avalouze,19101,Laguenne-sur-Avalouze
+19197,Saint-Dézery,19275,Ussel
+19206,Saint-Germain-Lavolps,19206,Saint-Germain-Lavolps
+19218,Saint-Julien-près-Bort,19252,Sarroux - Saint Julien
+19224,Saint-Mathurin-Léobazel,19034,Camps-Saint-Mathurin-Léobazel
+19261,Sornac-Saint-Germain-Lavolps,19261,Sornac
+19267,La Tourette,19275,Ussel
+19282,Venarsal,19123,Malemort
+20001,Afa,2A001,Afa
+20002,Aghione,2B002,Aghione
+20003,Aiti,2B003,Aiti
+20004,Ajaccio,2A004,Ajaccio
+20005,Alando,2B005,Alando
+20006,Alata,2A006,Alata
+20007,Albertacce,2B007,Albertacce
+20008,Albitreccia,2A008,Albitreccia
+20009,Aléria,2B009,Aléria
+20010,Algajola,2B010,Algajola
+20011,Altagène,2A011,Altagène
+20012,Altiani,2B012,Altiani
+20013,Alzi,2B013,Alzi
+20014,Ambiegna,2A014,Ambiegna
+20015,Ampriani,2B015,Ampriani
+20016,Antisanti,2B016,Antisanti
+20017,Appietto,2A017,Appietto
+20018,Arbellara,2A018,Arbellara
+20019,Arbori,2A019,Arbori
+20020,Aregno,2B020,Aregno
+20021,Argiusta-Moriccio,2A021,Argiusta-Moriccio
+20022,Arro,2A022,Arro
+20023,Asco,2B023,Asco
+20024,Aullène,2A024,Aullène
+20025,Avapessa,2B025,Avapessa
+20026,Azilone-Ampaza,2A026,Azilone-Ampaza
+20027,Azzana,2A027,Azzana
+20028,Balogna,2A028,Balogna
+20029,Barbaggio,2B029,Barbaggio
+20030,Barrettali,2B030,Barrettali
+20031,Bastelica,2A031,Bastelica
+20032,Bastelicaccia,2A032,Bastelicaccia
+20033,Bastia,2B033,Bastia
+20034,Belgodère,2B034,Belgodère
+20035,Belvédère-Campomoro,2A035,Belvédère-Campomoro
+20036,Bigorno,2B036,Bigorno
+20037,Biguglia,2B037,Biguglia
+20038,Bilia,2A038,Bilia
+20039,Bisinchi,2B039,Bisinchi
+20040,Bocognano,2A040,Bocognano
+20041,Bonifacio,2A041,Bonifacio
+20042,Borgo,2B042,Borgo
+20043,Brando,2B043,Brando
+20044,Brustico,2B063,Carcheto-Brustico
+20045,Bustanico,2B045,Bustanico
+20046,Cagnano,2B046,Cagnano
+20047,Calacuccia,2B047,Calacuccia
+20048,Calcatoggio,2A048,Calcatoggio
+20049,Calenzana,2B049,Calenzana
+20050,Calvi,2B050,Calvi
+20051,Cambia,2B051,Cambia
+20052,Campana,2B052,Campana
+20053,Campi,2B053,Campi
+20054,Campile,2B054,Campile
+20055,Campitello,2B055,Campitello
+20056,Campo,2A056,Campo
+20057,Canale-di-Verde,2B057,Canale-di-Verde
+20058,Canari,2B058,Canari
+20059,Canavaggia,2B059,Canavaggia
+20060,Cannelle,2A060,Cannelle
+20061,Carbini,2A061,Carbini
+20062,Carbuccia,2A062,Carbuccia
+20063,Carcheto-Brustico,2B063,Carcheto-Brustico
+20064,Cardo-Torgia,2A064,Cardo-Torgia
+20065,Cargèse,2A065,Cargèse
+20066,Cargiaca,2A066,Cargiaca
+20067,Carpineto,2B067,Carpineto
+20068,Carticasi,2B068,Carticasi
+20069,Casabianca,2B069,Casabianca
+20070,Casaglione,2A070,Casaglione
+20071,Casalabriva,2A071,Casalabriva
+20072,Casalta,2B072,Casalta
+20073,Casamaccioli,2B073,Casamaccioli
+20074,Casanova,2B074,Casanova
+20075,Casevecchie,2B075,Casevecchie
+20076,Cassano,2B167,Montegrosso
+20077,Castellare-di-Casinca,2B077,Castellare-di-Casinca
+20078,Castellare-di-Mercurio,2B078,Castellare-di-Mercurio
+20079,Castello-di-Rostino,2B079,Castello-di-Rostino
+20080,Castifao,2B080,Castifao
+20081,Castiglione,2B081,Castiglione
+20082,Castineta,2B082,Castineta
+20083,Castirla,2B083,Castirla
+20084,Cateri,2B084,Cateri
+20085,Cauro,2A085,Cauro
+20086,Centuri,2B086,Centuri
+20087,Cervione,2B087,Cervione
+20088,Chiatra,2B088,Chiatra
+20089,Ciamannacce,2A089,Ciamannacce
+20090,Coggia,2A090,Coggia
+20091,Cognocoli-Monticchi,2A091,Cognocoli-Monticchi
+20092,Conca,2A092,Conca
+20093,Corbara,2B093,Corbara
+20094,Corrano,2A094,Corrano
+20095,Corscia,2B095,Corscia
+20096,Corte,2B096,Corte
+20097,Costa,2B097,Costa
+20098,Coti-Chiavari,2A098,Coti-Chiavari
+20099,Cozzano,2A099,Cozzano
+20100,Cristinacce,2A100,Cristinacce
+20101,Croce,2B101,Croce
+20102,Crocicchia,2B102,Crocicchia
+20103,Cuttoli-Corticchiato,2A103,Cuttoli-Corticchiato
+20104,Eccica-Suarella,2A104,Eccica-Suarella
+20105,Erbajolo,2B105,Erbajolo
+20106,Érone,2B106,Érone
+20107,Ersa,2B107,Ersa
+20108,Évisa,2A108,Évisa
+20109,Farinole,2B109,Farinole
+20110,Favalello,2B110,Favalello
+20111,Felce,2B111,Felce
+20112,Feliceto,2B112,Feliceto
+20113,Ficaja,2B113,Ficaja
+20114,Figari,2A114,Figari
+20115,Foce,2A115,Foce
+20116,Focicchia,2B116,Focicchia
+20117,Forciolo,2A117,Forciolo
+20118,Fozzano,2A118,Fozzano
+20119,Frasseto,2A119,Frasseto
+20120,Furiani,2B120,Furiani
+20121,Galéria,2B121,Galéria
+20122,Gavignano,2B122,Gavignano
+20123,Ghisonaccia,2B123,Ghisonaccia
+20124,Ghisoni,2B124,Ghisoni
+20125,Giocatojo,2B125,Giocatojo
+20126,Giuncaggio,2B126,Giuncaggio
+20127,Giuncheto,2A127,Giuncheto
+20128,Granace,2A128,Granace
+20129,Grossa,2A129,Grossa
+20130,Grosseto-Prugna,2A130,Grosseto-Prugna
+20131,Guagno,2A131,Guagno
+20132,Guargualé,2A132,Guargualé
+20133,Guitera-les-Bains,2A133,Guitera-les-Bains
+20134,L'Île-Rousse,2B134,L'Île-Rousse
+20135,Isolaccio-di-Fiumorbo,2B135,Isolaccio-di-Fiumorbo
+20136,Lama,2B136,Lama
+20137,Lano,2B137,Lano
+20138,Lavatoggio,2B138,Lavatoggio
+20139,Lecci,2A139,Lecci
+20140,Lento,2B140,Lento
+20141,Letia,2A141,Letia
+20142,Levie,2A142,Levie
+20143,Linguizzetta,2B143,Linguizzetta
+20144,Lopigna,2A144,Lopigna
+20145,Loreto-di-Casinca,2B145,Loreto-di-Casinca
+20146,Loreto-di-Tallano,2A146,Loreto-di-Tallano
+20147,Lozzi,2B147,Lozzi
+20148,Lucciana,2B148,Lucciana
+20149,Lugo-di-Nazza,2B149,Lugo-di-Nazza
+20150,Lumio,2B150,Lumio
+20151,Lunghignano,2B167,Montegrosso
+20152,Luri,2B152,Luri
+20153,Manso,2B153,Manso
+20154,Marignana,2A154,Marignana
+20155,Matra,2B155,Matra
+20156,Mausoléo,2B156,Mausoléo
+20157,Mazzola,2B157,Mazzola
+20158,Mela,2A158,Mela
+20159,Meria,2B159,Meria
+20160,Moca-Croce,2A160,Moca-Croce
+20161,Moïta,2B161,Moïta
+20162,Moltifao,2B162,Moltifao
+20163,Monacia-d'Aullène,2A163,Monacia-d'Aullène
+20164,Monacia-d'Orezza,2B164,Monacia-d'Orezza
+20165,Moncale,2B165,Moncale
+20166,Monte,2B166,Monte
+20167,Montegrosso,2B167,Montegrosso
+20168,Monticello,2B168,Monticello
+20169,Morosaglia,2B169,Morosaglia
+20170,Morsiglia,2B170,Morsiglia
+20171,Muracciole,2B171,Muracciole
+20172,Murato,2B172,Murato
+20173,Muro,2B173,Muro
+20174,Murzo,2A174,Murzo
+20175,Nessa,2B175,Nessa
+20176,Nocario,2B176,Nocario
+20177,Noceta,2B177,Noceta
+20178,Nonza,2B178,Nonza
+20179,Novale,2B179,Novale
+20180,Novella,2B180,Novella
+20181,Ocana,2A181,Ocana
+20182,Occhiatana,2B182,Occhiatana
+20183,Ogliastro,2B183,Ogliastro
+20184,Olcani,2B184,Olcani
+20185,Oletta,2B185,Oletta
+20186,Olivese,2A186,Olivese
+20187,Olmeta-di-Capocorso,2B187,Olmeta-di-Capocorso
+20188,Olmeta-di-Tuda,2B188,Olmeta-di-Tuda
+20189,Olmeto,2A189,Olmeto
+20190,Olmi-Cappella,2B190,Olmi-Cappella
+20191,Olmiccia,2A191,Olmiccia
+20192,Olmo,2B192,Olmo
+20193,Omessa,2B193,Omessa
+20194,Ortale,2B194,Ortale
+20195,Ortiporio,2B195,Ortiporio
+20196,Orto,2A196,Orto
+20197,Osani,2A197,Osani
+20198,Ota,2A198,Ota
+20199,Palasca,2B199,Palasca
+20200,Palneca,2A200,Palneca
+20201,Pancheraccia,2B201,Pancheraccia
+20202,Parata,2B202,Parata
+20203,Partinello,2A203,Partinello
+20204,Pastricciola,2A204,Pastricciola
+20205,Patrimonio,2B205,Patrimonio
+20206,Penta-Acquatella,2B206,Penta-Acquatella
+20207,Penta-di-Casinca,2B207,Penta-di-Casinca
+20208,Perelli,2B208,Perelli
+20209,Peri,2A209,Peri
+20210,Pero-Casevecchie,2B210,Pero-Casevecchie
+20211,Petreto-Bicchisano,2A211,Petreto-Bicchisano
+20212,Piana,2A212,Piana
+20213,Pianello,2B213,Pianello
+20214,Piano,2B214,Piano
+20215,Pianotolli-Caldarello,2A215,Pianotolli-Caldarello
+20216,Piazzali,2B216,Piazzali
+20217,Piazzole,2B217,Piazzole
+20218,Piedicorte-di-Gaggio,2B218,Piedicorte-di-Gaggio
+20219,Piedicroce,2B219,Piedicroce
+20220,Piedigriggio,2B220,Piedigriggio
+20221,Piedipartino,2B221,Piedipartino
+20222,Pie-d'Orezza,2B222,Pie-d'Orezza
+20223,Pietralba,2B223,Pietralba
+20224,Pietracorbara,2B224,Pietracorbara
+20225,Pietra-di-Verde,2B225,Pietra-di-Verde
+20226,Pietraserena,2B226,Pietraserena
+20227,Pietricaggio,2B227,Pietricaggio
+20228,Pietrosella,2A228,Pietrosella
+20229,Pietroso,2B229,Pietroso
+20230,Piève,2B230,Piève
+20231,Pigna,2B231,Pigna
+20232,Pila-Canale,2A232,Pila-Canale
+20233,Pino,2B233,Pino
+20234,Piobetta,2B234,Piobetta
+20235,Pioggiola,2B235,Pioggiola
+20236,Poggio-di-Nazza,2B236,Poggio-di-Nazza
+20237,Poggio-di-Tallano,2A308,Sainte-Lucie-de-Tallano
+20238,Poggio-di-Venaco,2B238,Poggio-di-Venaco
+20239,Poggio-d'Oletta,2B239,Poggio-d'Oletta
+20240,Poggiolo,2A240,Poggiolo
+20241,Poggio-Marinaccio,2B241,Poggio-Marinaccio
+20242,Poggio-Mezzana,2B242,Poggio-Mezzana
+20243,Polveroso,2B243,Polveroso
+20244,Popolasca,2B244,Popolasca
+20245,Porri,2B245,Porri
+20246,La Porta,2B246,La Porta
+20247,Porto-Vecchio,2A247,Porto-Vecchio
+20248,Prato-di-Giovellina,2B248,Prato-di-Giovellina
+20249,Propriano,2A249,Propriano
+20250,Prunelli-di-Casacconi,2B250,Prunelli-di-Casacconi
+20251,Prunelli-di-Fiumorbo,2B251,Prunelli-di-Fiumorbo
+20252,Pruno,2B252,Pruno
+20253,Quasquara,2A253,Quasquara
+20254,Quenza,2A254,Quenza
+20255,Quercitello,2B255,Quercitello
+20256,Rapaggio,2B256,Rapaggio
+20257,Rapale,2B257,Rapale
+20258,Renno,2A258,Renno
+20259,Rezza,2A259,Rezza
+20260,Riventosa,2B260,Riventosa
+20261,Rogliano,2B261,Rogliano
+20262,Rosazia,2A262,Rosazia
+20263,Rospigliani,2B263,Rospigliani
+20264,Rusio,2B264,Rusio
+20265,Rutali,2B265,Rutali
+20266,Salice,2A266,Salice
+20267,Saliceto,2B267,Saliceto
+20268,Sampolo,2A268,Sampolo
+20269,Sari-di-Porto-Vecchio,2A269,Sari-di-Porto-Vecchio
+20270,Sari-d'Orcino,2A270,Sari-d'Orcino
+20271,Sarrola-Carcopino,2A271,Sarrola-Carcopino
+20272,Sartène,2A272,Sartène
+20273,Scata,2B273,Scata
+20274,Scolca,2B274,Scolca
+20275,Sermano,2B275,Sermano
+20276,Serra-di-Ferro,2A276,Serra-di-Ferro
+20277,Serra-di-Fiumorbo,2B277,Serra-di-Fiumorbo
+20278,Serra-di-Scopamène,2A278,Serra-di-Scopamène
+20279,Serriera,2A279,Serriera
+20280,Silvareccio,2B280,Silvareccio
+20281,Sisco,2B281,Sisco
+20282,Soccia,2A282,Soccia
+20283,Solaro,2B283,Solaro
+20284,Sollacaro,2A284,Sollacaro
+20285,Sorbollano,2A285,Sorbollano
+20286,Sorbo-Ocagnano,2B286,Sorbo-Ocagnano
+20287,Sorio,2B287,Sorio
+20288,Sotta,2A288,Sotta
+20289,Soveria,2B289,Soveria
+20290,Speloncato,2B290,Speloncato
+20291,Stazzona,2B291,Stazzona
+20292,Sant'Andréa-di-Bozio,2B292,Sant'Andréa-di-Bozio
+20293,Sant'Andréa-di-Cotone,2B293,Sant'Andréa-di-Cotone
+20294,Sant'Andréa-di-Tallano,2A308,Sainte-Lucie-de-Tallano
+20295,Sant'Andréa-d'Orcino,2A295,Sant'Andréa-d'Orcino
+20296,Sant'Antonino,2B296,Sant'Antonino
+20297,San-Damiano,2B297,San-Damiano
+20298,Saint-Florent,2B298,Saint-Florent
+20299,San-Gavino-d'Ampugnani,2B299,San-Gavino-d'Ampugnani
+20300,San-Gavino-di-Carbini,2A300,San-Gavino-di-Carbini
+20301,San-Gavino-di-Tenda,2B301,San-Gavino-di-Tenda
+20302,San-Giovanni-di-Moriani,2B302,San-Giovanni-di-Moriani
+20303,San-Giuliano,2B303,San-Giuliano
+20304,San-Lorenzo,2B304,San-Lorenzo
+20305,San-Martino-di-Lota,2B305,San-Martino-di-Lota
+20306,Santa-Lucia-di-Mercurio,2B306,Santa-Lucia-di-Mercurio
+20307,Santa-Lucia-di-Moriani,2B307,Santa-Lucia-di-Moriani
+20308,Sainte-Lucie-de-Tallano,2A308,Sainte-Lucie-de-Tallano
+20309,Santa-Maria-di-Lota,2B309,Santa-Maria-di-Lota
+20310,Santa-Maria-Figaniella,2A310,Santa-Maria-Figaniella
+20311,Santa-Maria-Poggio,2B311,Santa-Maria-Poggio
+20312,Santa-Maria-Siché,2A312,Santa-Maria-Siché
+20313,San-Nicolao,2B313,San-Nicolao
+20314,Santo-Pietro-di-Tenda,2B314,Santo-Pietro-di-Tenda
+20315,Santo-Pietro-di-Venaco,2B315,Santo-Pietro-di-Venaco
+20316,Santa-Reparata-di-Balagna,2B316,Santa-Reparata-di-Balagna
+20317,Santa-Reparata-di-Moriani,2B317,Santa-Reparata-di-Moriani
+20318,Taglio-Isolaccio,2B318,Taglio-Isolaccio
+20319,Talasani,2B319,Talasani
+20320,Tallone,2B320,Tallone
+20321,Tarrano,2B321,Tarrano
+20322,Tasso,2A322,Tasso
+20323,Tavaco,2A323,Tavaco
+20324,Tavera,2A324,Tavera
+20325,Tivolaggio,2A249,Propriano
+20326,Tolla,2A326,Tolla
+20327,Tomino,2B327,Tomino
+20328,Tox,2B328,Tox
+20329,Tralonca,2B329,Tralonca
+20330,Ucciani,2A330,Ucciani
+20331,Urbalacone,2A331,Urbalacone
+20332,Urtaca,2B332,Urtaca
+20333,Vallecalle,2B333,Vallecalle
+20334,Valle-d'Alesani,2B334,Valle-d'Alesani
+20335,Valle-di-Campoloro,2B335,Valle-di-Campoloro
+20336,Valle-di-Mezzana,2A336,Valle-di-Mezzana
+20337,Valle-di-Rostino,2B337,Valle-di-Rostino
+20338,Valle-d'Orezza,2B338,Valle-d'Orezza
+20339,Vallica,2B339,Vallica
+20340,Velone-Orneto,2B340,Velone-Orneto
+20341,Venaco,2B341,Venaco
+20342,Ventiseri,2B342,Ventiseri
+20343,Venzolasca,2B343,Venzolasca
+20344,Verdèse,2B344,Verdèse
+20345,Vero,2A345,Vero
+20346,Vescovato,2B346,Vescovato
+20347,Vezzani,2B347,Vezzani
+20348,Vico,2A348,Vico
+20349,Viggianello,2A349,Viggianello
+20350,Vignale,2B350,Vignale
+20351,Villanova,2A351,Villanova
+20352,Ville-di-Paraso,2B352,Ville-di-Paraso
+20353,Ville-di-Pietrabugno,2B353,Ville-di-Pietrabugno
+20354,Vivario,2B354,Vivario
+20355,Volpajola,2B355,Volpajola
+20356,Zalana,2B356,Zalana
+20357,Zérubia,2A357,Zérubia
+20358,Zévaco,2A358,Zévaco
+20359,Zicavo,2A359,Zicavo
+20360,Zigliara,2A360,Zigliara
+20361,Zilia,2B361,Zilia
+20362,Zonza,2A362,Zonza
+20363,Zoza,2A363,Zoza
+20364,Zuani,2B364,Zuani
+20365,San-Gavino-di-Fiumorbo,2B365,San-Gavino-di-Fiumorbo
+20366,Chisa,2B366,Chisa
+21019,Arçon,21060,Belleneuve
+21073,Bierre-lès-Semur,21272,Le Val-Larrey
+21074,Billey,21074,Billey
+21174,Cirey,21461,Nolay
+21188,Concœur-et-Corboin,21464,Nuits-Saint-Georges
+21206,Courchamp,21158,Chaume-et-Courchamp
+21213,Crimolois,21452,Neuilly-Crimolois
+21268,Flagey-lès-Auxonne,21268,Flagey-lès-Auxonne
+21318,Ivry-en-Montagne,21327,Val-Mont
+21331,Labergement-lès-Auxonne-Billey-Flagey,21331,Labergement-lès-Auxonne
+21443,Mornay,21433,Montigny-Mornay-Villeneuve-sur-Vingeanne
+21453,Neuvelle-lès-Grancey,21304,Grancey-le-Château-Neuvelle
+21486,Pluvault,21352,Longeault-Pluvault
+21507,Premières,21183,Collonges-et-Premières
+21509,Prissey,21506,Premeaux-Prissey
+21513,Quemigny-Poisot,21178,Valforêt
+21551,Saint-Germain-Source-Seine,21084,Source-Seine
+21621,Tart-l'Abbaye,21623,Tart
+21654,Vantoux-lès-Dijon,21408,Messigny-et-Vantoux
+21658,Vauchignon,21195,Cormot-Vauchignon
+21668,Véronnes-les-Petites,21667,Véronnes
+21697,La Villeneuve-sur-Vingeanne,21433,Montigny-Mornay-Villeneuve-sur-Vingeanne
+22007,Binic,22055,Binic-Étables-sur-Mer
+22010,Bonen,22266,Rostrenen
+22017,Brélévenez,22113,Lannion
+22022,Buhulien,22113,Lannion
+22038,Châtelaudren,22206,Châtelaudren-Plouagat
+22051,Dolo,22084,Jugon-les-Lacs - Commune nouvelle
+22058,La Ferrière,22183,Les Moulins
+22066,Le Gouray,22046,Le Mené
+22078,Hengoat,22264,La Roche-Jaudy
+22080,L'Hermitage-Lorge,22203,Plœuc-L'Hermitage
+22089,Kerity,22162,Paimpol
+22100,Langast,22219,Plouguenast-Langast
+22102,Langourla,22046,Le Mené
+22103,Langrolay-sur-Rance,22103,Langrolay-sur-Rance
+22120,Lanvézéac,22030,Caouënnec-Lanvézéac
+22123,Léhon,22050,Dinan
+22125,Lescouët-Jugon,22084,Jugon-les-Lacs
+22130,Loguivy-lès-Lannion,22113,Lannion
+22142,Maroué,22093,Lamballe
+22151,Meslin,22093,Lamballe
+22154,Morieux,22093,Lamballe-Armor
+22159,Notre-Dame-du-Guildo,22282,Saint-Cast-le-Guildo
+22165,Penguily,22165,Penguily
+22167,Perret,22107,Bon Repos sur Blavet
+22173,Planguenoual,22093,Lamballe-Armor
+22179,Fréhel,22179,Fréhel
+22191,Plessala,22046,Le Mené
+22192,Plessix-Balisson,22209,Beaussais-sur-Mer
+22201,Plévenon,22201,Plévenon
+22204,Ploëzal-Runan,22204,Ploëzal
+22213,Plouër-Langrolay-sur-Rance,22213,Plouër-sur-Rance
+22230,Plounez,22162,Paimpol
+22247,Pommerit-Jaudy,22264,La Roche-Jaudy
+22252,La Poterie,22093,Lamballe
+22253,Pouldouran,22264,La Roche-Jaudy
+22269,Runan,22269,Runan
+22270,Saint-Aaron,22093,Lamballe
+22290,Saint-Gelven,22107,Bon Repos sur Blavet
+22292,Saint-Gilles-du-Mené,22046,Le Mené
+22296,Saint-Glen-Penguily,22296,Saint-Glen
+22297,Saint-Gouéno,22046,Le Mené
+22298,Saint-Guen,22158,Guerlédan
+22301,Saint-Igneuc,22084,Jugon-les-Lacs
+22303,Saint-Jacut-du-Mené,22046,Le Mené
+22329,Saint-Solen,22118,Lanvallay
+22336,Servel,22113,Lannion
+22355,Trégomar,22093,Lamballe
+22357,Trégon,22209,Beaussais-sur-Mer
+22367,Tréméloir,22251,Pordic
+22374,Tressaint,22118,Lanvallay
+22382,Trigavou,22190,Pleslin-Trigavou
+23085,Les Forges,23093,Gouzon
+23094,Gouzougnat,23093,Gouzon
+23121,Malval,23109,Linard-Malval
+23126,Masbaraud-Mérignat,23189,Saint-Dizier-Masbaraud
+23135,Morterolles,23227,Saint-Pardoux-Morterolles
+23153,Pigerolles,23090,Gentioux-Pigerolles
+23161,Rimondeix,23149,Parsac-Rimondeix
+23163,La Rochette,23220,Saint-Médard-la-Rochette
+23231,Saint-Pierre-de-Fursac,23192,Fursac
+23256,Le Trucq,23067,La Courtine-le-Trucq
+24003,Aillac,24082,Carsac-Aillac
+24013,Atur,24053,Boulazac Isle Manoire
+24017,Auriac-de-Bourzac,24303,Nanteuil-Auriac-de-Bourzac
+24033,Beaussac,24253,Mareuil en Périgord
+24041,Bézenac,24087,Castels et Bézenac
+24044,Blis-et-Born,24026,Bassillac et Auberoche
+24047,La Boissière-d'Ans,24147,Cubjac-Auvézère-Val d'Ans
+24049,Born-de-Champs,24028,Beaumontois en Périgord
+24065,Breuilh,24312,Sanilhac
+24068,Le Buisson-de-Cadouin,24068,Le Buisson-de-Cadouin
+24072,Cadouin,24068,Le Buisson-de-Cadouin
+24078,La Canéda,24520,Sarlat-la-Canéda
+24079,Cantillac,24064,Brantôme en Périgord
+24089,Cazoulès,24325,Pechs-de-l'Espérance
+24092,Cendrieux,24362,Val de Louyre et Caudeau
+24093,Cercles,24554,La Tour-Blanche-Cercles
+24099,Champeaux-et-la-Chapelle-Pommier,24253,Mareuil en Périgord
+24103,Le Change,24026,Bassillac et Auberoche
+24112,La Chapelle-Péchaud,24086,Castelnaud-la-Chapelle
+24118,Chenaud,24316,Parcoul-Chenaud
+24125,Cogulot,24167,Eymet
+24127,Coly,24364,Coly-Saint-Amand
+24149,Cussac,24068,Le Buisson-Cussac
+24166,Eyliac,24026,Bassillac et Auberoche
+24169,Eyvignes-et-Eybènes,24516,Salignac-Eyvignes
+24170,Eyvirat,24064,Brantôme en Périgord
+24173,Falgueyrat,24168,Plaisance
+24178,Festalemps,24490,Saint Privat en Périgord
+24181,Flaugeac,24534,Sigoulès-et-Flaugeac
+24185,Fongalop,24035,Belvès
+24187,Fontenilles-d'Aigueparse,24263,Mazeyrolles
+24198,La Gonterie-Boulouneix,24064,Brantôme en Périgord
+24201,Grand-Castang,24260,Mauzac-et-Grand-Castang
+24203,Les Graulges,24253,Mareuil en Périgord
+24204,Grèzes,24117,Les Coteaux Périgourdins
+24219,Labouquerie,24028,Beaumontois en Périgord
+24233,Laveyssière,24259,Eyraud-Crempse-Maurens
+24235,Léguillac-de-Cercles,24253,Mareuil en Périgord
+24239,Ligueux,24540,Sorges et Ligueux en Périgord
+24249,Manaurie,24172,Les Eyzies
+24250,Mandacou,24168,Plaisance
+24258,Marsaneix,24312,Sanilhac
+24265,Ménestérol-Montignac,24294,Montpon-Ménestérol
+24270,Milhac-d'Auberoche,24026,Bassillac et Auberoche
+24275,Monbos,24549,Thénac
+24283,Monsec,24253,Mareuil en Périgord
+24298,Mouzens,24142,Coux et Bigaroque-Mouzens
+24310,Nojals-et-Clotte,24028,Beaumontois en Périgord
+24314,Orliaguet,24325,Pechs-de-l'Espérance
+24315,Paleyrac,24068,Le Buisson-de-Cadouin
+24332,Ponchapt,24335,Port-Sainte-Foy-et-Ponchapt
+24333,Ponteyraud,24216,La Jemaye-Ponteyraud
+24342,Puyguilhem,24549,Thénac
+24343,Puymangou,24376,Saint Aulaye-Puymangou
+24344,Puyrenier,24253,Mareuil en Périgord
+24358,Rouquette,24167,Eymet
+24363,Saint-Amand-de-Belvès,24035,Pays de Belvès
+24368,Saint-Antoine-Cumond,24490,Saint Privat en Périgord
+24369,Saint-Antoine-d'Auberoche,24026,Bassillac et Auberoche
+24375,Saint-Aubin-de-Nabirat,24375,Saint-Aubin-de-Nabirat
+24387,Saint-Cernin-de-Reillac,24356,Rouffignac-Saint-Cernin-de-Reilhac
+24389,Saint-Cirq,24172,Les Eyzies
+24391,Saint-Crépin-de-Richemont,24064,Brantôme en Périgord
+24400,Saint-Étienne-des-Landes,24585,Villefranche-du-Périgord
+24402,Sainte-Eulalie-d'Eymet,24423,Saint-Julien-Innocence-Eulalie
+24427,Saint-Jean-d'Eyraud,24259,Eyraud-Crempse-Maurens
+24430,Saint-Julien-de-Bourdeilles,24064,Brantôme en Périgord
+24431,Saint-Julien-de-Crempse,24259,Eyraud-Crempse-Maurens
+24433,Saint-Julien-d'Eymet,24423,Saint-Julien-Innocence-Eulalie
+24435,Saint-Laurent-des-Bâtons,24362,Sainte-Alvère-Saint-Laurent Les Bâtons
+24439,Saint-Laurent-sur-Manoire,24053,Boulazac Isle Manoire
+24440,Saint-Lazare,24229,Le Lardin-Saint-Lazare
+24447,Sainte-Marie-de-Chignac,24053,Boulazac Isle Manoire
+24450,Saint-Martial-et-Saint-Aubin-de-Nabirat,24450,Saint-Martial-de-Nabirat
+24467,Saint-Michel-de-Rivière,24354,La Roche-de-Saint-Michel
+24469,Saint-Michel-l'Écluse-et-Léparon,24354,La Roche-de-Saint-Michel
+24475,Saint-Pantaly-d'Ans,24147,Cubjac-Auvézère-Val d'Ans
+24497,Sainte-Sabine-Born,24028,Beaumontois en Périgord
+24503,Saint-Sulpice-de-Mareuil,24253,Mareuil en Périgord
+24506,Saint-Sulpice-d'Eymet,24167,Eymet
+24530,Sencenac-Puy-de-Fourches,24064,Brantôme en Périgord
+24539,Sireuil,24172,Les Eyzies-de-Tayac-Sireuil
+24556,La Trappe,24263,Mazeyrolles
+24560,Urval,24560,Urval
+24561,Valeuil,24064,Brantôme en Périgord
+24578,Vicq,24338,Pressignac-Vicq
+24579,Vieux-Mareuil,24253,Mareuil en Périgord
+24583,La Villedieu,24547,Terrasson-la-Villedieu
+25010,Alaise,25223,Éternoz
+25015,Amancey,25015,Amancey
+25017,Amondans,25017,Amondans
+25023,Arcier,25575,Vaire-Arcier
+25027,Arguel,25245,Fontain
+25028,Athose,25424,Les Premiers Sapins
+25034,Auxon-Dessous,25035,Les Auxons
+25037,Aveney,25036,Avanne-Aveney
+25064,Blanchefontaine,25433,Orgeans-Blanchefontaine
+25068,Bois-la-Ville,25313,Hyèvre-Paroisse
+25069,Boismurie,25527,Saint-Vit
+25076,Bonnevaux-le-Prieuré,25434,Ornans
+25080,Boujeons,25486,Remoray-Boujeons
+25081,Le Boulois,25127,Charquemont
+25118,Champvans-les-Baume,25047,Baume-les-Dames
+25123,Charbonnières-les-Sapins,25222,Étalans
+25128,Chasnans,25424,Les Premiers Sapins
+25134,Châtillon-sur-Lison,25185,Cussey-sur-Lison
+25135,Châtillon-sous-Maîche,25138,Les Terres-de-Chaux
+25137,Chaudefontaine,25368,Marchaux-Chaudefontaine
+25140,Chaux-lès-Clerval,25156,Pays-de-Clerval
+25144,Chazelot,25505,Rougemont
+25146,Chazoy,25101,Burgille
+25155,Cléron,25155,Cléron
+25158,Colombier-Châtelot,25524,Saint-Maurice-Colombier
+25165,Cordiron,25101,Burgille
+25167,Cottier,25374,Mercey-le-Grand
+25168,Coulans-sur-Lizon,25223,Éternoz
+25169,Courcelles-lès-Châtillon,25138,Les Terres-de-Chaux
+25172,Courchapon,25172,Courchapon
+25205,Doulaize,25223,Éternoz
+25206,Droitfontaine,25051,Belleherbe
+25236,Fertans,25236,Fertans
+25250,Foucherans,25558,Tarcenay-Foucherans
+25260,Le Friolais,25392,Mont-de-Vougney
+25272,Glainans,25018,Anteuil
+25282,Goux-les-Usiers,25060,Val-d'Usiers
+25291,Granges-de-Vienney,25417,Naisey-les-Granges
+25292,Granges-Maillot,25334,Levier
+25294,Granges-Sainte-Marie,25320,Labergement-Sainte-Marie
+25302,Hautepierre-le-Châtelet,25424,Les Premiers Sapins
+25317,Jallerange,25317,Jallerange
+25319,Labergement-du-Navois,25334,Levier
+25337,Lièvremont,25357,Maisons-du-Bois-Lièvremont
+25352,Luisans,25288,Fournets-Luisans
+25353,Lusans,25468,Pouligney-Lusans
+25358,Maisières-Notre-Dame,25537,Scey-Maisières
+25359,Malans,25359,Malans
+25362,Malpas,25362,Malpas
+25363,Mambouhans,25187,Mambelin
+25396,Montferney,25505,Rougemont
+25399,Montfort,25460,Le Val
+25407,Montursin,25275,Glère
+25409,Morchamps,25505,Rougemont
+25412,Mouillevillers,25519,Saint-Hippolyte
+25414,Le Moutherot,25414,Le Moutherot
+25423,Neuvier,25138,Les Terres-de-Chaux
+25480,Rantechaux,25424,Les Premiers Sapins
+25484,Refranche,25223,Éternoz
+25509,Routelle,25438,Osselle-Routelle
+25530,Sancey-le-Long,25529,Sancey
+25531,Santoche,25156,Pays de Clerval
+25543,Servigney,25385,Montagney-Servigney
+25549,Sombacour,25060,Val-d'Usiers
+25568,Tournedoz,25018,Anteuil
+25576,Vaire-le-Petit,25575,Vaire
+25577,Vaivre,25485,Rémondans-Vaivre
+25581,Valentin,25212,École-Valentin
+25585,Vanclans,25424,Les Premiers Sapins
+25587,Vauchamps,25078,Bouclans
+25592,Vaux-et-Chantegrue-Malpas,25592,Vaux-et-Chantegrue
+25593,Vaux-les-Prés,25147,Chemaudin et Vaux
+25603,Vermondans,25463,Pont-de-Roide
+25606,Vernois-le-Fol,25275,Glère
+25610,Verrières-du-Grosbois,25222,Étalans
+25628,Villers-sous-Montrond,25375,Les Monts-Ronds
+25636,Villedieu-le-Camp,25601,Vercel-Villedieu-le-Camp
+26029,La Bâtie-Crémezin,26136,Val-Maravel
+26044,Béconne,26276,Roche-Saint-Secret-Béconne
+26053,Bonneval-en-Diois,26055,Boulc-Bonneval
+26109,Creyers,26086,Châtillon-en-Diois
+26120,L'Escoulin,26128,Eygluy-Escoulin
+26132,La Fare,26199,Montferrand-la-Fare
+26151,Jansac,26262,Recoubeau-Jansac
+26158,Laux-Montaux,26091,Chauvac-Laux-Montaux
+26184,Miribel,26210,Valherbasse
+26187,Molières-Glandaz,26001,Solaure en Diois
+26219,Mureils,26216,Saint-Jean-de-Galaure
+26230,Petit-Paris,26321,Saint-Nazaire-le-Désert
+26237,Le Pilhon,26136,Val-Maravel
+26260,Ravel-et-Ferriers,26055,Boulc
+26265,La Répara,26020,La Répara-Auriples
+26280,La Rochette-sur-Crest,26365,Vaunaveys-la-Rochette
+26297,Saint-Bonnet-de-Valclérieux,26210,Valherbasse
+26354,Treschenu-Creyers,26086,Châtillon-en-Diois
+26366,Veaunes,26179,Mercurol-Veaunes
+27007,Ajou,27049,Mesnil-en-Ouche
+27024,Le Roncenay-Authenay,27198,Mesnils-sur-Iton
+27029,Authouillet,27025,Autheuil-Authouillet
+27030,Auvergny,27427,Neaufles-sur-Risle
+27041,La Barre-en-Ouche,27049,Mesnil-en-Ouche
+27058,Les Trois Lacs,27676,Les Trois Lacs
+27060,Berthenonville,27213,Vexin-sur-Epte
+27078,La Boissière,27078,La Boissière
+27080,Boissy-sur-Damville,27198,Mesnils-sur-Iton
+27084,Bosc-Bénard-Commin,27105,Grand Bourgtheroulde
+27086,Boscherville,27105,Bourgtheroulde
+27087,Le Bosc-Morel,27138,Chamblac
+27088,Bosc-Renoult-en-Ouche,27049,Mesnil-en-Ouche
+27092,Bosguérard-de-Marcouville,27062,Les Monts du Roumois
+27093,Bosnormand,27090,Bosroumois
+27111,Bretagnolles,27111,Bretagnolles
+27121,Bus-Saint-Rémy,27213,Vexin-sur-Epte
+27122,Cahaignes,27213,Vexin-sur-Epte
+27128,Cantiers,27213,Vexin-sur-Epte
+27131,Carsix,27425,Nassandres sur Risle
+27143,Champignolles,27685,La Vieille-Lyre
+27145,Chanteloup,27157,Marbois
+27150,La Chapelle-Réanville,27554,La Chapelle-Longueville
+27159,Cintray,27112,Breteuil
+27160,Civières,27213,Vexin-sur-Epte
+27166,Condé-sur-Iton,27198,Mesnils-sur-Iton
+27172,Corneuil,27032,Chambois
+27175,Corny,27070,Frenelles-en-Vexin
+27178,Coulonges,27693,Sylvains-les-Moulins
+27186,Créton,27198,Mesnils-sur-Iton
+27195,Dame-Marie,27578,Sainte-Marie-d'Attez
+27197,Dampsmesnil,27213,Vexin-sur-Epte
+27211,Écardenville-sur-Eure,27191,Clef Vallée d'Eure
+27221,Épinay,27049,Mesnil-en-Ouche
+27223,Épreville-en-Roumois,27085,Flancourt-Crescy-en-Roumois
+27225,Les Essarts,27157,Marbois
+27236,Faverolles-les-Mares,27106,Bournainville-Faverolles
+27244,Flancourt-Catelon,27085,Flancourt-Crescy-en-Roumois
+27250,Fontaine-Heudebourg,27191,Clef Vallée d'Eure
+27253,Fontaine-la-Soret,27425,Nassandres sur Risle
+27255,Fontenay-en-Vexin,27213,Vexin-sur-Epte
+27257,Forêt-la-Folie,27213,Vexin-sur-Epte
+27262,Fourges,27213,Vexin-sur-Epte
+27264,Fours-en-Vexin,27213,Vexin-sur-Epte
+27265,Francheville,27679,Verneuil d'Avre et d'Iton
+27268,Le Fresne,27447,Le Val-Doré
+27270,Fresne-l'Archevêque,27070,Frenelles-en-Vexin
+27272,Les Frétils,27096,Les Bottereaux
+27274,Gaillardbois-Cressenville,27294,Val d'Orger
+27283,Gisay-la-Coudre,27049,Mesnil-en-Ouche
+27292,Gouttières,27049,Mesnil-en-Ouche
+27293,Gouville,27198,Mesnils-sur-Iton
+27296,Granchain,27049,Mesnil-en-Ouche
+27297,Grandvilliers,27198,Mesnils-sur-Iton
+27303,Guernanville,27565,Le Lesme
+27305,La Guéroulde,27112,Breteuil
+27308,Guitry,27213,Vexin-sur-Epte
+27314,Haricourt,27331,Heubécourt-Haricourt
+27328,Hellenvilliers,27198,Mesnils-sur-Iton
+27344,Houlbec-près-le-Gros-Theil,27062,Les Monts du Roumois
+27352,Infreville,27105,Bourgtheroulde-Infreville
+27356,Jonquerets-de-Livet,27049,Mesnil-en-Ouche
+27357,Jouveaux,27415,Morainville-près-Lieurey
+27362,Landepéreuse,27049,Mesnil-en-Ouche
+27387,Manthelon,27198,Mesnils-sur-Iton
+27402,Le Mesnil-Hardray,27447,Le Val-Doré
+27409,Les Minières,27198,Damville
+27416,Buis-sur-Damville,27198,Mesnils-sur-Iton
+27443,Notre-Dame-du-Vaudreuil,27528,Le Vaudreuil
+27449,Panilleuse,27213,Vexin-sur-Epte
+27450,Panlatte,27206,Droisy
+27452,Perriers-la-Campagne,27425,Nassandres sur Risle
+27461,Les Planches,27003,Acquigny
+27479,Provemont,27153,Chauvincourt
+27484,Quessigny,27277,La Baronnie
+27491,Roman,27198,Mesnils-sur-Iton
+27494,Le Roncenay,27198,Mesnils-sur-Iton
+27499,La Roussière,27049,Mesnil-en-Ouche
+27503,Le Sacq,27198,Mesnils-sur-Iton
+27506,Saint-Amand-des-Hautes-Terres,27011,Amfreville-Saint-Amand
+27509,Saint-Aquilin-d'Augerons,27414,Montreuil-l'Argillé
+27510,Saint-Aquilin-de-Pacy,27448,Pacy-sur-Eure
+27513,Saint-Aubin-des-Hayes,27049,Mesnil-en-Ouche
+27515,Saint-Aubin-le-Guichard,27049,Mesnil-en-Ouche
+27519,Sainte-Barbe-sur-Gaillon,27022,Le Val d'Hazey
+27523,Saint-Clair-d'Arcey,27516,Treis-Sants-en-Ouche
+27526,Sainte-Croix-sur-Aizier,27107,Bourneville-Sainte-Croix
+27532,Saint-Denis-du-Béhélan,27157,Marbois
+27549,Saint-Germain-Village,27467,Pont-Audemer
+27551,Saint-Jean-de-la-Léqueraye,27541,Le Mesnil-Saint-Jean
+27559,Saint-Léger-sur-Bonneville,27361,La Lande-Saint-Léger
+27566,Sainte-Marguerite-en-Ouche,27049,Mesnil-en-Ouche
+27573,Saint-Nicolas-d'Attez,27578,Sainte-Marie-d'Attez
+27574,Saint-Nicolas-du-Bosc,27302,Le Bosc du Theil
+27575,Saint-Nicolas-du-Bosc-l'Abbé,27129,Caorches-Saint-Nicolas
+27581,Saint-Ouen-des-Champs,27263,Le Perrey
+27583,Saint-Paër,27533,Saint-Denis-le-Ferment
+27585,Saint-Paul-sur-Risle,27467,Pont-Audemer
+27588,Saint-Pierre-d'Autils,27554,La Chapelle-Longueville
+27596,Saint-Pierre-du-Mesnil,27049,Mesnil-en-Ouche
+27600,Saint-Quentin-des-Isles,27516,Treis-Sants-en-Ouche
+27607,Saint-Thurien,27263,Le Perrey
+27619,Séez-Mesnil,27424,Nagel-Séez-Mesnil
+27621,Serez,27621,Serez
+27626,Theillement,27089,Thénouville
+27628,Thevray,27049,Mesnil-en-Ouche
+27634,Thomer-la-Sôgne,27032,Chambois
+27636,Le Thuit-Anger,27638,Le Thuit de l'Oison
+27637,Thuit-Hébert,27105,Grand Bourgtheroulde
+27639,Le Thuit-Simer,27638,Le Thuit de l'Oison
+27642,Le Tilleul-Othon,27290,Goupil-Othon
+27647,Tosny,27676,Les Trois Lacs
+27648,Tostes,27412,Terres de Bord
+27651,Tournedos-sur-Seine,27471,Porte-de-Seine
+27653,Tourny,27213,Vexin-sur-Epte
+27657,Touville,27089,Thénouville
+27675,Vaux-sur-Risle,27096,Les Bottereaux
+27676,Les Trois Lacs,27676,Les Trois Lacs
+27687,Vieux-Villez,27022,Le Val d'Hazey
+27688,Villalet,27693,Sylvains-Lès-Moulins
+28002,Allaines-Mervilliers,28199,Janville-en-Beauce
+28011,Armenonville-les-Gâtineaux,28023,Bailleau-Armenonville
+28017,Autheuil,28103,Cloyes-les-Trois-Rivières
+28020,Baignolet,28406,Eole-en-Beauce
+28042,Bleury,28015,Auneau-Bleury-Saint-Symphorien
+28043,Blévy,28226,Maillebois
+28044,Boisgasson,28012,Commune nouvelle d'Arrou
+28063,Brunelles,28236,Arcisses
+28066,Bullou,28127,Dangeau
+28069,Champagne,28185,Goussainville
+28083,Charray,28103,Cloyes-les-Trois-Rivières
+28093,Châtillon-en-Dunois,28012,Commune nouvelle d'Arrou
+28097,Chêne-Chenu,28393,Tremblay-les-Villages
+28101,Civry,28330,Villemaury
+28112,Coudreceau,28236,Arcisses
+28115,Courtalain,28012,Commune nouvelle d'Arrou
+28125,Dampierre-sur-Blévy,28226,Maillebois
+28131,Dommerville,91016,Angerville
+28133,Douy,28103,Cloyes-les-Trois-Rivières
+28138,Écublé,28393,Tremblay-les-Villages
+28145,Fains-la-Folie,28406,Eole-en-Beauce
+28150,La Ferté-Villeneuil,28103,Cloyes-les-Trois-Rivières
+28152,Feuilleuse,28226,Maillebois
+28159,La Framboisière-la-Saucelle,28159,La Framboisière
+28165,Frétigny,28331,Saintigny
+28174,Gâtelles,28386,Thimert-Gâtelles
+28179,Germignonville,28406,Eole-en-Beauce
+28181,Gironville-et-Neuville,28393,Tremblay-les-Villages
+28186,Grandville-Gaudreville,28183,Gommerville
+28204,Langey,28012,Commune nouvelle d'Arrou
+28205,Lanneray,28334,Saint-Denis-Lanneray
+28224,Lutz-en-Dunois,28330,Villemaury
+28226,Maillebois,28226,Maillebois
+28228,Mainterne,28120,Crucey-Villages
+28238,Marville-les-Bois,28360,Saint-Sauveur-Marville
+28241,Le Mée,28103,Cloyes-les-Trois-Rivières
+28244,Mervilliers,28199,Janville-en-Beauce
+28250,Mézières-au-Perche,28127,Dangeau
+28258,Montainville,28422,Les Villages Vovéens
+28262,Montigny-le-Gannelon,28103,Cloyes-les-Trois-Rivières
+28266,Montlouet,28168,Gallardon
+28288,Orlu,28183,Gommerville
+28295,Ozoir-le-Breuil,28330,Villemaury
+28297,Pézy,28383,Theuville
+28307,Prouais,28056,Boutigny-Prouais
+28311,Le Puiset,28199,Janville-en-Beauce
+28318,Romilly-sur-Aigre,28103,Cloyes-les-Trois-Rivières
+28320,Rouvray-Saint-Florentin,28422,Les Villages Vovéens
+28328,Saint-Chéron-des-Champs,28393,Tremblay-les-Villages
+28338,Saint-Germain-la-Gâtine,28034,Berchères-Saint-Germain
+28340,Saint-Hilaire-sur-Yerre,28103,Cloyes-les-Trois-Rivières
+28345,Saint-Loup,28048,La Bourdinière-Saint-Loup
+28351,Saint-Maixme-Hauterive,28351,Saint-Maixme-Hauterive
+28356,Saint-Pellerin,28012,Commune nouvelle d'Arrou
+28361,Bleury-Saint-Symphorien,28015,Auneau-Bleury-Saint-Symphorien
+28368,La Saucelle,28368,La Saucelle
+28376,Soizé,28018,Authon-du-Perche
+28381,Tardais,28373,Senonches
+28384,Theuvy-Achères,28393,Tremblay-les-Villages
+28399,Vacheresses-les-Basses,28279,Nogent-le-Roi
+28402,Vérigny,28254,Mittainvilliers-Vérigny
+28412,Villeau,28406,Éole-en-Beauce
+28413,La Ville-aux-Nonains,28373,Senonches
+28416,Villeneuve-Saint-Nicolas,28422,Les Villages Vovéens
+28420,Vitray-sous-Brézolles,28120,Crucey-Villages
+29009,Beuzec-Conq,29039,Concarneau
+29050,Ergué-Armel,29232,Quimper
+29052,Esquibien,29003,Audierne
+29088,Kerfeunteun,29232,Quimper
+29092,Kernével,29241,Rosporden
+29096,Lambézellec,29019,Brest
+29118,Lanriec,29039,Concarneau
+29121,Larret,29221,Porspoder
+29127,Loc-Eguiner-Saint-Thégonnec,29266,Saint-Thégonnec Loc-Eguiner
+29129,Locmaria-Berrien,29227,Poullaouen
+29138,Logonna-Quimerch,29302,Pont-de-Buis-lès-Quimerch
+29149,Milizac,29076,Milizac-Guipronvel
+29154,Nizon,29217,Pont-Aven
+29157,Penhars,29232,Quimper
+29164,Ploaré,29046,Douarnenez
+29194,Plouguer,29024,Carhaix-Plouguer
+29200,Ploujean,29151,Morlaix
+29203,Plounéour-Trez,29021,Plounéour-Brignogan-plages
+29219,Le Ponthou,29199,Plouigneau
+29223,Pouldavid-sur-Mer,29046,Douarnenez
+29231,Quimerch,29302,Pont-de-Buis-lès-Quimerch
+29242,Rumengol,29053,Le Faou
+29253,Saint-Marc,29019,Brest
+29258,Saint-Pierre-Quilbignon,29019,Brest
+29283,Tréboul,29046,Douarnenez
+30063,Cambo,30058,La Cadière-et-Cambo
+30078,Cézas,30325,Sumène
+30118,Foussignargues,30037,Bessèges
+30157,Mars,30052,Bréau-Mars
+30190,Notre-Dame-de-la-Rouvière,30339,Val-d'Aigoual
+31016,Argut-Dessus,31085,Boutx
+31144,Cierp-Gaud-Signac,31144,Cierp-Gaud
+31154,Couledoux,31085,Boutx
+31214,Gaud,31144,Cierp-Gaud
+31257,Lacasse,31287,Lavernose-Lacasse
+31298,Lez,31471,Saint-Béat-Lez
+31300,Lieoux,31300,Lieoux
+31307,Lunax,31412,Péguilhan
+31438,Pradère-les-Bourguets,31277,Lasserre-Pradère
+31483,Saint-Gaudens,31483,Saint-Gaudens
+31548,Signac,31548,Signac
+32006,Arcamont,32348,Roquelaure
+32011,Artiguedieu,32426,Seissan
+32045,Berdoues-Ponsampère,32045,Berdoues
+32074,Cannet,32344,Riscle
+32137,Garbic,32268,Monferran-Savès
+32168,Labarrère,32079,Castelnau d'Auzan Labarrère
+32179,Lagraulas,32462,Vic-Fezensac
+32259,Monbert,32065,Le Brouilh-Monbert
+32323,Ponsampère,32323,Ponsampère
+33041,Béliet,33042,Belin-Béliet
+33091,Cantenac,33268,Margaux-Cantenac
+33092,Cantois,33008,Porte-de-Benauge
+33107,Castillon-de-Castets,33106,Castets et Castillon
+33110,Caudéran,33063,Bordeaux
+33217,Lafosse,33341,Pugnac
+33265,Marcamps,33339,Prignac-et-Marcamps
+33267,Marcillac,33380,Val-de-Livenne
+33286,Monbadon,33342,Puisseguin
+33313,Parsac,33290,Montagne
+33338,Prignac-en-Médoc,33055,Blaignan-Prignac
+33340,Le Puch,33506,Sauveterre-de-Guyenne
+33368,Saint-André-du-Garn,33287,Mongauzy
+33371,Saint-Antoine,33018,Val de Virvée
+33410,Saint-Georges,33290,Montagne
+33430,Saint-Léger-de-Vignague,33506,Sauveterre-de-Guyenne
+33455,Saint-Nazaire,33378,Saint-Avit-Saint-Nazaire
+33469,Saint-Romain-de-Vignague,33506,Sauveterre-de-Guyenne
+33495,Salignac,33018,Val de Virvée
+33497,Sallebruneau,33175,Frontenac
+34275,Saint-Martin-des-Combes,34186,Octon
+34330,Vérargues,34246,Entre-Vignes
+35011,Baillé,35292,Saint-Marc-le-Blanc
+35020,Bazouges-sous-Hédé,35130,Hédé
+35036,Brain-sur-Vilaine,35064,La Chapelle-de-Brain
+35043,Broons-sur-Vilaine,35068,Châteaubourg
+35048,Campel,35168,Val d'Anast
+35053,Chancé,35220,Piré-Chancé
+35073,Châtillon-sur-Seiche,35206,Noyal-Châtillon-sur-Seiche
+35074,Chaumeré,35096,Domagné
+35083,Coglès,35191,Les Portes du Coglais
+35100,Dompierre-du-Chemin,35163,Luitré-Dompierre
+35112,Fleurigné,35062,La Chapelle-Fleurigné
+35113,La Fontenelle,35004,Val-Couesnon
+35129,Guipry,35176,Guipry-Messac
+35130,Hédé,35130,Hédé
+35147,Lanhélin,35308,Mesnil-Roc'h
+35158,Le Lou-du-Lac,35060,La Chapelle du Lou du Lac
+35182,Moigné,35240,Le Rheu
+35209,Ossé,35069,Châteaugiron
+35213,Paramé,35288,Saint-Malo
+35254,Saint-Aubin-du-Pavail,35069,Châteaugiron
+35267,Saint-Étienne-en-Coglès,35257,Maen Roch
+35269,Saint-Georges-de-Chesné,35282,Rives-du-Couesnon
+35293,Saint-Marc-sur-Couesnon,35282,Rives-du-Couesnon
+35298,Saint-Melaine,35068,Châteaubourg
+35301,Saint-M'Hervon,35184,Montauban-de-Bretagne
+35303,Saint-Ouen-la-Rouërie,35004,Val-Couesnon
+35313,Saint-Servan-sur-Mer,35288,Saint-Malo
+35317,Saint-Symphorien,35317,Saint-Symphorien
+35323,La Selle-en-Coglès,35191,Les Portes du Coglais
+35341,Tremblay,35004,Val-Couesnon
+35344,Tressé,35308,Mesnil-Roc'h
+35348,Vendel,35282,Rives-du-Couesnon
+35349,Veneffles,35069,Châteaugiron
+36039,Chantôme,36070,Éguzon-Chantôme
+36072,Faverolles-en-Berry,36244,Villentrois-Faverolles-en-Berry
+36151,Parpeçay,36229,Val-Fouzon
+36183,Sainte-Cécile,36229,Val-Fouzon
+36201,Saint-Martin-de-Lamps,36093,Levroux
+36206,Saint-Pierre-de-Lamps,36093,Levroux
+36245,Villers-les-Ormes,36202,Saint-Maur
+37017,Balesmes,37115,Descartes
+37102,Les Essards,37123,Langeais
+37120,Ingrandes-de-Touraine,37232,Coteaux-sur-Loire
+37135,Louestault,37021,Beaumont-Louestault
+37164,Négron,37163,Nazelles-Négron
+37209,Saint-Bauld,37254,Tauxigny-Saint-Bauld
+37215,Saint-Denis-Hors,37003,Amboise
+37227,Saint-Michel-sur-Loire,37232,Coteaux-sur-Loire
+37235,Sainte-Radegonde-en-Touraine,37261,Tours
+37239,Saint-Symphorien,37261,Tours
+38007,Allières-et-Risset,38524,Varces-Allières-et-Risset
+38014,Arandon,38297,Arandon-Passins
+38016,Arzay,38479,Porte-des-Bonnevaux
+38021,Autrans,38225,Autrans-Méaudre en Vercors
+38024,Badinières,38152,Eclose-Badinières
+38025,Balbins,38284,Ornacieux-Balbins
+38028,La Bâtie-Divisin,38001,Les Abrets en Dauphiné
+38079,Chaponnay,69270,Chaponnay
+38088,Chassieu,69271,Chassieu
+38096,Chavagneux-Montbertand,38085,Charvieu-Chavagneux
+38119,Colombier-Saugnieu,69299,Colombier-Saugnieu
+38121,Commelle,38479,Porte-des-Bonnevaux
+38122,Communay,69272,Communay
+38123,Corbas,69273,Corbas
+38125,Cordéac,38456,Châtel-en-Trièves
+38142,Curtin,38543,Vézeronce-Curtin
+38143,Décines-Charpieu,69275,Décines-Charpieu
+38145,Dionay,38359,Saint Antoine l'Abbaye
+38164,Feyzin,69276,Feyzin
+38165,Fitilieu,38001,Les Abrets en Dauphiné
+38168,La Folatière,38315,Le Pont-de-Beauvoisin
+38178,Genas,69277,Genas
+38196,Jallieu,38053,Bourgoin-Jallieu
+38201,Jonage,69279,Jonage
+38202,Jons,69280,Jons
+38220,Marennes,69281,Marennes
+38227,Mépieu,38139,Creys-Mépieu
+38233,Meyzieu,69282,Meyzieu
+38234,Mions,69283,Mions
+38251,Montceau,38348,Ruy
+38262,Morêtel-de-Mailles,38439,Crêts en Belledonne
+38274,Nantoin,38479,Porte-des-Bonnevaux
+38293,Panissage,38560,Val-de-Virieu
+38302,Le Périer,38073,Chantepérier
+38305,Le Pin,38292,Villages du Lac de Paladru
+38306,Pinsot,38163,Le Haut-Bréda
+38312,Pommiers-la-Placette,38407,La Sure en Chartreuse
+38327,Pusignan,69285,Pusignan
+38367,Saint-Bernard,38395,Plateau-des-Petites-Roches
+38371,Saint-Bonnet-de-Mure,69287,Saint-Bonnet-de-Mure
+38385,Saint-Genis,38226,Mens
+38411,Saint-Laurent-de-Mure,69288,Saint-Laurent-de-Mure
+38418,Sainte-Marie-du-Mont,38418,Sainte-Marie-du-Mont
+38435,Saint-Pancrasse,38395,Plateau-des-Petites-Roches
+38441,Saint-Pierre-de-Chandieu,69289,Saint-Pierre-de-Chandieu
+38447,Saint-Priest,69290,Saint-Priest
+38461,Saint-Symphorien-d'Ozon,69291,Saint-Symphorien-d'Ozon
+38466,Saint-Vincent-de-Mercuze-Sainte-Marie-du-Mont,38466,Saint-Vincent-de-Mercuze
+38477,Savel,38224,Mayres-Savel
+38482,Sérézin-du-Rhône,69294,Sérézin-du-Rhône
+38491,Simandres,69295,Simandres
+38493,Solaize,69296,Solaize
+38502,Ternay,69297,Ternay
+38506,Thuellin,38022,Les Avenières Veyrins-Thuellin
+38510,Toussieu,69298,Toussieu
+38534,Vénosc,38253,Les Deux Alpes
+38541,Veyrins-Thuellin,38022,Les Avenières Veyrins-Thuellin
+39005,Abergement-Saint-Jean,39385,Neublans-Abergement
+39012,Antorpe,25527,Saint-Vit
+39023,L'Aubépin,39378,Les Trois Châteaux
+39033,Azans,39198,Dole
+39036,La Balme-d'Épy,39209,Val-d'Épy
+39044,Beauvoisin,39022,Asnans-Beauvoisin
+39064,Bonnaud,39576,Val-Sonnette
+39067,Le Bouchaud,39049,Bersaillin
+39069,Bourcia,39485,Val Suran
+39071,Le Bourget,39397,Orgelet-le-Bourget
+39075,Bréry,39199,Domblans
+39082,Ceffia,39018,Aromas
+39087,Certémery,39370,Mouchard
+39089,Cézia,39137,Saint-Hymetière-sur-Valouse
+39098,Champagny,39133,Chaux-Champagny
+39113,Chassal,39339,Chassal-Molinges
+39115,Château-des-Prés,39258,Grande-Rivière Château
+39123,Chatonnay,39290,Valzin en Petite Montagne
+39125,Chaumont,39478,Saint-Claude
+39135,Chazelles,39378,Les Trois Châteaux
+39144,Chevry,39478,Saint-Claude
+39148,Chisséria,39016,Arinthod
+39152,Cinquétral,39478,Saint-Claude
+39158,Coisia,39530,Thoirette-Coisia
+39161,Communailles-en-Montagne,39331,Mignovillard
+39181,Crillat,39493,Saint-Maurice-Crillat
+39186,Cuttura,39491,Coteaux du Lizon
+39195,Dessia,39273,Montlainsia
+39212,Essavilly,39331,Mignovillard
+39213,Esserval-Combe,39329,Mièges
+39215,Essia,39021,La Chailleuse
+39224,Fétigny,39290,Valzin en Petite Montagne
+39226,Florentia,39209,Val-d'Épy
+39231,Fonteny,39436,Pont-d'Héry
+39242,Froidefontaine,39331,Mignovillard
+39243,Froideville,39577,Vincent-Froideville
+39256,Goux,39198,Dole
+39257,Grand-Châtel,39561,Villards-d'Héria
+39259,Grange-de-Vaivre,39259,Grange-de-Vaivre
+39260,Granges-sur-Baume,39177,Hauteroche
+39264,Grusse,39576,Val-Sonnette
+39276,Lanéria,39209,Épy-Lanéria
+39287,Lavans-sur-Valouse,39137,Saint-Hymetière-sur-Valouse
+39294,Lézat,39368,Hauts de Bienne
+39302,Louvatange-le-Petit-Mercey,39302,Louvatange
+39303,Louvenne,39485,Val Suran
+39309,Mallerey,39537,Trenal
+39311,Marangea,39504,Sarrogna
+39316,Marpain,39188,Dammartin-Marpain
+39332,Mirebel,39177,Hauteroche
+39340,Molpré,39329,Mièges
+39341,Les Molunes,39510,Septmoncel les Molunes
+39347,Montagna-le-Templier,39273,Montlainsia
+39357,Montjouvent,39504,Sarrogna
+39358,Montmalin,39479,Saint-Cyr-Montmalin
+39369,Morval,39010,Andelot-Morval
+39371,La Mouille,39368,Hauts de Bienne
+39374,Moutaine,39436,Pont-d'Héry
+39382,Nantey,39209,Val-d'Épy
+39383,Nenon,39205,Éclans-Nenon
+39384,Nermier,39504,Sarrogna
+39395,Orbagna,39043,Beaufort-Orbagna
+39410,La Perrena,39424,Les Planches-en-Montagne
+39414,Le Petit-Mercey,39190,Dampierre
+39416,Petit-Villard,39331,Mignovillard-Petit-Villard
+39417,Les Piards,39130,Nanchez
+39433,Poisoux,39209,Val-d'Épy
+39438,Ponthoux,39286,Lavans-lès-Saint-Claude
+39439,Port-Lesney-Grange-de-Vaivre,39439,Port-Lesney
+39440,Pratz,39286,Lavans-lès-Saint-Claude
+39442,Prénovel,39130,Nanchez
+39450,Ranchette,39478,Saint-Claude
+39459,Rivière-Devant,39258,Grande-Rivière
+39465,Romange-lès-Vriange,39465,Romange
+39482,Saint-Germain-lès-Arlay,39017,Arlay
+39483,Saint-Hymetière,39137,Saint-Hymetière-sur-Valouse
+39484,Saint-Jean-d'Étreux,39378,Les Trois-Châteaux
+39488,Saint-Laurent-la-Roche,39021,La Chailleuse
+39496,Saint-Ylie,39198,Dole
+39506,Savigna,39290,Valzin en Petite Montagne
+39509,Senaud,39209,Val-d'Épy
+39515,Sézéria,39397,Orgelet
+39516,Sièges,39579,Viry
+39521,Soyria,39154,Clairvaux-les-Lacs
+39524,Tancua,39367,Morbier
+39536,Treffay,39517,Sirod
+39541,Valfin-lès-Saint-Claude,39478,Saint-Claude
+39542,Valfin-sur-Valouse,39583,Vosbles-Valfin
+39544,Varessia,39021,La Chailleuse
+39549,Vercia,39576,Val-Sonnette
+39562,Villard-sur-Bienne,39130,Nanchez
+39563,Villard-sur-l'Ain,39313,Marigny
+39564,Villechantria,39485,Val Suran
+39566,Villeneuve-lès-Charnod,39018,Aromas
+39578,Viremont,39086,Cernon
+39580,Le Viseney,39049,Bersaillin
+39584,Vriange,39584,Vriange
+40009,Arjuzanx,40197,Morcenx-la-Nouvelle
+40010,Arouille,40267,Saint-Justin
+40045,Biganon,40200,Moustey
+40048,Boos,40243,Rion-des-Landes
+40107,Garrosse,40197,Morcenx-la-Nouvelle
+40241,Richet,40227,Pissos
+40302,Sindères,40197,Morcenx-la-Nouvelle
+41005,Arville,41248,Couëtron-au-Perche
+41011,Baigneaux,41171,Oucques La Nouvelle
+41015,Beauvilliers,41171,Oucques La Nouvelle
+41021,La Bosse,41273,Vievy-le-Rayé
+41023,Bourré,41151,Montrichard Val de Cher
+41033,Chambon-sur-Cisse,41142,Valencisse
+41056,La Colombe,41173,Beauce la Romaine
+41064,Coulanges,41055,Valloire-sur-Cisse
+41076,Écoman,41273,Vievy-le-Rayé
+41082,Feings,41059,Le Controis-en-Sologne
+41092,Fougères-sur-Bièvre,41059,Le Controis-en-Sologne
+41111,Lanthenay,41194,Romorantin-Lanthenay
+41117,Longpré,41199,Saint-Amand-Longpré
+41133,Membrolles,41173,Beauce la Romaine
+41162,Nouan-sur-Loire,41220,Saint-Laurent-Nouan
+41165,Oigny,41248,Couëtron-au-Perche
+41169,Orchaise,41142,Valencisse
+41170,Ouchamps,41059,Le Controis-en-Sologne
+41183,Prénouvellon,41173,Beauce la Romaine
+41197,Saint-Agil,41248,Couëtron-au-Perche
+41202,Saint-Avit,41248,Couëtron-au-Perche
+41210,Sainte-Gemmes,41171,Oucques La Nouvelle
+41227,Saint-Quentin-lès-Troo,41149,Montoire-sur-le-Loir
+41240,Seillac,41055,Valloire-sur-Cisse
+41244,Semerville,41173,Beauce la Romaine
+41257,Thenay,41059,Le Controis-en-Sologne
+41263,Tréhet,41070,Vallée-de-Ronsard
+41264,Tripleville,41173,Beauce la Romaine
+41270,Verdes,41173,Beauce la Romaine
+41272,Veuves,41167,Veuzain-sur-Loire
+42004,Amions,42268,Vézelin-sur-Loire
+42024,Bouthéon,42005,Andrézieux-Bouthéon
+42057,Chazeau,42095,Firminy
+42080,La Cula,42225,Genilac
+42082,Dancé,42268,Vézelin-sur-Loire
+42111,Izieux,42207,Saint-Chamond
+42114,Jeansagnière,42039,Chalmazel-Jeansagnière
+42144,Moingt,42147,Montbrison
+42190,Rochetaillée,42218,Saint-Étienne
+42244,Saint-Julien-en-Jarez,42207,Saint-Chamond
+42250,Saint-Just-sur-Loire,42279,Saint-Just-Saint-Rambert
+42258,Saint-Martin-en-Coailleux,42207,Saint-Chamond
+42263,Saint-Maurice-sur-Loire,42239,Saint-Jean-Saint-Maurice-sur-Loire
+42291,Saint-Thurin,42245,Vêtre-sur-Anzon
+42292,Saint-Victor-sur-Loire,42218,Saint-Étienne-sur-Loire
+42309,Terrenoire,42218,Saint-Étienne
+43081,Croisances,43245,Thoras
+43146,Ours-Mons,43157,Le Puy
+43161,Reilhac,43132,Mazeyrat-d'Allier
+43176,Saint-Didier-d'Allier,43221,Saint-Privat-d'Allier
+43179,Saint-Eble,43132,Mazeyrat-d'Allier
+43209,Sainte-Marie-des-Chazes,43239,Siaugues-Sainte-Marie
+43235,La Sauvetat,43111,Landos
+43243,Taulhac-près-le-Puy,43157,Le Puy
+43248,Vabres,43005,Alleyras
+43255,Vazeilles-près-Saugues,43090,Esplantas-Vazeilles
+43266,Vissac,43013,Vissac-Auteyrac
+44004,Anetz,44163,Vair-sur-Loire
+44008,Barbechat,44029,Divatte-sur-Loire
+44011,Belligné,44213,Loireauxence
+44017,Bonnœuvre,44180,Vallons-de-l'Erdre
+44034,La Chapelle-Saint-Sauveur,44213,Loireauxence
+44040,Chéméré,44005,Chaumes-en-Retz
+44042,Le Clion-sur-Mer,44131,Pornic
+44059,Fresnay-en-Retz,44021,Villeneuve-en-Retz
+44060,Le Fresne-sur-Loire,49160,Ingrandes-Le Fresne sur Loire
+44093,Maumusson,44180,Vallons-de-l'Erdre
+44147,La Rouxière,44213,Loireauxence
+44160,Saint-Géréon,44003,Ancenis-Saint-Géréon
+44167,Saint-Jean-de-Corcoué,44156,Corcoué-sur-Logne
+44177,Sainte-Marie,44131,Pornic
+44181,Saint-Même-le-Tenu,44087,Machecoul-Saint-Même
+44191,Saint-Sulpice-des-Landes,44180,Vallons-de-l'Erdre
+44219,Vritz,44180,Vallons-de-l'Erdre
+44225,Freigné,44180,Vallons-de-l'Erdre
+45003,Allainville-en-Beauce,45240,Outarville
+45007,Arrabloy,45155,Gien
+45048,Bouzonville-en-Beauce,45253,Pithiviers-le-Vieil
+45057,Labrosse,45191,Le Malesherbois
+45071,Changy,45332,Varennes-Changy
+45090,Chemault,45035,Boiscommun
+45106,Coudray,45191,Le Malesherbois
+45128,Dossainville,45065,Césarville
+45140,Faronville,45240,Outarville
+45163,Guignonville,45160,Greneville-en-Beauce
+45172,Izy,45025,Bazoches-les-Gallerandes
+45190,Mainvilliers,45191,Le Malesherbois
+45192,Manchecourt,45191,Le Malesherbois
+45211,Montcorbon,45129,Douchy-Montcorbon
+45221,Nangeville,45191,Le Malesherbois
+45236,Orveau-Bellesauve,45191,Le Malesherbois
+45267,Saint-Aignan-des-Gués,45051,Bray-Saint-Aignan
+45287,Saint-Loup-de-Gonois,45307,La Selle-sur-le-Bied
+45295,Saint-Péravy-Épreux,45240,Outarville
+45304,Sébouville,45162,Guigneville
+45318,Teillay-le-Gaudin,45240,Outarville
+45319,Teillay-Saint-Benoît,45118,Crottes-en-Pithiverais
+45349,Yèvre-le-Châtel,45348,Yèvre-la-Ville
+46014,Bagat-en-Quercy,46263,Barguelonne-en-Quercy
+46019,Beaumat,46138,Cœur de Causse
+46025,Belmontet,46201,Montcuq-en-Quercy-Blanc
+46048,Calviac,46311,Sousceyrac-en-Quercy
+46067,Cazillac,46232,Le Vignon-en-Quercy
+46071,Comiac,46311,Sousceyrac-en-Quercy
+46077,Cours,46156,Bellefont-La Rauze
+46099,Fargues,46033,Porte-du-Quercy
+46110,Fontanes-du-Causse,46138,Cœur de Causse
+46141,Lacam-d'Ourcet,46311,Sousceyrac-en-Quercy
+46150,Lamativie,46311,Sousceyrac-en-Quercy
+46158,Lascabanes,46262,Lendou-en-Quercy
+46166,Lebreil,46201,Montcuq-en-Quercy-Blanc
+46248,Sainte-Alauzie,46063,Castelnau Montratier-Sainte Alauzie
+46261,Sainte-Croix,46201,Montcuq-en-Quercy-Blanc
+46274,Saint-Laurent-Lolmie,46262,Lendou-en-Quercy
+46275,Saint-Martin-de-Vers,46252,Les Pechs du Vers
+46278,Saint-Matré,46033,Porte-du-Quercy
+46285,Saint-Pantaléon,46263,Barguelonne-en-Quercy
+46287,Saint-Paul-de-Loubressac,46103,Saint-Paul-Flaugnac
+46291,Saint-Sauveur-la-Vallée,46138,Cœur de Causse
+46298,Sarrazac,46083,Cressensac-Sarrazac
+46300,Saux,46033,Porte-du-Quercy
+46325,Vaillac,46138,Cœur de Causse
+46326,Valprionde,46201,Montcuq-en-Quercy-Blanc
+46327,Valroufié,46156,Bellefont-La Rauze
+46331,Vers,46268,Saint Géry-Vers
+47010,Antagnac,47010,Antagnac
+47019,Bajamont,47019,Bajamont
+47033,Boudy-de-Beauregard,47033,Boudy-de-Beauregard
+47048,Cancon,47048,Cancon
+47058,Caubeyres,47058,Caubeyres
+47093,Fargues-sur-Ourbise,47093,Fargues-sur-Ourbise
+47095,Fauillet,47095,Fauillet
+47116,Gueyze,47302,Sos
+47149,Lisse,47221,Réaup
+47153,Lusignan-Grand,47246,Saint-Hilaire-de-Lusignan
+47157,Marmande,47157,Marmande
+47163,Mauvezin-sur-Gupie,47163,Mauvezin-sur-Gupie
+47166,Meylan,47302,Sos
+47209,Pont-du-Casse,47209,Pont-du-Casse
+47223,Rives,47223,Rives
+47227,Ruffiac,47227,Ruffiac
+47243,Saint-Gayrand,47112,Grateloup
+47259,Saint-Maurice-de-Lestapel,47259,Saint-Maurice-de-Lestapel
+47261,Saint-Nazaire,47142,Lauzun
+47268,Saint-Pierre-de-Caubel,47206,Pinel-Hauterive
+47270,Saint-Pierre-de-Nogaret,47110,Gontaud-de-Nogaret
+47310,Tonneins,47310,Tonneins
+47322,Villeneuve-de-Mézin,47134,Lannes
+47324,Villeréal,47324,Villeréal
+48006,Arcomie,48012,Les Monts-Verts
+48011,Auxillac,48034,La Canourgue
+48014,Bagnols-les-Bains,48027,Mont Lozère et Goulet
+48022,Bédouès,48050,Bédouès-Cocurès
+48023,Belvezet,48027,Mont Lozère et Goulet
+48024,Berc,48012,Les Monts-Verts
+48033,Canilhac,48017,Banassac-Canilhac
+48035,La Capelle,48034,La Canourgue
+48040,Chasseradès,48027,Mont Lozère et Goulet
+48047,La Chaze-de-Peyre,48009,Peyre en Aubrac
+48049,Chirac,48099,Bourgs sur Colagne
+48052,Combret,48004,Altier
+48057,Estables,48127,Monts-de-Randon
+48060,Fau-de-Peyre,48009,Peyre en Aubrac
+48062,Fontanes,48105,Naussac-Fontanes
+48066,Fraissinet-de-Lozère,48116,Pont de Montvert - Sud Mont Lozère
+48076,Javols,48009,Peyre en Aubrac
+48078,Lachamp,48126,Lachamp-Ribennes
+48084,Laval-Atger,48139,Saint Bonnet-Laval
+48093,Mas-d'Orcières,48027,Mont Lozère et Goulet
+48101,Montbrun,48146,Gorges du Tarn Causses
+48102,Montjézieu,48034,La Canourgue
+48109,La Parade,48074,Hures-la-Parade
+48113,Pin-Moriès,48099,Le Monastier-Pin-Moriès
+48114,Planchamp,48015,Pied-de-Borne
+48118,Prades,48146,Sainte-Enimie
+48120,Prinsuéjols,48087,Prinsuéjols-Malbouzon
+48122,Quézac,48146,Gorges du Tarn Causses
+48125,Le Recoux,48094,Massegros Causses Gorges
+48133,Saint-Amans,48127,Monts-de-Randon
+48134,Saint-Andéol-de-Clerguemort,48152,Ventalon en Cévennes
+48142,Sainte-Colombe-de-Peyre,48009,Peyre en Aubrac
+48143,Sainte-Colombe-de-Montauroux,48070,Grandrieu
+48154,Saint-Georges-de-Lévéjac,48094,Massegros Causses Gorges
+48159,Saint-Jean-Chazorne,48015,Pied-de-Borne
+48162,Saint-Julien-d'Arpaon,48166,Cans et Cévennes
+48164,Saint-Julien-du-Tournel,48027,Mont Lozère et Goulet
+48172,Saint-Maurice-de-Ventalon,48116,Pont de Montvert - Sud Mont Lozère
+48180,Saint-Rome-de-Dolan,48094,Massegros Causses Gorges
+48183,Saint-Sauveur-de-Peyre,48009,Peyre en Aubrac
+48184,Saint-Symphorien,48038,Bel-Air-Val-d'Ance
+48186,La Salle-Prunet,48061,Florac Trois Rivières
+48189,Servières,48127,Monts-de-Randon
+48195,Les Vignes,48094,Massegros Causses Gorges
+48196,Le Villard,48039,Chanac
+48197,La Villedieu,48127,Monts-de-Randon
+49001,Les Alleuds,49050,Brissac Loire Aubance
+49004,Andard,49307,Loire-Authion
+49005,Andigné,49176,Le Lion-d'Angers
+49006,Andrezé,49023,Beaupréau-en-Mauges
+49013,Auverse,49228,Noyant-Villages
+49014,Aviré,49331,Segré-en-Anjou Bleu
+49016,Bagneux,49328,Saumur
+49019,Bauné,49307,Loire-Authion
+49024,Beausse,49244,Mauges-sur-Loire
+49025,Beauvau,49163,Jarzé Villages
+49031,Bocé,49018,Baugé-en-Anjou
+49032,La Bohalle,49307,Loire-Authion
+49033,La Boissière-sur-Èvre,49218,Montrevault-sur-Èvre
+49034,Botz-en-Mauges,49244,Mauges-sur-Loire
+49037,Le Bourg-d'Iré,49331,Segré-en-Anjou Bleu
+49039,Bourgneuf-en-Mauges,49244,Mauges-sur-Loire
+49040,Bouzillé,49069,Orée d'Anjou
+49042,Brain-sur-l'Authion,49307,Loire-Authion
+49043,Brain-sur-Longuenée,49367,Erdre-en-Anjou
+49044,Breil,49228,Noyant-Villages
+49046,Brézé,49060,Bellevigne-les-Châteaux
+49047,Brigné,49125,Doué-en-Anjou
+49049,Brion,49138,Les Bois d'Anjou
+49051,Brissarthe,49080,Les Hauts-d'Anjou
+49052,Broc,49228,Noyant-Villages
+49059,Les Cerqueux-sous-Passavant,49373,Lys-Haut-Layon
+49062,Chalonnes-sous-le-Lude,49228,Noyant-Villages
+49065,Les Hauts d'Anjou,49080,Les Hauts-d'Anjou
+49066,Champ-sur-Layon,49345,Bellevigne-en-Layon
+49071,Chanzeaux,49092,Chemillé-en-Anjou
+49072,La Chapelle-du-Genêt,49023,Beaupréau-en-Mauges
+49073,La Chapelle-Hullin,49248,Ombrée d'Anjou
+49074,La Chapelle-Rousselin,49092,Chemillé-en-Anjou
+49075,La Chapelle-Saint-Florent,49244,Mauges-sur-Loire
+49077,La Chapelle-sur-Oudon,49331,Segré-en-Anjou Bleu
+49078,Charcé-Saint-Ellier-sur-Aubance,49050,Brissac Loire Aubance
+49079,Chartrené,49018,Baugé-en-Anjou
+49081,Châtelais,49331,Segré-en-Anjou Bleu
+49083,Chaudron-en-Mauges,49218,Montrevault-sur-Èvre
+49084,Chaumont-d'Anjou,49163,Jarzé Villages
+49085,La Chaussaire,49218,Montrevault-sur-Èvre
+49087,Chavaignes,49228,Noyant-Villages
+49088,Chazé-Henry,49248,Ombrée d'Anjou
+49091,Chemellier,49050,Brissac Loire Aubance
+49093,Chemiré-sur-Sarthe,49220,Morannes-sur-Sarthe
+49094,Chênehutte-Trèves-Cunault,49261,Gennes-Val-de-Loire
+49095,Chenillé-Changé,49067,Chenillé-Champteussé
+49096,Cherré,49080,Les Hauts-d'Anjou
+49097,Cheviré-le-Rouge,49018,Baugé-en-Anjou
+49098,Chigné,49228,Noyant-Villages
+49101,Clefs-Val d'Anjou,49018,Baugé-en-Anjou
+49103,Combrée,49248,Ombrée d'Anjou
+49104,Concourson-sur-Layon,49125,Doué-en-Anjou
+49105,Contigné,49080,Les Hauts-d'Anjou
+49106,Corné,49307,Loire-Authion
+49108,La Cornuaille,49183,Val d'Erdre-Auxence
+49111,Cossé-d'Anjou,49092,Chemillé-en-Anjou
+49115,Coutures,49050,Brissac Loire Aubance
+49116,Cuon,49018,Baugé-en-Anjou
+49117,La Daguenière,49307,Loire-Authion
+49118,Dampierre-sur-Loire,49328,Saumur
+49119,Daumeray,49220,Morannes sur Sarthe-Daumeray
+49122,Dénezé-sous-le-Lude,49228,Noyant-Villages
+49124,Douces,49125,Doué-la-Fontaine
+49126,Drain,49069,Orée d'Anjou
+49128,Échemiré,49018,Baugé-en-Anjou
+49133,Faveraye-Mâchelles,49345,Bellevigne-en-Layon
+49134,Faye-d'Anjou,49345,Bellevigne-en-Layon
+49136,La Ferrière-de-Flée,49331,Segré-en-Anjou Bleu
+49137,Le Fief-Sauvin,49218,Montrevault-sur-Èvre
+49139,Fontaine-Milon,49194,Mazé-Milon
+49141,Forges,49125,Doué-en-Anjou
+49142,La Fosse-de-Tigné,49373,Lys-Haut-Layon
+49143,Fougeré,49018,Baugé-en-Anjou
+49144,Freigné,44180,Vallons-de-l'Erdre
+49145,Le Fuilet,49218,Montrevault-sur-Èvre
+49146,Les Gardes,49092,Chemillé-en-Anjou
+49147,Gée,49021,Beaufort-en-Anjou
+49148,Gené,49367,Erdre-en-Anjou
+49149,Gennes-Val de Loire,49261,Gennes-Val-de-Loire
+49150,Genneteil,49228,Noyant-Villages
+49151,Gesté,49023,Beaupréau-en-Mauges
+49152,Gohier,49029,Blaison-Gohier
+49153,Valanjou,49092,Chemillé-en-Anjou
+49154,Grézillé,49261,Gennes-Val-de-Loire
+49156,Grugé-l'Hôpital,49248,Ombrée d'Anjou
+49157,Le Guédeniau,49018,Baugé-en-Anjou
+49158,L'Hôtellerie-de-Flée,49331,Segré-en-Anjou Bleu
+49159,Huillé,49174,Huillé-Lézigné
+49162,Jallais,49023,Beaupréau-en-Mauges
+49164,Joué-Étiau,49092,Chemillé-en-Anjou
+49165,La Jubaudière,49023,Beaupréau-en-Mauges
+49166,Juigné-Béné,49214,Montreuil-Juigné
+49168,Jumelles,49180,Longué-Jumelles
+49169,La Jumellière,49092,Chemillé-en-Anjou
+49172,Landemont,49069,Orée d'Anjou
+49173,Lasse,49228,Noyant-Villages
+49175,Linières-Bouton,49228,Noyant-Villages
+49177,Liré,49069,Orée d'Anjou
+49179,Le Longeron,49301,Sèvremoine
+49181,Louerre,49003,Tuffalun
+49184,Louvaines,49331,Segré-en-Anjou Bleu
+49185,Lué-en-Baugeois,49163,Jarzé Villages
+49186,Luigné,49050,Brissac Loire Aubance
+49187,Marans,49331,Segré-en-Anjou Bleu
+49189,Marigné,49080,Les Hauts-d'Anjou
+49190,Le Marillais,49244,Mauges-sur-Loire
+49191,Martigné-Briand,49086,Terranjou
+49196,La Meignanne,49200,Longuenée-en-Anjou
+49197,Meigné-le-Vicomte,49228,Noyant-Villages
+49198,Meigné,49125,Doué-en-Anjou
+49199,Melay,49092,Chemillé-Melay
+49202,Méon,49228,Noyant-Villages
+49203,Méron,49215,Montreuil-Bellay
+49204,Le Mesnil-en-Vallée,49244,Mauges-sur-Loire
+49206,Montfaucon-Montigné,49301,Sèvremoine
+49207,Montfort,49125,Doué-en-Anjou
+49208,Montguillon,49331,Segré-en-Anjou Bleu
+49210,Montigné-sur-Moine,49301,Sèvremoine
+49212,Montjean-sur-Loire,49244,Mauges-sur-Loire
+49213,Montpollin,49018,Baugé-en-Anjou
+49225,Neuvy-en-Mauges,49092,Chemillé-en-Anjou
+49226,Noëllet,49248,Ombrée d'Anjou
+49227,Notre-Dame-d'Allençon,49086,Terranjou
+49229,Noyant-la-Gravoyère,49331,Segré-en-Anjou Bleu
+49230,Noyant-la-Plaine,49003,Tuffalun
+49232,Nueil-sur-Layon,49373,Lys-Haut-Layon
+49233,Nyoiseau,49331,Segré-en-Anjou Bleu
+49234,Parçay-les-Pins,49228,Noyant-Villages
+49238,Pellouailles-les-Vignes,49323,Verrières-en-Anjou
+49239,Le Pin-en-Mauges,49023,Beaupréau-en-Mauges
+49242,Le Plessis-Macé,49200,Longuenée-en-Anjou
+49243,La Poitevinière,49023,Beaupréau-en-Mauges
+49245,Pontigné,49018,Baugé-en-Anjou
+49249,La Pouëze,49367,Erdre-en-Anjou
+49250,La Prévière,49248,Ombrée d'Anjou
+49251,Pruillé,49200,Longuenée-en-Anjou
+49252,Le Puiset-Doré,49218,Montrevault-sur-Èvre
+49254,Querré,49080,Les Hauts-d'Anjou
+49255,Quincé,49050,Brissac-Quincé
+49256,Rablay-sur-Layon,49345,Bellevigne-en-Layon
+49258,La Renaudière,49301,Sèvremoine
+49263,Roussay,49301,Sèvremoine
+49264,Saint-André-de-la-Marche,49301,Sèvremoine
+49265,Saint-Aubin-de-Luigné,49292,Val-du-Layon
+49268,Sainte-Christine,49092,Chemillé-en-Anjou
+49270,Saint-Christophe-la-Couperie,49069,Orée d'Anjou
+49273,Saint-Crespin-sur-Moine,49301,Sèvremoine
+49274,Saint-Cyr-en-Bourg,49060,Bellevigne-les-Châteaux
+49275,Saint-Ellier,49050,Brissac Loire Aubance
+49276,Saint-Florent-le-Vieil,49244,Mauges-sur-Loire
+49277,Sainte-Gemmes-d'Andigné,49331,Segré-en-Anjou Bleu
+49279,Saint-Georges-des-Sept-Voies,49261,Gennes-Val-de-Loire
+49280,Saint-Georges-du-Bois,49138,Les Bois d'Anjou
+49281,Saint-Georges-des-Gardes,49092,Chemillé-en-Anjou
+49282,Saint-Georges-sur-Layon,49125,Doué-en-Anjou
+49285,Saint-Germain-sur-Moine,49301,Sèvremoine
+49286,Saint-Hilaire-du-Bois,49373,Vihiers
+49287,Saint-Hilaire-Saint-Florent,49328,Saumur
+49289,Saint-Jean-de-Linières,49298,Saint-Léger-de-Linières
+49290,Saint-Jean-des-Mauvrets,49167,Les Garennes sur Loire
+49293,Saint-Lambert-des-Levées,49328,Saumur
+49295,Saint-Laurent-de-la-Plaine,49244,Mauges-sur-Loire
+49296,Saint-Laurent-des-Autels,49069,Orée d'Anjou
+49297,Saint-Laurent-du-Mottay,49244,Mauges-sur-Loire
+49300,Saint-Lézin,49092,Chemillé-en-Anjou
+49303,Saint-Martin-d'Arcé,49018,Baugé-en-Anjou
+49304,Saint-Martin-de-la-Place,49261,Gennes-Val-de-Loire
+49305,Saint-Martin-du-Bois,49331,Segré-en-Anjou Bleu
+49309,Saint-Michel-et-Chanveaux,49248,Ombrée d'Anjou
+49312,Saint-Philbert-en-Mauges,49023,Beaupréau-en-Mauges
+49313,Saint-Pierre-Montlimart,49218,Montrevault-sur-Èvre
+49314,Saint-Quentin-en-Mauges,49218,Montrevault-sur-Èvre
+49315,Saint-Quentin-lès-Beaurepaire,49018,Baugé-en-Anjou
+49316,Saint-Rémy-en-Mauges,49218,Montrevault-sur-Èvre
+49317,Saint-Rémy-la-Varenne,49050,Brissac Loire Aubance
+49318,Saint-Saturnin-sur-Loire,49050,Brissac Loire Aubance
+49319,Saint-Sauveur-de-Flée,49331,Segré-en-Anjou Bleu
+49320,Saint-Sauveur-de-Landemont,49069,Orée d'Anjou
+49321,Saint-Sigismond,49160,Ingrandes-le-Fresne-sur-Loire
+49322,Saint-Sulpice,49029,Blaison-Saint-Sulpice
+49324,La Salle-et-Chapelle-Aubry,49218,Montrevault-sur-Èvre
+49325,La Salle-de-Vihiers,49092,Chemillé-en-Anjou
+49327,Saulgé-l'Hôpital,49050,Brissac Loire Aubance
+49335,Sœurdres,49080,Les Hauts-d'Anjou
+49337,Soucelles,49377,Rives-du-Loir-en-Anjou
+49340,Soulanger,49125,Doué-la-Fontaine
+49342,Tancoigné,49373,Lys-Haut-Layon
+49346,Le Thoureil,49261,Gennes-Val-de-Loire
+49348,Tigné,49373,Lys-Haut-Layon
+49349,Tillières,49301,Sèvremoine
+49350,Torfou,49301,Sèvremoine
+49351,La Tourlandry,49092,Chemillé-en-Anjou
+49354,Le Tremblay,49248,Ombrée d'Anjou
+49356,Trémont,49373,Lys-Haut-Layon
+49357,Trèves-Cunault,49261,Gennes-Val-de-Loire
+49360,La Varenne,49069,Orée d'Anjou
+49363,Vauchrétien,49050,Brissac Loire Aubance
+49365,Les Verchers-sur-Layon,49125,Doué-en-Anjou
+49366,Vergonnes,49248,Ombrée d'Anjou
+49372,Le Vieil-Baugé,49018,Baugé-en-Anjou
+49375,Villedieu-la-Blouère,49023,Beaupréau-en-Mauges
+49376,Villemoisan,49183,Val d'Erdre-Auxence
+49379,Le Voide,49373,Vihiers
+49380,Vaulandry,49018,Baugé-en-Anjou
+49382,Le Fresne-sur-Loire,49160,Ingrandes-Le Fresne sur Loire
+50001,Acqueville,50041,La Hague
+50005,Amfreville,50400,Picauville
+50007,Ancteville,50550,Saint-Sauveur-Villages
+50009,Angey,50565,Sartilly-Baie-Bocage
+50010,Angoville-au-Plain,50099,Carentan les Marais
+50011,Angoville-en-Saire,50142,Cosqueville
+50012,Angoville-sur-Ay,50267,Lessay
+50014,Anneville-sur-Mer,50215,Gouville-sur-Mer
+50015,Annoville,50272,Tourneville-sur-Mer
+50017,Ardevon,50410,Pontorson
+50018,Argouges,50487,Saint-James
+50020,Auderville,50041,La Hague
+50035,Baudreville,50236,La Haye
+50037,La Bazoge,50260,Juvigny les Vallées
+50042,Beauvoir,50042,Beauvoir
+50043,Bellefontaine,50260,Juvigny les Vallées
+50047,La Beslière,50188,Folligny
+50051,Beuzeville-au-Plain,50523,Sainte-Mère-Église
+50053,Les Biards,50256,Isigny-le-Buat
+50056,Bion,50359,Mortain-Bocage
+50057,Biville,50041,La Hague
+50061,Boisroger,50215,Gouville sur Mer
+50063,Bolleville,50236,La Haye
+50065,Boucey,50410,Pontorson
+50066,Jullouville,50066,Jullouville
+50067,La Boulouze,50531,Saint-Ovin
+50068,Bourey,50109,Cérences
+50071,Braffais,50535,Le Parc
+50073,Branville-Hague,50041,La Hague
+50075,Brectouville,50601,Torigny-les-Villes
+50080,Brévands,50099,Carentan les Marais
+50089,Brucheville,50099,Carentan-les-Marais
+50091,Le Buat,50256,Isigny-le-Buat
+50097,Canville-la-Rocque,50412,Port-Bail-sur-Mer
+50097,Canville-la-Rocque,50097,Canville-la-Rocque
+50100,Carnet,50487,Saint-James
+50102,Carolles,50102,Carolles
+50103,Carquebut,50523,Sainte-Mère-Église
+50104,Carteret,50031,Barneville-Carteret
+50107,Catz,50099,Carentan-les-Marais
+50113,Chalandrey,50256,Isigny-le-Buat
+50114,Les Chambres,50115,Le Grippon
+50116,Champcey,50565,Sartilly-Baie-Bocage
+50119,Les Champs-de-Losque,50431,Remilly Les Marais
+50122,La Chapelle-du-Fest,50444,Saint-Amand
+50123,La Chapelle-en-Juger,50239,Thèreval
+50125,Chasseguey,50260,Juvigny les Vallées
+50127,Chef-du-Pont,50523,Sainte-Mère-Église
+50128,Le Chefresne,50393,Percy-en-Normandie
+50131,Chérencé-le-Roussel,50260,Juvigny les Vallées
+50132,Les Chéris,50168,Ducey-Les Chéris
+50133,Chèvreville,50391,Grandparigny
+50134,Chevry,50363,Moyon Villages
+50136,Coigny,50273,Montsenelle
+50140,Contrières,50419,Quettreville-sur-Sienne
+50141,Cormeray,50410,Pontorson
+50153,Cretteville,50400,Picauville
+50154,La Croix-Avranchin,50487,Saint-James
+50157,Curey,50410,Pontorson
+50160,Denneville,50412,Port-Bail-sur-Mer
+50163,Digulleville,50041,La Hague
